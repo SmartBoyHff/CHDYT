@@ -1,0 +1,53 @@
+{
+	"auto_login_end":	false,
+	"synchro_nodes_luaconfig":	false,
+	"auto_login_end_val":	0,
+	"diysuit_user_item":	{
+	},
+	"diysuit_property":	[{
+			"name":	"Ð¡¹Ö",
+			"data":	{
+				"13":	"2",
+				"16":	"66",
+				"17":	"111",
+				"28":	"5",
+				"29":	"5",
+				"30":	"10",
+				"31":	"3",
+				"32":	"13"
+			}
+		}, {
+			"name":	"BOSS",
+			"data":	{
+				"13":	"2",
+				"16":	"66",
+				"18":	"111",
+				"28":	"5",
+				"29":	"5",
+				"30":	"10",
+				"31":	"3",
+				"32":	"13"
+			}
+		}, {
+			"name":	"È«Èâ",
+			"data":	{
+				"1":	"223",
+				"2":	"223",
+				"3":	"223",
+				"4":	"38",
+				"14":	"38",
+				"24":	"15",
+				"31":	"10"
+			}
+		}],
+	"diysuit_other":	[],
+	"synchro_player":	[],
+	"synchro_nodes":	[],
+	"synchro_db":	{
+		"select":	{
+		},
+		"player":	[]
+	},
+	"battle_pass":	{
+	}
+}
