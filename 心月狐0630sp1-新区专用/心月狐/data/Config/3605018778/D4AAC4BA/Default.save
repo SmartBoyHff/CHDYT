@@ -60,7 +60,7 @@
 	"item_pick_filter_6":	false,
 	"item_pick_filter_7":	false,
 	"item_pick_filter_9":	false,
-	"item_pick_sw":	false,
+	"item_pick_sw":	true,
 	"item_throw_1_sw":	false,
 	"item_throw_2":	false,
 	"item_throw_2_sw":	false,
@@ -200,7 +200,7 @@
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
-	"hotkey_hide_game":	"",
+	"hotkey_hide_game":	"Ins",
 	"hotkey_hide_ui":	"F12",
 	"hotkey_start":	"F8",
 	"hotkey_start_mouse":	"",
@@ -310,16 +310,15 @@
 			"Judge2":	{
 				"SP<=%":	"50"
 			},
-			"item":	"勇者小型魔法药水"
+			"item":	"低级 SP 巧克力"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"[无]":	""
+				"HP<=%":	"30"
 			},
 			"Judge2":	{
-				"SP<=%":	"70"
 			},
-			"item":	"自动吃普通蓝"
+			"item":	"自动吃普通红"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -327,9 +326,9 @@
 	"item_buff_data":	[],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	2107006,
+			"id":	2109301,
 			"hotkey":	"",
-			"name":	"寒冰刺",
+			"name":	"黑洞",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -342,9 +341,24 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2106002,
+			"id":	2106001,
 			"hotkey":	"",
-			"name":	"真空弹",
+			"name":	"天龙牙",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2210003,
+			"hotkey":	"",
+			"name":	"炎火蔓延",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -372,21 +386,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2211003,
-			"hotkey":	"",
-			"name":	"火焰之舞",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	2105002,
 			"hotkey":	"",
 			"name":	"多重风刃术",
@@ -402,9 +401,9 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2105001,
+			"id":	2106002,
 			"hotkey":	"",
-			"name":	"石矛术",
+			"name":	"真空弹",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -417,9 +416,24 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2104001,
+			"id":	2107002,
 			"hotkey":	"",
-			"name":	"地震术",
+			"name":	"风行天下",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2211003,
+			"hotkey":	"",
+			"name":	"火焰之舞",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

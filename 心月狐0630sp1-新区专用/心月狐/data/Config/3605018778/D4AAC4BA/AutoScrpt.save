@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	3792,
 		"script":	"魔法学院主楼",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

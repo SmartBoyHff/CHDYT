@@ -129,7 +129,7 @@
 	"path_pluginui_child5":	true,
 	"path_pluginui_child6":	true,
 	"path_pluginui_child7":	true,
-	"path_pluginui_child8":	true,
+	"path_pluginui_child8":	false,
 	"path_pluginui_child9":	true,
 	"path_pluginui_sw":	true,
 	"path_script_picture_sw1":	false,
@@ -150,7 +150,7 @@
 	"revive_print":	false,
 	"revive_situ_buff":	false,
 	"revive_sw1":	true,
-	"revive_sw2":	false,
+	"revive_sw2":	true,
 	"script_changemap":	false,
 	"script_diysw":	false,
 	"script_jump":	true,
@@ -381,8 +381,8 @@
 		}, {
 			"sw":	true,
 			"type":	"操作",
-			"name":	"优先出战:阿里亚",
-			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
+			"name":	"召唤兽出战:阿里亚",
+			"induns":	["龙猫妹妹庭院", "魔法学院主楼"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -412,13 +412,13 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·属性力药水",
-			"induns":	["魔法学院主楼"],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·魔法命中率药水",
-			"induns":	["魔法学院主楼"],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -454,7 +454,7 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:尤里亚",
-			"induns":	[],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -470,30 +470,13 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[{
-					"搜索内有首领":	""
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
 			"id":	3608215,
 			"hotkey":	"",
 			"name":	"第六感",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804240,
-			"hotkey":	"",
-			"name":	"完全打击",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -521,9 +504,24 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804200,
+			"id":	1804240,
 			"hotkey":	"",
-			"name":	"[无限]幻影鬼火",
+			"name":	"完全打击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804270,
+			"hotkey":	"",
+			"name":	"业火",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -547,9 +545,97 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[{
-					"搜索内无首领":	""
-				}],
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804220,
+			"hotkey":	"",
+			"name":	"关键安打",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804200,
+			"hotkey":	"",
+			"name":	"[无限]幻影鬼火",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3808204,
+			"hotkey":	"",
+			"name":	"【核心I】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3808207,
+			"hotkey":	"",
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3818204,
+			"hotkey":	"",
+			"name":	"【核心II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3818207,
+			"hotkey":	"",
+			"name":	"【传奇II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
@@ -564,15 +650,13 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[{
-					"搜索内无首领":	""
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804220,
+			"id":	1804210,
 			"hotkey":	"",
-			"name":	"关键安打",
+			"name":	"鬼火",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -590,7 +674,7 @@
 			"hotkey":	"",
 			"name":	"【生存本能】",
 			"judge":	[{
-					"在副本":	""
+					"在副本频道":	""
 				}],
 			"sleep":	0,
 			"auto":	true
