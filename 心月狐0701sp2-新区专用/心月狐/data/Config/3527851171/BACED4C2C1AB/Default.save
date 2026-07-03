@@ -24,26 +24,26 @@
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	false,
-	"automatic_diceboard":	false,
-	"automatic_dk":	false,
-	"automatic_dktime":	false,
+	"automatic_diceboard":	true,
+	"automatic_dk":	true,
+	"automatic_dktime":	true,
 	"automatic_explorer":	false,
 	"automatic_explorer_reward":	false,
 	"automatic_explorer_reward_time":	true,
-	"automatic_guild":	false,
-	"automatic_guildmoney":	false,
-	"automatic_ml":	false,
-	"automatic_mluse":	false,
-	"automatic_monter_book":	false,
+	"automatic_guild":	true,
+	"automatic_guildmoney":	true,
+	"automatic_ml":	true,
+	"automatic_mluse":	true,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
-	"automatic_relicchanged":	false,
-	"automatic_schedule":	false,
+	"automatic_relicchanged":	true,
+	"automatic_schedule":	true,
 	"automatic_skill_update_sw":	false,
-	"automatic_subjoin_cwzx":	false,
+	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	false,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
+	"guild_tribute_sw":	true,
 	"item_buff_check":	false,
 	"item_buff_indun":	false,
 	"item_buff_sw":	false,
@@ -83,17 +83,17 @@
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_skill_distance_sw":	false,
-	"memory_debris_time":	false,
+	"memory_debris_time":	true,
 	"mouse_rest":	false,
 	"mouse_time":	true,
 	"mouse_track":	true,
@@ -137,10 +137,10 @@
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
 	"path_subjoin_htyh":	false,
-	"path_subjoin_ksqp":	false,
+	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	false,
 	"path_subjoin_msxj_msg":	false,
-	"path_subjoin_tyjn":	false,
+	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
@@ -149,8 +149,8 @@
 	"protect_sw":	true,
 	"revive_print":	false,
 	"revive_situ_buff":	false,
-	"revive_sw1":	false,
-	"revive_sw2":	false,
+	"revive_sw1":	true,
+	"revive_sw2":	true,
 	"script_changemap":	false,
 	"script_diysw":	true,
 	"script_jump":	true,
@@ -182,7 +182,7 @@
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	false,
 	"team_accept_cmd_sw":	false,
-	"team_accept_sw":	false,
+	"team_accept_sw":	true,
 	"team_follow_sw":	false,
 	"trigger_timer_only":	true,
 	"trigger_timer_warn":	true,
@@ -196,7 +196,7 @@
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"",
+	"guild_tribute_items":	"智之石;大师活力水滴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -228,7 +228,7 @@
 	"guild_diplomacy_min":	300,
 	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	1,
-	"item_pick_time":	100,
+	"item_pick_time":	0,
 	"item_throw_1_begin":	1,
 	"item_throw_1_end":	168,
 	"item_throw_2_begin":	1,
@@ -276,7 +276,7 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -302,12 +302,83 @@
 	"item_filter_2":	[],
 	"item_filter_3":	[],
 	"item_filter_4":	[],
-	"item_use_data":	[],
+	"item_use_data":	[{
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型体力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"55"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型复合药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"50"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"蚯梨膏"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"40"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"30"
+			},
+			"item":	"牙儿酪"
+		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[],
 	"skill_attack_data":	[{
+			"sw":	false,
+			"id":	1,
+			"hotkey":	"",
+			"name":	"弱攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"在地图":	"挑战！保护天使(HARD)_88100;"
+				}],
+			"num":	0
+		}, {
 			"sw":	true,
 			"id":	32500020,
 			"hotkey":	"",
@@ -532,21 +603,25 @@
 			"judge":	[],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	300,
+			"hotkey":	"",
+			"name":	"【生存本能】1段",
+			"judge":	[{
+					"在副本频道":	""
+				}],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"script_point_data":	[{
-			"type":	"左跳",
-			"x":	"1638",
-			"y":	"511",
-			"pos1":	"左跑",
-			"pos2":	"左跑"
-		}, {
-			"type":	"上二段跳",
-			"x":	"1894",
+			"type":	"右二段跳",
+			"x":	"635",
 			"y":	"1151",
 			"pos1":	"右跑",
-			"pos2":	"左跑"
+			"pos2":	"右跑"
 		}],
 	"script_trigger_data":	[],
 	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],

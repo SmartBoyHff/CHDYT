@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -55,7 +55,7 @@
 	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	true,
 	"item_pick_filter_3":	false,
-	"item_pick_filter_4":	true,
+	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
@@ -117,7 +117,7 @@
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	false,
 	"path_line_indunopen_sw":	false,
-	"path_line_itemtime_sw":	true,
+	"path_line_itemtime_sw":	false,
 	"path_line_name_sw":	false,
 	"path_pluginui_child1":	true,
 	"path_pluginui_child10":	true,
@@ -454,10 +454,118 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:尤里亚",
+			"maps":	["时空塌陷之地_100401"],
 			"induns":	["魔法学院主楼", "龙猫妹妹庭院"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"铭·属性力药水",
+			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"铭·魔法命中率药水",
+			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"铭·魔法命中率药水",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"暴击秘药",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·秩序",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·远古",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·暴怒",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"萌新好运药水",
+			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"铭·属性力药水",
+			"maps":	["时空塌陷之地_100401"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	43181001,
+			"hotkey":	"",
+			"name":	"神圣永恒之枪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"神圣永恒之枪_431810011"
+				}, {
+					"在地图":	"时空塌陷之地_100401;"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	43171003,
+			"hotkey":	"",
+			"name":	"弗雷奇之爪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"弗雷奇之爪-暴击概率_4317109"
+				}, {
+					"在地图":	"时空塌陷之地_100401;"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804210,
+			"hotkey":	"",
+			"name":	"鬼火",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
 			"sw":	true,
 			"id":	67,
 			"hotkey":	"",
@@ -578,7 +686,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3808204,
 			"hotkey":	"",
 			"name":	"【核心I】",
@@ -593,7 +701,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3808207,
 			"hotkey":	"",
 			"name":	"【传奇】",
@@ -608,7 +716,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3818204,
 			"hotkey":	"",
 			"name":	"【核心II】",
@@ -623,7 +731,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3818207,
 			"hotkey":	"",
 			"name":	"【传奇II】",
@@ -642,21 +750,6 @@
 			"id":	1804250,
 			"hotkey":	"",
 			"name":	"神出鬼没",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804210,
-			"hotkey":	"",
-			"name":	"鬼火",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -2384,7 +2477,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,
@@ -2508,7 +2601,7 @@
 		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	true,
 		"[通用]位移技能左右释放":	true,
-		"[诡焰妖灵]鬼术:模仿":	false
+		"[诡焰妖灵]鬼术:模仿":	true
 	},
 	"revive_diy":	[],
 	"item_filter_disassemble":	[],

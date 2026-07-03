@@ -48,7 +48,7 @@
 	"item_buff_indun":	false,
 	"item_buff_sw":	false,
 	"item_disassemble_item_sw":	false,
-	"item_pick_filter_1":	false,
+	"item_pick_filter_1":	true,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	false,
 	"item_pick_filter_13":	false,
@@ -2166,7 +2166,8 @@
 		"[唤雨之灵]连招":	false,
 		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	false,
-		"[通用]位移技能左右释放":	false
+		"[通用]位移技能左右释放":	false,
+		"[诡焰妖灵]鬼术:模仿":	false
 	},
 	"revive_diy":	[],
 	"item_filter_disassemble":	[],
