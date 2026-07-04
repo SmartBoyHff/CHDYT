@@ -4,7 +4,60 @@
 	"auto_login_end_val":	0,
 	"diysuit_user_item":	{
 	},
-	"diysuit_property":	[],
+	"diysuit_property":	[{
+			"name":	"小怪",
+			"data":	{
+				"13":	"249",
+				"16":	"80",
+				"17":	"266",
+				"20":	"67",
+				"24":	"15",
+				"28":	"15",
+				"29":	"1",
+				"30":	"15",
+				"31":	"10",
+				"32":	"20"
+			}
+		}, {
+			"name":	"BOSS",
+			"data":	{
+				"13":	"249",
+				"16":	"80",
+				"18":	"266",
+				"20":	"67",
+				"24":	"15",
+				"28":	"15",
+				"29":	"1",
+				"30":	"15",
+				"31":	"10",
+				"32":	"20"
+			}
+		}, {
+			"name":	"全肉",
+			"data":	{
+				"1":	"352",
+				"2":	"352",
+				"3":	"352",
+				"4":	"352",
+				"14":	"59",
+				"19":	"11",
+				"24":	"15",
+				"26":	"11",
+				"31":	"10"
+			}
+		}, {
+			"name":	"世界BOSS",
+			"data":	{
+				"13":	"182",
+				"16":	"80",
+				"18":	"182",
+				"20":	"46",
+				"28":	"10",
+				"29":	"2",
+				"30":	"10",
+				"32":	"12"
+			}
+		}],
 	"diysuit_other":	[],
 	"synchro_player":	[],
 	"synchro_nodes":	[],
@@ -25,7 +78,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -62,11 +115,11 @@
 	"automatic_taskRemote":	false,
 	"guild_diplomacy_only":	false,
 	"guild_tribute_sw":	true,
-	"item_buff_check":	false,
+	"item_buff_check":	true,
 	"item_buff_indun":	false,
-	"item_buff_sw":	false,
+	"item_buff_sw":	true,
 	"item_disassemble_item_sw":	false,
-	"item_pick_filter_1":	true,
+	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	false,
 	"item_pick_filter_13":	false,
@@ -231,7 +284,7 @@
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	3,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
@@ -279,7 +332,7 @@
 	"automatic_zhs_time5":	0,
 	"automatic_zhs_time6":	0,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	1,
+	"config_system_type":	0,
 	"path_hide_effect_type":	0,
 	"path_pluginui_child10_type":	0,
 	"path_pluginui_child11_type":	0,
@@ -323,7 +376,7 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"70"
+				"HP<=%":	"75"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -332,7 +385,7 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"65"
+				"HP<=%":	"70"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -341,7 +394,7 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"55"
+				"HP<=%":	"65"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -350,16 +403,16 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"50"
+				"HP<=%":	"55"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"蚯梨膏"
+			"item":	"极品紫色大药罐"
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"40"
+				"HP<=%":	"45"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -368,17 +421,23 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"[无]":	""
+				"HP<=%":	"30"
 			},
 			"Judge2":	{
-				"SP<=%":	"30"
+				"[无]":	""
 			},
-			"item":	"牙儿酪"
+			"item":	"彩虹岛可乐"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[],
+	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"induns":	["艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "巴尼塔斯"],
+			"hard":	false
+		}],
 	"skill_attack_data":	[{
 			"sw":	false,
 			"id":	1,
@@ -2334,7 +2393,71 @@
 			"diyawaken":	""
 		}],
 	"trigger":	[],
-	"diytrigger":	[],
+	"diytrigger":	[{
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	false,
+			"name":	"超越点切换",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"小怪"
+					},
+					"judges":	[{
+							"搜索内无首领":	""
+						}, {
+							"未中异常状态":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"BOSS"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}, {
+							"未中异常状态":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"全肉"
+					},
+					"judges":	[{
+							"中异常状态":	""
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"HP胶布",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"HP<=%":	"50"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"大型胶布"
+					},
+					"judges":	[{
+							"搜索内有怪":	""
+						}]
+				}]
+		}],
 	"pet_build":	[],
 	"pet_sunmon_skill":	[{
 			"sw":	true,

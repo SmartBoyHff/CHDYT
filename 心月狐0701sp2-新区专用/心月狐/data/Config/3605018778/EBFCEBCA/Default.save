@@ -19,7 +19,7 @@
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
 	"auto_task_book_refresh":	true,
-	"auto_task_sw1":	true,
+	"auto_task_sw1":	false,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
@@ -47,7 +47,7 @@
 	"item_buff_check":	true,
 	"item_buff_indun":	true,
 	"item_buff_sw":	true,
-	"item_disassemble_item_sw":	false,
+	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	true,
@@ -144,7 +144,7 @@
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
-	"protect_skill_syncope_1":	false,
+	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
 	"revive_print":	false,
@@ -178,7 +178,7 @@
 	"skill_option_storage":	false,
 	"skill_option_storage2":	false,
 	"skill_option_storage3":	false,
-	"skill_shake_sw":	false,
+	"skill_shake_sw":	true,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	false,
 	"team_accept_cmd_sw":	false,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	119,
+	"server":	110,
 	"item_filter_1":	[],
 	"item_filter_2":	[190081001],
 	"item_filter_3":	[190081001],
@@ -305,7 +305,7 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"70"
+				"HP<=%":	"75"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -314,7 +314,7 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"65"
+				"HP<=%":	"70"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -323,7 +323,7 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"55"
+				"HP<=%":	"65"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -332,17 +332,47 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"40"
+				"HP<=%":	"55"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"极品紫色大药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"45"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
 			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"30"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"物品",
+			"name":	"羁绊之羽",
+			"induns":	["泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"induns":	["泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
+			"hard":	false
+		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 1000%(不可存仓)",
@@ -380,6 +410,12 @@
 			"hard":	false
 		}, {
 			"sw":	true,
+			"type":	"物品",
+			"name":	"回忆の沙漏",
+			"induns":	["泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:阿里亚",
 			"induns":	["龙猫妹妹庭院", "魔法学院主楼", "心脏的记忆"],
@@ -412,13 +448,13 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·属性力药水",
-			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆"],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "珊瑚之歌", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·魔法命中率药水",
-			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆"],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "珊瑚之歌", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -455,25 +491,25 @@
 			"type":	"操作",
 			"name":	"召唤兽出战:尤里亚",
 			"maps":	["时空塌陷之地_100401"],
-			"induns":	["魔法学院主楼", "龙猫妹妹庭院"],
+			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "珊瑚之歌"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·属性力药水",
-			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱"],
+			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "泡泡战舰", "黄昏教堂", "消失的星之歌", "卡伊洛斯的时间", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "希列", "盟约圣地", "幻之摇篮", "玫瑰庭院"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·魔法命中率药水",
-			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱"],
+			"induns":	["炼狱阿兹雷尔", "巴尼塔斯", "回声泉", "冰狱", "艾乌加蒙剧场", "深渊之镜", "流水回廊", "泡泡战舰", "黄昏教堂", "消失的星之歌", "普洛菲司台", "霍普占卜室", "卡伊洛斯的时间", "哈姆克公爵府", "阿科洛之棺", "圣字教堂", "希列", "盟约圣地", "幻之摇篮", "玫瑰庭院"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·魔法命中率药水",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -485,31 +521,44 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"萌新好运药水",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"铭·属性力药水",
 			"maps":	["时空塌陷之地_100401"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"induns":	["泡泡战舰", "珊瑚之歌", "魔发城堡", "深渊之镜", "艾乌加蒙剧场", "炼狱阿兹雷尔", "巴尼塔斯"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"拉皮德的魔能合剂",
+			"maps":	["时空塌陷之地_100406"],
+			"induns":	[],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -551,7 +600,7 @@
 				}],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	1804210,
 			"hotkey":	"",
 			"name":	"鬼火",
@@ -2604,9 +2653,33 @@
 		"[诡焰妖灵]鬼术:模仿":	true
 	},
 	"revive_diy":	[],
-	"item_filter_disassemble":	[],
+	"item_filter_disassemble":	[{
+			"sw":	true,
+			"vague":	true,
+			"name":	"贯穿力 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"固定减伤 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}],
 	"chaosbranch":	[4001, 4016, 1026, 3001, 2001, 1001, 4002, 3002, 2002, 1002, 4003, 3003, 2003, 1003, 4011, 3011, 2011, 1011, 4012, 3012, 2012, 1012, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4006, 3006, 2006, 1006, 4014, 3014, 4028, 3028, 2028, 1028, 2014, 1014, 4015, 4009, 3009, 2009, 1009, 4010, 3010, 2010, 1010, 1007, 2007, 3007, 4007, 1008, 2008, 3008, 4008, 1017, 2017, 3017, 4017, 1018, 2018, 3018, 4018, 1019, 2019, 3019, 4019, 1020, 2020, 3020, 4020, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 11025, 13025, 21025, 23025, 31025, 33025, 41025, 43025, 51025, 53025, 1034, 2034, 3034, 4034, 1023, 2023, 3023, 4023, 1024, 2024, 3024, 4024, 1021, 2021, 3021, 2025, 1022, 2022, 3022, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 62026, 63026, 72026, 73026, 4027, 4022, 1013, 2013, 3013, 4013, 4021],
-	"autosystemscript":	["购买火山飞翔石"],
+	"autosystemscript":	[],
 	"shak_skill":	[{
 			"sw":	true,
 			"id":	1804320,
@@ -2623,7 +2696,7 @@
 			"name":	"业火",
 			"reverse":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	1804210,
 			"name":	"鬼火",
 			"reverse":	false
