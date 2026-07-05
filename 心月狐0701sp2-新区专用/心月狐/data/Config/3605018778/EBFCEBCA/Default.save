@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -261,7 +261,7 @@
 	"automatic_zhs_time5":	0,
 	"automatic_zhs_time6":	0,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	1,
+	"config_system_type":	0,
 	"path_hide_effect_type":	0,
 	"path_pluginui_child10_type":	0,
 	"path_pluginui_child11_type":	0,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	110,
+	"server":	119,
 	"item_filter_1":	[],
 	"item_filter_2":	[190081001],
 	"item_filter_3":	[190081001],
@@ -490,7 +490,7 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:尤里亚",
-			"maps":	["时空塌陷之地_100401"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100409"],
 			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "珊瑚之歌"],
 			"hard":	false
 		}, {
@@ -521,19 +521,19 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406", "时空塌陷之地_100409"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406", "时空塌陷之地_100409"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100406", "时空塌陷之地_100409"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -600,7 +600,7 @@
 				}],
 			"num":	0
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	1804210,
 			"hotkey":	"",
 			"name":	"鬼火",

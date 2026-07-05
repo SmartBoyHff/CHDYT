@@ -5,7 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14846,
-		"script":	"空中战场",
-		"task":	0
+		"tag":	25618,
+		"script":	"龙之峡谷",
+		"task":	0,
+		"scriptend":	5
 	}]

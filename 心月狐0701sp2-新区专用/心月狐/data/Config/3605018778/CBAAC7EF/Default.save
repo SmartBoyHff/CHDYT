@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
@@ -120,7 +120,7 @@
 	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_pluginui_child1":	true,
-	"path_pluginui_child10":	true,
+	"path_pluginui_child10":	false,
 	"path_pluginui_child11":	true,
 	"path_pluginui_child12":	false,
 	"path_pluginui_child2":	true,
@@ -213,7 +213,7 @@
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	3,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
@@ -261,7 +261,7 @@
 	"automatic_zhs_time5":	0,
 	"automatic_zhs_time6":	0,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	0,
+	"config_system_type":	1,
 	"path_hide_effect_type":	0,
 	"path_pluginui_child10_type":	0,
 	"path_pluginui_child11_type":	0,
@@ -276,7 +276,7 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -297,17 +297,86 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	110,
+	"server":	119,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
 	"item_filter_4":	[],
-	"item_use_data":	[],
+	"item_use_data":	[{
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"75"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型体力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型复合药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"55"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"极品紫色大药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"45"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"30"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
+		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[],
 	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	3606003,
+			"hotkey":	"",
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
 			"sw":	true,
 			"id":	1759103,
 			"hotkey":	"",
@@ -402,6 +471,96 @@
 			"id":	1760101,
 			"hotkey":	"",
 			"name":	"分崩离析",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1760102,
+			"hotkey":	"",
+			"name":	"斧钺之诛",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1759108,
+			"hotkey":	"",
+			"name":	"雾集云合",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3806004,
+			"hotkey":	"",
+			"name":	"【核心I】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3806007,
+			"hotkey":	"",
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3816007,
+			"hotkey":	"",
+			"name":	"【传奇II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3816004,
+			"hotkey":	"",
+			"name":	"【核心II】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,

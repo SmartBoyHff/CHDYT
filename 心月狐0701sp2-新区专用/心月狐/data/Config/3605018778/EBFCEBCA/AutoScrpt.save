@@ -5,7 +5,19 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7343,
-		"script":	"泡泡战舰",
-		"task":	0
+		"tag":	6770,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0,
+		"scriptend":	6
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	28199,
+		"script":	"圣字教堂",
+		"task":	0,
+		"scriptend":	6
 	}]
