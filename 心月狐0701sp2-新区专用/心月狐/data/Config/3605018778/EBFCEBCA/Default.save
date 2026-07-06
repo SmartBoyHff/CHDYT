@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -115,7 +115,7 @@
 	"path_down_hotkey_sw":	false,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
-	"path_line_deliver_sw":	false,
+	"path_line_deliver_sw":	true,
 	"path_line_indunopen_sw":	false,
 	"path_line_itemtime_sw":	false,
 	"path_line_name_sw":	false,
@@ -253,7 +253,7 @@
 	"auto_end_plan_val":	-1,
 	"auto_set_boss_hp_show":	0,
 	"auto_set_boss_hp_type":	0,
-	"automatic_pupu_val":	15,
+	"automatic_pupu_val":	5,
 	"automatic_zhs_time1":	0,
 	"automatic_zhs_time2":	0,
 	"automatic_zhs_time3":	0,
@@ -261,7 +261,7 @@
 	"automatic_zhs_time5":	0,
 	"automatic_zhs_time6":	0,
 	"automatic_zhs_time7":	0,
-	"config_system_type":	0,
+	"config_system_type":	1,
 	"path_hide_effect_type":	0,
 	"path_pluginui_child10_type":	0,
 	"path_pluginui_child11_type":	0,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	119,
+	"server":	120,
 	"item_filter_1":	[],
 	"item_filter_2":	[190081001],
 	"item_filter_3":	[190081001],
@@ -558,11 +558,11 @@
 			"type":	"物品",
 			"name":	"拉皮德的魔能合剂",
 			"maps":	["时空塌陷之地_100406"],
-			"induns":	[],
+			"induns":	["残缺边界", "普累罗麻", "埃吉尔遗迹", "阿特拉斯庭院", "水下培养皿·失魂寺", "魔发城堡", "珊瑚之歌", "消失的星之歌", "黄昏教堂"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
-			"sw":	true,
+			"sw":	false,
 			"id":	43181001,
 			"hotkey":	"",
 			"name":	"神圣永恒之枪",
@@ -574,14 +574,10 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[{
-					"没有BUFF":	"神圣永恒之枪_431810011"
-				}, {
-					"在地图":	"时空塌陷之地_100401;"
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	43171003,
 			"hotkey":	"",
 			"name":	"弗雷奇之爪",
@@ -593,11 +589,7 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[{
-					"没有BUFF":	"弗雷奇之爪-暴击概率_4317109"
-				}, {
-					"在地图":	"时空塌陷之地_100401;"
-				}],
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
@@ -609,6 +601,36 @@
 			"priority":	false,
 			"intact":	false,
 			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	1,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3818207,
+			"hotkey":	"",
+			"name":	"【传奇II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3808207,
+			"hotkey":	"",
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
@@ -646,24 +668,9 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804230,
+			"id":	1804260,
 			"hotkey":	"",
-			"name":	"本垒打！",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804240,
-			"hotkey":	"",
-			"name":	"完全打击",
+			"name":	"百鬼夜行",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -691,9 +698,39 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804260,
+			"id":	1804240,
 			"hotkey":	"",
-			"name":	"百鬼夜行",
+			"name":	"完全打击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804230,
+			"hotkey":	"",
+			"name":	"本垒打！",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1804250,
+			"hotkey":	"",
+			"name":	"神出鬼没",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -736,36 +773,6 @@
 			"num":	0
 		}, {
 			"sw":	false,
-			"id":	3808204,
-			"hotkey":	"",
-			"name":	"【核心I】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
-			"id":	3808207,
-			"hotkey":	"",
-			"name":	"【传奇】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
 			"id":	3818204,
 			"hotkey":	"",
 			"name":	"【核心II】",
@@ -781,24 +788,9 @@
 			"num":	0
 		}, {
 			"sw":	false,
-			"id":	3818207,
+			"id":	3808204,
 			"hotkey":	"",
-			"name":	"【传奇II】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804250,
-			"hotkey":	"",
-			"name":	"神出鬼没",
+			"name":	"【核心I】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -2526,7 +2518,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	false,
+			"sw":	true,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,

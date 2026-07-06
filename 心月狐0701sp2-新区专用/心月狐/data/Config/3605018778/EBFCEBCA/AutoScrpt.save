@@ -1,12 +1,12 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6770,
-		"script":	"竞技场练习赛（全部任务）",
+		"tag":	26422,
+		"script":	"魔发城堡",
 		"task":	0,
 		"scriptend":	6
 	}, {
@@ -16,8 +16,77 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28199,
-		"script":	"圣字教堂",
-		"task":	0,
-		"scriptend":	6
+		"tag":	940,
+		"script":	"索拉城斗兽场",
+		"task":	100002
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3236,
+		"script":	"索拉城斗兽场",
+		"task":	100004
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	8236,
+		"script":	"春植岛纪念馆",
+		"task":	100022
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9819,
+		"script":	"春植岛纪念馆",
+		"task":	100024
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11962,
+		"script":	"遗忘花园",
+		"task":	100040
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14463,
+		"script":	"保管异面不祥书籍(2)",
+		"task":	100074
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15991,
+		"script":	"欧若拉奇妙物语(3)",
+		"task":	100079
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17624,
+		"script":	"惩罚干扰修炼之人(4)",
+		"task":	100099
 	}]
