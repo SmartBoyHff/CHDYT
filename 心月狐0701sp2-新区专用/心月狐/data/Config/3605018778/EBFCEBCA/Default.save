@@ -14,7 +14,7 @@
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
-	"auto_set_boss_team":	false,
+	"auto_set_boss_team":	true,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
@@ -213,11 +213,11 @@
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
-	"auto_set_boss_team_val":	300,
+	"auto_set_boss_team_val":	5,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	120,
+	"server":	119,
 	"item_filter_1":	[],
 	"item_filter_2":	[190081001],
 	"item_filter_3":	[190081001],
@@ -427,13 +427,13 @@
 			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"induns":	["魔法学院主楼", "龙猫妹妹庭院", "心脏的记忆", "克洛诺斯的时间", "泡泡战舰", "珊瑚之歌", "魔发城堡", "普塞乌达里亚"],
@@ -607,7 +607,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3818207,
 			"hotkey":	"",
 			"name":	"【传奇II】",
@@ -622,7 +622,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3808207,
 			"hotkey":	"",
 			"name":	"【传奇】",
