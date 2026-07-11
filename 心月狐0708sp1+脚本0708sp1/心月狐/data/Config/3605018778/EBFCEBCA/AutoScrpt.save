@@ -1,22 +1,11 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17597,
-		"script":	"混乱世界",
+		"tag":	26975,
+		"script":	"普塞乌达里亚",
 		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	28723,
-		"script":	"无尽繁星大厅",
-		"task":	0,
-		"scriptend":	11
 	}]

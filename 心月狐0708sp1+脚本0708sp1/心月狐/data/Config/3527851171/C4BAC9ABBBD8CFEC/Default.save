@@ -25,29 +25,29 @@
 	"auto_team_world_room_leader":	false,
 	"automatic_book":	false,
 	"automatic_diceboard":	true,
-	"automatic_dk":	false,
-	"automatic_dktime":	false,
+	"automatic_dk":	true,
+	"automatic_dktime":	true,
 	"automatic_explorer":	false,
 	"automatic_explorer_reward":	false,
 	"automatic_explorer_reward_time":	true,
-	"automatic_guild":	false,
-	"automatic_guildmoney":	false,
+	"automatic_guild":	true,
+	"automatic_guildmoney":	true,
 	"automatic_ml":	true,
 	"automatic_mluse":	true,
-	"automatic_monter_book":	false,
+	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
 	"automatic_relicchanged":	false,
-	"automatic_schedule":	false,
+	"automatic_schedule":	true,
 	"automatic_skill_update_sw":	false,
-	"automatic_subjoin_cwzx":	false,
-	"automatic_taskRemote":	true,
+	"automatic_subjoin_cwzx":	true,
+	"automatic_taskRemote":	false,
 	"guild_diplomacy_only":	false,
-	"guild_tribute_sw":	false,
-	"item_buff_check":	false,
+	"guild_tribute_sw":	true,
+	"item_buff_check":	true,
 	"item_buff_indun":	false,
-	"item_buff_sw":	false,
-	"item_disassemble_item_sw":	false,
+	"item_buff_sw":	true,
+	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	true,
 	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	false,
@@ -213,7 +213,7 @@
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	3,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
@@ -305,17 +305,68 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"[无]":	""
+				"HP<=%":	"75"
 			},
 			"Judge2":	{
-				"SP<=%":	"40"
+				"[无]":	""
 			},
-			"item":	"低级 SP 巧克力"
+			"item":	"勇者小型体力药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"70"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"勇者小型复合药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"55"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"极品紫色大药罐"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"45"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 大型葡萄药丸"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"30"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"彩虹岛可乐"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
 	},
-	"item_buff_data":	[],
+	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"物品",
+			"name":	"希望的减伤药水",
+			"induns":	["艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "巴尼塔斯"],
+			"hard":	false
+		}],
 	"skill_attack_data":	[{
 			"sw":	true,
 			"id":	3110149,
@@ -2213,7 +2264,71 @@
 			"diyawaken":	""
 		}],
 	"trigger":	[],
-	"diytrigger":	[],
+	"diytrigger":	[{
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	false,
+			"name":	"超越点切换",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"小怪"
+					},
+					"judges":	[{
+							"搜索内无首领":	""
+						}, {
+							"未中异常状态":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"BOSS"
+					},
+					"judges":	[{
+							"搜索内有首领":	""
+						}, {
+							"未中异常状态":	""
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"超越搭配":	"全肉"
+					},
+					"judges":	[{
+							"中异常状态":	""
+						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"HP胶布",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"HP<=%":	"50"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"大型胶布"
+					},
+					"judges":	[{
+							"搜索内有怪":	""
+						}]
+				}]
+		}],
 	"pet_build":	[],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -2264,9 +2379,45 @@
 		"[诡焰妖灵]鬼术:模仿":	false
 	},
 	"revive_diy":	[],
-	"item_filter_disassemble":	[],
+	"item_filter_disassemble":	[{
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣域黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣域蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣域红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}],
 	"chaosbranch":	[4001, 4016, 1026, 3001, 2001, 1001, 4002, 3002, 2002, 1002, 4003, 3003, 2003, 1003, 4011, 3011, 2011, 1011, 4012, 3012, 2012, 1012, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4006, 3006, 2006, 1006, 4014, 3014, 4028, 3028, 2028, 1028, 2014, 1014, 4015, 4009, 3009, 2009, 1009, 4010, 3010, 2010, 1010, 1007, 2007, 3007, 4007, 1008, 2008, 3008, 4008, 1017, 2017, 3017, 4017, 1018, 2018, 3018, 4018, 1019, 2019, 3019, 4019, 1020, 2020, 3020, 4020, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 11025, 13025, 21025, 23025, 31025, 33025, 41025, 43025, 51025, 53025, 1034, 2034, 3034, 4034, 1023, 2023, 3023, 4023, 1024, 2024, 3024, 4024, 1021, 2021, 3021, 2025, 1022, 2022, 3022, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 62026, 63026, 72026, 73026, 4027, 4022, 1013, 2013, 3013, 4013, 4021],
-	"autosystemscript":	[],
+	"autosystemscript":	["购买火山飞翔石", "兑换【签到】方块奖励"],
 	"shak_skill":	[{
 			"sw":	true,
 			"id":	1210014,

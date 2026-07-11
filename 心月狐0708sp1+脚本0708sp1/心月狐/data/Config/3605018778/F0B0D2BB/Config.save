@@ -84,6 +84,15 @@
 				"[无]":	""
 			},
 			"item":	"牙儿酪"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"30"
+			},
+			"item":	"自动吃普通蓝"
 		}],
 	"item_buff_sw":	true,
 	"item_buff_indun":	true,
@@ -239,17 +248,17 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"拉皮德的铁盾药剂",
-			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔"],
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
 			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
-			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔"],
+			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
-	"store_items":	"",
+	"store_items":	"时间长轴;弥修斯的愤怒;拉斐拉的羽毛装饰;赫尔之戒碎片;火焰龙的角;莫尔迦娜的吊坠;金色圣杯;莫林锁链背带;银色石板;银色原石;天马的羽毛;莫德雷德的橙色蝴蝶结;",
 	"guild_tribute_sw":	true,
 	"guild_diplomacy_min":	300,
 	"guild_diplomacy_only":	false,
@@ -611,7 +620,7 @@
 	"summon_automatic_zhs_refresh6":	0,
 	"automatic_zhs_time7":	0,
 	"summon_automatic_zhs_refresh7":	0,
-	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145624, 190145625, 190148179, 201901183, 201901186, 201901189, 202401183, 202401186, 202401189],
 	"automatic_pupu":	true,
 	"automatic_pupu_val":	5,
 	"automatic_ml":	true,
@@ -686,6 +695,30 @@
 		}, {
 			"type":	"任务",
 			"name":	"古龙部族遗落的标徽"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 防御力黄色宝石"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 幸运黄色宝石"
+		}, {
+			"type":	"装备",
+			"name":	"神族后裔 魔法力蓝色宝石"
+		}, {
+			"type":	"全部",
+			"name":	"封魔旅者卷轴"
+		}, {
+			"type":	"全部",
+			"name":	"封魔术士卷轴"
+		}, {
+			"type":	"全部",
+			"name":	"封魔流浪剑客卷轴"
+		}, {
+			"type":	"全部",
+			"name":	"英雄的天空之傀儡卷轴"
+		}, {
+			"type":	"全部",
+			"name":	"英雄的天空之黑暗战士卷轴"
 		}],
 	"item_filter_throw_data_2":	[],
 	"item_disassemble_item_sw":	true,
@@ -750,10 +783,226 @@
 			"filter3":	false,
 			"filter4":	true,
 			"filter5":	true
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暴击伤害&最小伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暴击率&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"贯穿力&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"经验值&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暴击伤害&经验值 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"经验值&最小伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"经验值&暴击率 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"固定减伤&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暴击伤害&暴击率 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"最大生命值&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"固定减伤&经验值 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"最大生命值&经验值 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"最小伤害&暴击率 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"暴击伤害&最大生命值 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"最大生命值&最小伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"最小伤害&最大伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"固定减伤&最小伤害 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"索拉",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
 		}],
 	"item_filter_1":	[],
-	"item_filter_2":	[190081001],
-	"item_filter_3":	[190081001],
+	"item_filter_2":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
+	"item_filter_3":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
 	"item_filter_4":	[],
 	"diytrigger":	[{
 			"only_run":	false,

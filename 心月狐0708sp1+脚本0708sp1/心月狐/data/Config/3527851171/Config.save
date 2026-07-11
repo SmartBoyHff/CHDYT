@@ -1,6 +1,6 @@
 {
 	"auto_login_end":	false,
-	"synchro_nodes_luaconfig":	false,
+	"synchro_nodes_luaconfig":	true,
 	"auto_login_end_val":	0,
 	"diysuit_user_item":	{
 	},
@@ -59,8 +59,8 @@
 			}
 		}],
 	"diysuit_other":	[],
-	"synchro_player":	[],
-	"synchro_nodes":	[],
+	"synchro_player":	["何月莲", "暮色回响", "玛薇卡", "林蕴徽", "夜暮", "何银儿", "童倩", "旧梦如风", "柠染"],
+	"synchro_nodes":	["[保护]保护吃药", "[保护]其他操作", "[便捷]存取材料", "[操作]家族外交", "[操作]召唤兽训练", "[操作]自动操作", "[技能]智能联合宠技", "[脚本]脚本设置", "[脚本]组队设置", "[物品]丢弃设置", "[物品]模糊丢弃", "[物品]模糊拾取", "[物品]物品分解", "[物品]物品设置", "[指令]DIY指令", "[自动]补给脚本"],
 	"synchro_db":	{
 		"select":	{
 		},
