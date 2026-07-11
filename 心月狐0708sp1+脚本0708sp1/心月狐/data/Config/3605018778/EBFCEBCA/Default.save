@@ -1,20 +1,20 @@
 {
 	"auto_card_collect_sw":	true,
 	"auto_card_open_sw":	false,
-	"auto_end_item":	true,
+	"auto_end_item":	false,
 	"auto_end_lua":	false,
 	"auto_end_plan":	false,
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
-	"auto_set_boss_team":	true,
+	"auto_set_boss_team":	false,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
@@ -50,11 +50,11 @@
 	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
-	"item_pick_filter_12":	true,
-	"item_pick_filter_13":	true,
+	"item_pick_filter_12":	false,
+	"item_pick_filter_13":	false,
 	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
-	"item_pick_filter_3":	false,
+	"item_pick_filter_3":	true,
 	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
@@ -117,7 +117,7 @@
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	true,
 	"path_line_indunopen_sw":	false,
-	"path_line_itemtime_sw":	false,
+	"path_line_itemtime_sw":	true,
 	"path_line_name_sw":	false,
 	"path_pluginui_child1":	true,
 	"path_pluginui_child10":	true,
@@ -186,10 +186,10 @@
 	"team_follow_sw":	false,
 	"trigger_timer_only":	true,
 	"trigger_timer_warn":	true,
-	"auto_end_item_val":	"超能探索券[活动]",
+	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"打本",
+	"auto_set_diyitem":	"",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
@@ -217,7 +217,7 @@
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
-	"auto_set_boss_team_val":	5,
+	"auto_set_boss_team_val":	300,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -228,7 +228,7 @@
 	"guild_diplomacy_min":	300,
 	"guild_diplomacy_min2":	300,
 	"item_disassemble_item_time":	1,
-	"item_pick_time":	0,
+	"item_pick_time":	100,
 	"item_throw_1_begin":	1,
 	"item_throw_1_end":	168,
 	"item_throw_2_begin":	1,
@@ -366,7 +366,7 @@
 			},
 			"item":	"彩虹岛可乐"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"100"
 			},
@@ -529,19 +529,19 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -553,7 +553,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
@@ -603,7 +603,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3820001,
 			"hotkey":	"",
 			"name":	"魔法球板",
@@ -618,7 +618,7 @@
 			"judge":	[],
 			"num":	5
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3818207,
 			"hotkey":	"",
 			"name":	"【传奇II】",
@@ -633,7 +633,7 @@
 			"judge":	[],
 			"num":	8
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3808207,
 			"hotkey":	"",
 			"name":	"【传奇】",
@@ -783,7 +783,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3818204,
 			"hotkey":	"",
 			"name":	"【核心II】",
@@ -798,7 +798,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"id":	3808204,
 			"hotkey":	"",
 			"name":	"【核心I】",
@@ -2473,7 +2473,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,
@@ -2551,13 +2551,21 @@
 				}]
 		}],
 	"pet_build":	[{
-			"sw":	false,
+			"sw":	true,
 			"id":	11080101,
 			"name":	"滑不溜秋"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	11080102,
 			"name":	"倪倪撞击"
+		}, {
+			"sw":	true,
+			"id":	1999002,
+			"name":	"春植之光"
+		}, {
+			"sw":	true,
+			"id":	1999001,
+			"name":	"喵之蜷缩"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -2882,6 +2890,114 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 最大生命值黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 体力黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法贯穿力蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 速度红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最大伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理最小伤害红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最小伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}],

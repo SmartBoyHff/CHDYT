@@ -5,9 +5,9 @@
 	"auto_end_lua":	false,
 	"auto_end_plan":	false,
 	"auto_load_change":	false,
-	"auto_load_task":	true,
+	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -50,11 +50,11 @@
 	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
-	"item_pick_filter_12":	true,
-	"item_pick_filter_13":	true,
+	"item_pick_filter_12":	false,
+	"item_pick_filter_13":	false,
 	"item_pick_filter_14":	false,
-	"item_pick_filter_2":	true,
-	"item_pick_filter_3":	false,
+	"item_pick_filter_2":	false,
+	"item_pick_filter_3":	true,
 	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
@@ -189,7 +189,7 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"打本",
+	"auto_set_diyitem":	"",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
@@ -366,7 +366,7 @@
 			},
 			"item":	"彩虹岛可乐"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"100"
 			},
@@ -529,19 +529,19 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -553,7 +553,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
@@ -2393,7 +2393,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,
@@ -2471,13 +2471,21 @@
 				}]
 		}],
 	"pet_build":	[{
-			"sw":	false,
+			"sw":	true,
 			"id":	11080101,
 			"name":	"滑不溜秋"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	11080102,
 			"name":	"倪倪撞击"
+		}, {
+			"sw":	true,
+			"id":	1999002,
+			"name":	"春植之光"
+		}, {
+			"sw":	true,
+			"id":	1999001,
+			"name":	"喵之蜷缩"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -2802,6 +2810,114 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 最大生命值黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 体力黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法贯穿力蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 速度红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最大伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理最小伤害红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最小伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}],

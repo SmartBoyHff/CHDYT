@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -18,8 +18,8 @@
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
-	"auto_task_book_refresh":	false,
-	"auto_task_sw1":	false,
+	"auto_task_book_refresh":	true,
+	"auto_task_sw1":	true,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
 	"auto_team_world_room_leader":	false,
@@ -27,7 +27,7 @@
 	"automatic_diceboard":	true,
 	"automatic_dk":	true,
 	"automatic_dktime":	true,
-	"automatic_explorer":	false,
+	"automatic_explorer":	true,
 	"automatic_explorer_reward":	false,
 	"automatic_explorer_reward_time":	true,
 	"automatic_guild":	true,
@@ -37,7 +37,7 @@
 	"automatic_monter_book":	true,
 	"automatic_phb":	false,
 	"automatic_pupu":	false,
-	"automatic_relicchanged":	false,
+	"automatic_relicchanged":	true,
 	"automatic_schedule":	true,
 	"automatic_skill_update_sw":	false,
 	"automatic_subjoin_cwzx":	true,
@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
@@ -112,7 +112,7 @@
 	"path_auto_script_door_sw":	true,
 	"path_auto_script_showval2_sw":	false,
 	"path_auto_script_showval_sw":	true,
-	"path_down_hotkey_sw":	false,
+	"path_down_hotkey_sw":	true,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -129,7 +129,7 @@
 	"path_pluginui_child5":	true,
 	"path_pluginui_child6":	true,
 	"path_pluginui_child7":	true,
-	"path_pluginui_child8":	true,
+	"path_pluginui_child8":	false,
 	"path_pluginui_child9":	true,
 	"path_pluginui_sw":	true,
 	"path_script_picture_sw1":	false,
@@ -161,26 +161,26 @@
 	"skill_buff_pet_sw":	false,
 	"skill_buff_server":	false,
 	"skill_option_boss_judge":	false,
-	"skill_option_boss_number":	false,
+	"skill_option_boss_number":	true,
 	"skill_option_combo_off":	false,
 	"skill_option_jump_off1":	false,
 	"skill_option_jump_off2":	false,
-	"skill_option_lr":	false,
-	"skill_option_lr_boss":	false,
+	"skill_option_lr":	true,
+	"skill_option_lr_boss":	true,
 	"skill_option_mounts":	false,
-	"skill_option_platform_skill":	false,
+	"skill_option_platform_skill":	true,
 	"skill_option_puppet":	false,
-	"skill_option_repeat":	false,
+	"skill_option_repeat":	true,
 	"skill_option_slide_off":	false,
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	false,
-	"skill_option_stop_skill_all":	false,
+	"skill_option_stop_skill_all":	true,
 	"skill_option_storage":	false,
 	"skill_option_storage2":	false,
 	"skill_option_storage3":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
-	"summon_automatic_zhs":	false,
+	"summon_automatic_zhs":	true,
 	"team_accept_cmd_sw":	false,
 	"team_accept_sw":	false,
 	"team_follow_sw":	false,
@@ -189,14 +189,14 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"",
+	"auto_set_diyitem":	"打本",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"guild_tribute_items":	"",
+	"guild_tribute_items":	"智之石;中级冒险家情报卷轴;高级冒险家情报卷轴;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
 	"hotkey_end_playmouse":	"",
@@ -276,9 +276,9 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
-	"skill_option_platform_skill_v":	0,
+	"skill_option_platform_skill_v":	1,
 	"skill_option_sombra_val":	0,
 	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	119,
+	"server":	115,
 	"item_filter_1":	[],
 	"item_filter_2":	[],
 	"item_filter_3":	[],
@@ -305,12 +305,12 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"75"
+				"HP<=%":	"80"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"勇者小型体力药水"
+			"item":	"蚯梨膏"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -319,11 +319,20 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 小型樱桃药水"
+			"item":	"勇者小型体力药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"60"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -350,12 +359,38 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"30"
+				"HP<=%":	"35"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
 			"item":	"彩虹岛可乐"
+		}, {
+			"sw":	false,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"金闪闪钱袋"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+			},
+			"Judge2":	{
+				"SP<=%":	"45"
+			},
+			"item":	"牙儿酪"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"30"
+			},
+			"item":	"勇者小型魔法药水"
 		}],
 	"protec_data":	[],
 	"protec_recover_data":	{
@@ -363,8 +398,162 @@
 	"item_buff_data":	[{
 			"sw":	true,
 			"type":	"物品",
-			"name":	"希望的减伤药水",
-			"induns":	["艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "巴尼塔斯"],
+			"name":	"羁绊之羽",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值的秘药 1000%(不可存仓)",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"高级温泉蛋",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值秘药",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·印记",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值的秘药 800%(不可交易)",
+			"maps":	[],
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"水蜜桃味全糖蜜果",
+			"maps":	[],
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:使用七彩玲珑",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"回忆の沙漏",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:阿里亚",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"自动装备:经验戒指",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[神·圣灵之拥]",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[魔·冥界之翼]",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:卡勒迪安",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:伊雷泽",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:缇尔沃特",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:贝尔特利切",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:龙猫理查",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:尤里亚",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"暴击秘药",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·秩序",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·远古",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·暴怒",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"拉皮德的铁盾药剂",
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "卡伊洛斯的时间", "消失的星之歌", "黄昏教堂", "黑月的考验", "大地的考验", "穿梭之都", "时空之泉", "水下培养皿·失魂寺", "智海", "伊卡洛斯之翼", "铁之考验", "赫利波尔要塞", "葬剑幻谷", "曼赤肯仓库", "翡翠世界", "归元木匣", "被吞噬的魔法办公楼", "蘑菇树沼泽", "丽西泰亚之门", "摩克沙", "诺尼尔之泪", "薇娅斯梦境", "尼夫海姆站", "穆斯菲尔斯隧道", "精灵树桩", "生命之恩泰莱凯", "未知森林"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"青苹果味全糖蜜果",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -405,6 +594,36 @@
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3813807,
+			"hotkey":	"",
+			"name":	"【传奇II】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	5
+		}, {
+			"sw":	true,
+			"id":	3803807,
+			"hotkey":	"",
+			"name":	"【传奇】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -459,38 +678,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1109304,
-			"hotkey":	"",
-			"name":	"重甲冲锋",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"搜索内有首领":	""
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1802407,
-			"hotkey":	"",
-			"name":	"暴怒雷霆",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	1211006,
 			"hotkey":	"",
 			"name":	"神怒爆裂",
@@ -506,13 +693,13 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1802406,
+			"id":	1210006,
 			"hotkey":	"",
-			"name":	"[无限]雷神之锤",
+			"name":	"力量回旋",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
+			"priority":	true,
+			"intact":	true,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
@@ -536,12 +723,12 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1210006,
+			"id":	1109304,
 			"hotkey":	"",
-			"name":	"力量回旋",
+			"name":	"重甲冲锋",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -550,6 +737,21 @@
 			"judge":	[{
 					"搜索内无首领":	""
 				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802406,
+			"hotkey":	"",
+			"name":	"[无限]雷神之锤",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
 			"num":	0
 		}, {
 			"sw":	true,
@@ -566,13 +768,28 @@
 			"skillud":	0,
 			"judge":	[],
 			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802407,
+			"hotkey":	"",
+			"name":	"暴怒雷霆",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
 		}],
 	"skill_buff_data":	[],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"script_point_data":	[],
 	"script_trigger_data":	[],
-	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145624, 190145625, 190148179, 201901183, 201901186, 201901189, 202401183, 202401186, 202401189],
 	"line_monster_data":	[],
 	"item_filter_pick_data_1":	[],
 	"item_filter_pick_data_2":	[],
@@ -1422,38 +1639,6 @@
 			"item3":	false,
 			"item4":	false
 		}, {
-			"id":	298,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	297,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	290,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	289,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
 			"id":	19866,
 			"num1":	0,
 			"num2":	0,
@@ -1463,14 +1648,6 @@
 			"item4":	false
 		}, {
 			"id":	19868,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	274,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1493,113 +1670,73 @@
 			"item2":	false,
 			"item3":	false,
 			"item4":	false
-		}, {
-			"id":	273,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	303,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	265,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	266,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	268,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
 		}],
 	"auto_task":	[{
 			"id":	100001,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100002,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100003,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100004,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100005,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100006,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100007,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100008,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100009,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100010,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -1620,357 +1757,357 @@
 			"diyawaken":	""
 		}, {
 			"id":	100013,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100014,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100016,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100017,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100018,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100021,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100022,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100023,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100024,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100025,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100026,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100027,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100031,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100032,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100033,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100034,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100035,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100036,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100037,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100038,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100039,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100040,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100041,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100042,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100043,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100044,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100047,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100048,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100049,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100050,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100051,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100052,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100053,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100054,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100055,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100056,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100057,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100058,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100059,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100060,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100061,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100062,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100069,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100070,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100071,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100073,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100074,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100075,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100077,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100078,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100079,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -1998,266 +2135,266 @@
 			"diyawaken":	""
 		}, {
 			"id":	100083,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100084,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100085,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100086,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100087,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100088,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100089,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100090,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100091,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100092,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100093,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100094,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100095,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100096,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100097,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100098,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100099,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100100,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100101,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100102,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100103,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100104,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100130,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100131,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100132,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100133,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100134,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100135,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100136,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100137,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100138,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100139,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100140,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100141,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100142,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100149,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100150,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
 			"diyawaken":	""
 		}, {
 			"id":	100151,
-			"sw":	false,
+			"sw":	true,
 			"diyitem":	"",
 			"diyproperty":	"",
 			"diyother":	"",
@@ -2375,7 +2512,7 @@
 		"[唤雨之灵]连招":	false,
 		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	false,
-		"[通用]位移技能左右释放":	false,
+		"[通用]位移技能左右释放":	true,
 		"[诡焰妖灵]鬼术:模仿":	false
 	},
 	"revive_diy":	[],
@@ -2417,7 +2554,7 @@
 			"filter5":	false
 		}],
 	"chaosbranch":	[4001, 4016, 1026, 3001, 2001, 1001, 4002, 3002, 2002, 1002, 4003, 3003, 2003, 1003, 4011, 3011, 2011, 1011, 4012, 3012, 2012, 1012, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4006, 3006, 2006, 1006, 4014, 3014, 4028, 3028, 2028, 1028, 2014, 1014, 4015, 4009, 3009, 2009, 1009, 4010, 3010, 2010, 1010, 1007, 2007, 3007, 4007, 1008, 2008, 3008, 4008, 1017, 2017, 3017, 4017, 1018, 2018, 3018, 4018, 1019, 2019, 3019, 4019, 1020, 2020, 3020, 4020, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 11025, 13025, 21025, 23025, 31025, 33025, 41025, 43025, 51025, 53025, 1034, 2034, 3034, 4034, 1023, 2023, 3023, 4023, 1024, 2024, 3024, 4024, 1021, 2021, 3021, 2025, 1022, 2022, 3022, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 62026, 63026, 72026, 73026, 4027, 4022, 1013, 2013, 3013, 4013, 4021],
-	"autosystemscript":	["购买火山飞翔石", "兑换【签到】方块奖励"],
+	"autosystemscript":	["购买火山飞翔石", "购买勇者小型药水", "购买蚯梨膏", "购买紫色大药罐", "兑换拉皮德合剂", "购买HP胶布", "兑换【签到】方块奖励", "自动取出ELY"],
 	"shak_skill":	[{
 			"sw":	true,
 			"id":	1210014,

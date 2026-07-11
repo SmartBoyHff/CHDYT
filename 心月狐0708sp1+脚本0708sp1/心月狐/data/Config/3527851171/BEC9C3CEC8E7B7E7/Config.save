@@ -6,12 +6,12 @@
 	"item_use_data":	[{
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"75"
+				"HP<=%":	"80"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"勇者小型体力药水"
+			"item":	"蚯梨膏"
 		}, {
 			"sw":	true,
 			"Judge1":	{
@@ -20,11 +20,20 @@
 			"Judge2":	{
 				"[无]":	""
 			},
-			"item":	"★ 小型樱桃药水"
+			"item":	"勇者小型体力药水"
 		}, {
 			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"65"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"★ 小型樱桃药水"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"HP<=%":	"60"
 			},
 			"Judge2":	{
 				"[无]":	""
@@ -51,12 +60,38 @@
 		}, {
 			"sw":	true,
 			"Judge1":	{
-				"HP<=%":	"30"
+				"HP<=%":	"35"
 			},
 			"Judge2":	{
 				"[无]":	""
 			},
 			"item":	"彩虹岛可乐"
+		}, {
+			"sw":	false,
+			"Judge1":	{
+				"HP<=%":	"100"
+			},
+			"Judge2":	{
+				"[无]":	""
+			},
+			"item":	"金闪闪钱袋"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+			},
+			"Judge2":	{
+				"SP<=%":	"45"
+			},
+			"item":	"牙儿酪"
+		}, {
+			"sw":	true,
+			"Judge1":	{
+				"[无]":	""
+			},
+			"Judge2":	{
+				"SP<=%":	"30"
+			},
+			"item":	"勇者小型魔法药水"
 		}],
 	"item_buff_sw":	true,
 	"item_buff_indun":	false,
@@ -64,8 +99,162 @@
 	"item_buff_data":	[{
 			"sw":	true,
 			"type":	"物品",
-			"name":	"希望的减伤药水",
-			"induns":	["艾乌加蒙剧场", "深渊之镜", "炼狱阿兹雷尔", "巴尼塔斯"],
+			"name":	"羁绊之羽",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"外交",
+			"name":	"艾利娅斯-小四",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值的秘药 1000%(不可存仓)",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"高级温泉蛋",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值秘药",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·印记",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"经验值的秘药 800%(不可交易)",
+			"maps":	[],
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"水蜜桃味全糖蜜果",
+			"maps":	[],
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"课程:使用七彩玲珑",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"回忆の沙漏",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:阿里亚",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"自动装备:经验戒指",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[神·圣灵之拥]",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"翅膀技[魔·冥界之翼]",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:卡勒迪安",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:伊雷泽",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:缇尔沃特",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:贝尔特利切",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:龙猫理查",
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"操作",
+			"name":	"召唤兽出战:尤里亚",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"induns":	[],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"暴击秘药",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·秩序",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·远古",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·暴怒",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"拉皮德的铁盾药剂",
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "卡伊洛斯的时间", "消失的星之歌", "黄昏教堂", "黑月的考验", "大地的考验", "穿梭之都", "时空之泉", "水下培养皿·失魂寺", "智海", "伊卡洛斯之翼", "铁之考验", "赫利波尔要塞", "葬剑幻谷", "曼赤肯仓库", "翡翠世界", "归元木匣", "被吞噬的魔法办公楼", "蘑菇树沼泽", "丽西泰亚之门", "摩克沙", "诺尼尔之泪", "薇娅斯梦境", "尼夫海姆站", "穆斯菲尔斯隧道", "精灵树桩", "生命之恩泰莱凯", "未知森林"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"青苹果味全糖蜜果",
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
 	"store_items":	"",
@@ -415,7 +604,7 @@
 					"item":	""
 				}]
 		}],
-	"summon_automatic_zhs":	false,
+	"summon_automatic_zhs":	true,
 	"automatic_zhs_time1":	0,
 	"summon_automatic_zhs_refresh1":	0,
 	"automatic_zhs_time2":	0,
@@ -430,7 +619,7 @@
 	"summon_automatic_zhs_refresh6":	0,
 	"automatic_zhs_time7":	0,
 	"summon_automatic_zhs_refresh7":	0,
-	"summon_data":	[190145624, 190145625, 190148179, 201901181, 201901182, 201901183, 201901184, 201901185, 201901186, 201901187, 201901188, 201901189, 201901190, 201901191, 201901192, 201901193, 201901194, 201901195, 202401181, 202401182, 202401183, 202401184, 202401185, 202401186, 202401187, 202401188, 202401189, 202401190, 202401191, 202401192, 202401193, 202401194, 202401195],
+	"summon_data":	[190145624, 190145625, 190148179, 201901183, 201901186, 201901189, 202401183, 202401186, 202401189],
 	"automatic_pupu":	false,
 	"automatic_pupu_val":	0,
 	"automatic_ml":	true,
@@ -445,7 +634,7 @@
 	"automatic_guild":	true,
 	"automatic_guildmoney":	true,
 	"automatic_monter_book":	true,
-	"automatic_explorer":	false,
+	"automatic_explorer":	true,
 	"automatic_taskRemote":	false,
 	"pet_build":	[],
 	"pet_sunmon_skill":	[{
@@ -471,7 +660,7 @@
 		}],
 	"auto_load_team":	false,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_load_wait_val":	10,
 	"auto_load_task":	false,
 	"auto_load_change":	false,
@@ -481,7 +670,7 @@
 	"auto_end_plan_val":	-1,
 	"auto_end_lua":	false,
 	"auto_end_lua_val":	"",
-	"auto_set_diyitem":	"",
+	"auto_set_diyitem":	"打本",
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_team":	false,
@@ -641,5 +830,31 @@
 						}]
 				}]
 		}],
-	"autosystemscript":	["购买火山飞翔石", "兑换【签到】方块奖励"]
+	"autosystemscript":	["购买火山飞翔石", "购买勇者小型药水", "购买蚯梨膏", "购买紫色大药罐", "兑换拉皮德合剂", "购买HP胶布", "兑换【签到】方块奖励", "自动取出ELY"],
+	"path_auto_script_showval_sw":	true,
+	"path_auto_script_door_sw":	true,
+	"path_line_itemtime_sw":	true,
+	"path_pluginui_sw":	true,
+	"path_pluginui_child1":	true,
+	"path_pluginui_child2":	true,
+	"path_pluginui_child3":	false,
+	"path_pluginui_child4":	true,
+	"path_pluginui_child5":	true,
+	"path_pluginui_child6":	true,
+	"path_pluginui_child7":	true,
+	"path_pluginui_child8":	false,
+	"path_pluginui_child9":	true,
+	"path_pluginui_child10":	true,
+	"path_pluginui_child1_type":	0,
+	"path_pluginui_child2_type":	0,
+	"path_pluginui_child3_type":	0,
+	"path_pluginui_child4_type":	0,
+	"path_pluginui_child5_type":	0,
+	"path_pluginui_child6_type":	0,
+	"path_pluginui_child7_type":	0,
+	"path_pluginui_child8_type":	0,
+	"path_pluginui_child9_type":	0,
+	"path_pluginui_child10_type":	0,
+	"path_pluginui_child11_type":	0,
+	"path_pluginui_child12_type":	0
 }

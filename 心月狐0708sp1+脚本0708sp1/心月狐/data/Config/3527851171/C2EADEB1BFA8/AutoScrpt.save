@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	22541,
 		"script":	"ÉßÁúÖ®³²",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	23766,
 		"script":	"Ïã¸ñÀïÀ­",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +27,7 @@
 		"diyawaken":	"",
 		"tag":	25092,
 		"script":	"Ê®ÁùµÄÔÂ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,8 +37,7 @@
 		"diyawaken":	"",
 		"tag":	26623,
 		"script":	"½ğ×ÖËş",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -51,8 +47,7 @@
 		"diyawaken":	"",
 		"tag":	28050,
 		"script":	"¸çÌØ·¿Îİ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -62,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	30196,
 		"script":	"ÔçÒÑÀäÈ´µÄĞÄÔà",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -73,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	4008,
 		"script":	"¿ÕÖĞÂ¥¸ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -84,8 +77,7 @@
 		"diyawaken":	"",
 		"tag":	5487,
 		"script":	"µØÓüÖ®ÃÅ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,8 +87,7 @@
 		"diyawaken":	"",
 		"tag":	25191,
 		"script":	"ÁúÃ¨ÃÃÃÃ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,8 +97,7 @@
 		"diyawaken":	"",
 		"tag":	25244,
 		"script":	"±øÒÏG",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -117,8 +107,7 @@
 		"diyawaken":	"",
 		"tag":	25296,
 		"script":	"Ò°ÀÇ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -128,8 +117,7 @@
 		"diyawaken":	"",
 		"tag":	25345,
 		"script":	"²ÔÀÇ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -139,8 +127,7 @@
 		"diyawaken":	"",
 		"tag":	25397,
 		"script":	"ºÚÒÏG",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -150,8 +137,7 @@
 		"diyawaken":	"",
 		"tag":	25449,
 		"script":	"ÇàÀÇ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -161,8 +147,7 @@
 		"diyawaken":	"",
 		"tag":	25498,
 		"script":	"àÛßİºôßİ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -172,8 +157,7 @@
 		"diyawaken":	"",
 		"tag":	25551,
 		"script":	"»ÒÀÇ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -183,8 +167,7 @@
 		"diyawaken":	"",
 		"tag":	25600,
 		"script":	"Ò°Öí",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -194,8 +177,7 @@
 		"diyawaken":	"",
 		"tag":	25652,
 		"script":	"»¨»¨ÎÀ±ø",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -205,8 +187,7 @@
 		"diyawaken":	"",
 		"tag":	25704,
 		"script":	"»Æ¼×ÎÀ±ø",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -216,8 +197,7 @@
 		"diyawaken":	"",
 		"tag":	25753,
 		"script":	"ÂÌ¶³¶³",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -227,8 +207,7 @@
 		"diyawaken":	"",
 		"tag":	25805,
 		"script":	"³ó°Ë¹Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -238,8 +217,7 @@
 		"diyawaken":	"",
 		"tag":	25858,
 		"script":	"³ó°Ë¹ÖÍ³Áì",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -249,8 +227,7 @@
 		"diyawaken":	"",
 		"tag":	32131,
 		"script":	"ÄÌ×ì²Ï±¦±¦",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -260,8 +237,7 @@
 		"diyawaken":	"",
 		"tag":	32183,
 		"script":	"ºüÀêÑ²Âß±ø",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -271,8 +247,7 @@
 		"diyawaken":	"",
 		"tag":	32235,
 		"script":	"×ØĞÜ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -282,8 +257,7 @@
 		"diyawaken":	"",
 		"tag":	32284,
 		"script":	"ºÚĞÜ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -293,8 +267,7 @@
 		"diyawaken":	"",
 		"tag":	32337,
 		"script":	"ÁúÃ¨°Ö°Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -304,8 +277,7 @@
 		"diyawaken":	"",
 		"tag":	32389,
 		"script":	"Ç¿µÁÀÇ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -315,8 +287,7 @@
 		"diyawaken":	"",
 		"tag":	32438,
 		"script":	"»¨¼×ÂìÒÏG",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -326,8 +297,7 @@
 		"diyawaken":	"",
 		"tag":	32490,
 		"script":	"ñ®¿Ë°Í",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -337,8 +307,7 @@
 		"diyawaken":	"",
 		"tag":	32539,
 		"script":	"ºÚ·¢Ñıºü",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -348,8 +317,7 @@
 		"diyawaken":	"",
 		"tag":	32591,
 		"script":	"Òø·¢Ììºü",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -359,8 +327,7 @@
 		"diyawaken":	"",
 		"tag":	32643,
 		"script":	"ÎŞÍ«ÆøÇò¹í",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -370,8 +337,7 @@
 		"diyawaken":	"",
 		"tag":	32692,
 		"script":	"ÀÏ»¢",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -381,8 +347,7 @@
 		"diyawaken":	"",
 		"tag":	32745,
 		"script":	"Áù¶úÃÖºï",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -392,8 +357,7 @@
 		"diyawaken":	"",
 		"tag":	29,
 		"script":	"¶¾Æø¸×",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -403,8 +367,7 @@
 		"diyawaken":	"",
 		"tag":	78,
 		"script":	"ºÚ»¢",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -414,8 +377,7 @@
 		"diyawaken":	"",
 		"tag":	130,
 		"script":	"ÁÔÈ®",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -425,8 +387,7 @@
 		"diyawaken":	"",
 		"tag":	179,
 		"script":	"ºìÁ«",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -436,8 +397,7 @@
 		"diyawaken":	"",
 		"tag":	231,
 		"script":	"ËÀÁéÊ¹Õß",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -447,8 +407,7 @@
 		"diyawaken":	"",
 		"tag":	284,
 		"script":	"ÂìÒÏÊ¿ÎÀ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -458,8 +417,7 @@
 		"diyawaken":	"",
 		"tag":	333,
 		"script":	"ÂìÒÏÅ®Íõ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -469,8 +427,7 @@
 		"diyawaken":	"",
 		"tag":	385,
 		"script":	"°×ÒÏG",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -480,8 +437,7 @@
 		"diyawaken":	"",
 		"tag":	437,
 		"script":	"Ã«ÈŞÇò",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -491,8 +447,7 @@
 		"diyawaken":	"",
 		"tag":	486,
 		"script":	"Ñ©Å®",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -502,8 +457,7 @@
 		"diyawaken":	"",
 		"tag":	538,
 		"script":	"±ùÔ­Å®ÁÔÊÖ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -513,8 +467,7 @@
 		"diyawaken":	"",
 		"tag":	587,
 		"script":	"À«×ì¹Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -524,8 +477,7 @@
 		"diyawaken":	"",
 		"tag":	640,
 		"script":	"µØÑ¨òùòğ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -535,8 +487,7 @@
 		"diyawaken":	"",
 		"tag":	692,
 		"script":	"³ó°Ë¹Ö´óÍõ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -546,8 +497,7 @@
 		"diyawaken":	"",
 		"tag":	741,
 		"script":	"ÁúÉñ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -557,8 +507,7 @@
 		"diyawaken":	"",
 		"tag":	793,
 		"script":	"µØÖ®ÍŞÍŞÁú",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -568,8 +517,7 @@
 		"diyawaken":	"",
 		"tag":	845,
 		"script":	"·çÖ®ÍŞÍŞÁú",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -579,8 +527,7 @@
 		"diyawaken":	"",
 		"tag":	894,
 		"script":	"Ë®Ö®ÍŞÍŞÁú",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -590,8 +537,7 @@
 		"diyawaken":	"",
 		"tag":	13702,
 		"script":	"ÍºğÕ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -601,8 +547,7 @@
 		"diyawaken":	"",
 		"tag":	13754,
 		"script":	"Ãµ¹å¶³¶³",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -612,8 +557,7 @@
 		"diyawaken":	"",
 		"tag":	13803,
 		"script":	"³È¶³¶³",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -623,8 +567,7 @@
 		"diyawaken":	"",
 		"tag":	13855,
 		"script":	"ÁúÃ¨¸ç¸ç",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -634,8 +577,7 @@
 		"diyawaken":	"",
 		"tag":	13908,
 		"script":	"´Ì»¨ÃÀÃ¼",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -645,8 +587,7 @@
 		"diyawaken":	"",
 		"tag":	13957,
 		"script":	"½©Ê¬",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -656,8 +597,7 @@
 		"diyawaken":	"",
 		"tag":	14009,
 		"script":	"É³µÁ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -667,8 +607,7 @@
 		"diyawaken":	"",
 		"tag":	14058,
 		"script":	"Ä¾ÄËÒÁ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -678,8 +617,7 @@
 		"diyawaken":	"",
 		"tag":	14110,
 		"script":	"ÓÄÁé´¬³¤´¬ÊÒ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -689,8 +627,7 @@
 		"diyawaken":	"",
 		"tag":	14162,
 		"script":	"°¢ÒÀ±È",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -700,8 +637,7 @@
 		"diyawaken":	"",
 		"tag":	14211,
 		"script":	"±´Â³ÒÀ¿¨",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -711,8 +647,7 @@
 		"diyawaken":	"",
 		"tag":	14264,
 		"script":	"±´Â³ÒÀ¿¨Ê×Áì",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -722,8 +657,7 @@
 		"diyawaken":	"",
 		"tag":	14316,
 		"script":	"¾Ş×¦",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -733,8 +667,7 @@
 		"diyawaken":	"",
 		"tag":	14365,
 		"script":	"¸çË¹¸çË¹",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -744,8 +677,7 @@
 		"diyawaken":	"",
 		"tag":	14417,
 		"script":	"¸çË¹¸çË¹¸çË¹",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -755,8 +687,7 @@
 		"diyawaken":	"",
 		"tag":	14466,
 		"script":	"±Ï¿¨Ë¹",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -766,8 +697,7 @@
 		"diyawaken":	"",
 		"tag":	14518,
 		"script":	"µÏ¸êµÏ¸ê",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -777,8 +707,7 @@
 		"diyawaken":	"",
 		"tag":	14571,
 		"script":	"ß²¹¾ß²¹¾",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -788,8 +717,7 @@
 		"diyawaken":	"",
 		"tag":	14620,
 		"script":	"¹şÄá¹şÄá",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -799,8 +727,7 @@
 		"diyawaken":	"",
 		"tag":	14672,
 		"script":	"ºÚÌÒ5",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -810,8 +737,7 @@
 		"diyawaken":	"",
 		"tag":	14724,
 		"script":	"ĞÄĞÎ3",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -821,8 +747,7 @@
 		"diyawaken":	"",
 		"tag":	14773,
 		"script":	"»î½£",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -832,8 +757,7 @@
 		"diyawaken":	"",
 		"tag":	14825,
 		"script":	"ÌøÆåÆïÊ¿",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -843,8 +767,7 @@
 		"diyawaken":	"",
 		"tag":	14874,
 		"script":	"°ô°ô±ù",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -854,8 +777,7 @@
 		"diyawaken":	"",
 		"tag":	14927,
 		"script":	"ºÃ³Ô°ô°ô±ù",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -865,8 +787,7 @@
 		"diyawaken":	"",
 		"tag":	14979,
 		"script":	"¾ŞÎŞ°Ô",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -876,8 +797,7 @@
 		"diyawaken":	"",
 		"tag":	20896,
 		"script":	"Éß±¦±¦",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -887,8 +807,7 @@
 		"diyawaken":	"",
 		"tag":	20948,
 		"script":	"Ö©Öë¾«",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -898,8 +817,7 @@
 		"diyawaken":	"",
 		"tag":	20997,
 		"script":	"ÎüÑªòùòğ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -909,8 +827,7 @@
 		"diyawaken":	"",
 		"tag":	21049,
 		"script":	"´ó×ìÊ³ÈË»¨",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -920,8 +837,7 @@
 		"diyawaken":	"",
 		"tag":	21102,
 		"script":	"µç¾â¿ñÈË",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -931,8 +847,7 @@
 		"diyawaken":	"",
 		"tag":	21151,
 		"script":	"ÍöÁéÎ×Ê¦",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -942,8 +857,7 @@
 		"diyawaken":	"",
 		"tag":	21203,
 		"script":	"Áé»êÊÕ¸îÕß",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -953,8 +867,7 @@
 		"diyawaken":	"",
 		"tag":	21255,
 		"script":	"Ò°ÂùÈË",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -964,8 +877,7 @@
 		"diyawaken":	"",
 		"tag":	21304,
 		"script":	"Ë®Í¼ÌÚ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -975,8 +887,7 @@
 		"diyawaken":	"",
 		"tag":	21356,
 		"script":	"Æ¥Åµ²Ü",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -986,8 +897,7 @@
 		"diyawaken":	"",
 		"tag":	21405,
 		"script":	"µØÍ¼ÌÚ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -997,8 +907,7 @@
 		"diyawaken":	"",
 		"tag":	21458,
 		"script":	"×ØÊ÷Ò¯Ò¯",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1008,8 +917,7 @@
 		"diyawaken":	"",
 		"tag":	21510,
 		"script":	"·çÍ¼ÌÚ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1019,8 +927,7 @@
 		"diyawaken":	"",
 		"tag":	21559,
 		"script":	"¼âµ¶É¡±ø¾üÍÅ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1030,8 +937,7 @@
 		"diyawaken":	"",
 		"tag":	21611,
 		"script":	"Î÷µã²Êºç½¢¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1041,8 +947,7 @@
 		"diyawaken":	"",
 		"tag":	21663,
 		"script":	"»ğÍ¼ÌÚ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1052,8 +957,7 @@
 		"diyawaken":	"",
 		"tag":	21712,
 		"script":	"³¬¼¶Î÷µã²Êºç½¢¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1063,8 +967,7 @@
 		"diyawaken":	"",
 		"tag":	21765,
 		"script":	"·äÄñ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1074,8 +977,7 @@
 		"diyawaken":	"",
 		"tag":	21814,
 		"script":	"×ØÊ÷²®²®",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1085,8 +987,7 @@
 		"diyawaken":	"",
 		"tag":	21866,
 		"script":	"Ğı·çÌØ¹¥¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1096,8 +997,7 @@
 		"diyawaken":	"",
 		"tag":	21918,
 		"script":	"³¬¼¶Ğı·çÌØ¹¥¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1107,8 +1007,7 @@
 		"diyawaken":	"",
 		"tag":	21967,
 		"script":	"¶şÅÚ²¿¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1118,8 +1017,7 @@
 		"diyawaken":	"",
 		"tag":	22019,
 		"script":	"É­ÁÖ½ğ¸Õ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1129,8 +1027,7 @@
 		"diyawaken":	"",
 		"tag":	22072,
 		"script":	"ó«òë¹Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1140,8 +1037,7 @@
 		"diyawaken":	"",
 		"tag":	22121,
 		"script":	"Ç¹·ä¹Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1151,8 +1047,7 @@
 		"diyawaken":	"",
 		"tag":	22173,
 		"script":	"¹­·ä¹Ö",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1162,8 +1057,7 @@
 		"diyawaken":	"",
 		"tag":	22222,
 		"script":	"·ä¹ÖÕ½Ê¿",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1173,8 +1067,7 @@
 		"diyawaken":	"",
 		"tag":	22274,
 		"script":	"·ä¹ÖÅ®Íõ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1184,8 +1077,7 @@
 		"diyawaken":	"",
 		"tag":	22326,
 		"script":	"·ÉÍ§±øÍÅ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1195,8 +1087,7 @@
 		"diyawaken":	"",
 		"tag":	22375,
 		"script":	"³¬¼¶·ÉÍ§±øÍÅ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1206,8 +1097,7 @@
 		"diyawaken":	"",
 		"tag":	22428,
 		"script":	"Ò»ÅÚ²¿¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1217,8 +1107,7 @@
 		"diyawaken":	"",
 		"tag":	22480,
 		"script":	"°¦Ó´ÌØ¹¥¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1228,8 +1117,7 @@
 		"diyawaken":	"",
 		"tag":	22529,
 		"script":	"³¬¼¶°¦Ó´ÌØ¹¥¶Ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1239,8 +1127,7 @@
 		"diyawaken":	"",
 		"tag":	22581,
 		"script":	"°ÂÁĞ·ğµñÏñ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1250,8 +1137,7 @@
 		"diyawaken":	"",
 		"tag":	22630,
 		"script":	"ÓÄÁéÒ°ÂùÈË",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1261,8 +1147,7 @@
 		"diyawaken":	"",
 		"tag":	22682,
 		"script":	"ÓãÓã±ı¸É",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1272,8 +1157,7 @@
 		"diyawaken":	"",
 		"tag":	22735,
 		"script":	"ÓãÓãÌğ±ı¸É",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1283,8 +1167,7 @@
 		"diyawaken":	"",
 		"tag":	22784,
 		"script":	"ÌğÈ¦½ª±ıÈË",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1294,8 +1177,7 @@
 		"diyawaken":	"",
 		"tag":	22836,
 		"script":	"Ğ¡³ó",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1305,8 +1187,7 @@
 		"diyawaken":	"",
 		"tag":	22888,
 		"script":	"ÊíÌõ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1316,8 +1197,7 @@
 		"diyawaken":	"",
 		"tag":	22937,
 		"script":	"Æå×ÓÉñÏñ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1327,8 +1207,7 @@
 		"diyawaken":	"",
 		"tag":	22989,
 		"script":	"ÊíÌõ¼Ó·¬ÇÑ½´",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1338,8 +1217,7 @@
 		"diyawaken":	"",
 		"tag":	4815,
 		"script":	"¶¾ÒÏG",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1349,8 +1227,7 @@
 		"diyawaken":	"",
 		"tag":	4864,
 		"script":	"À¶¼×ÎÀ±ø",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1360,8 +1237,7 @@
 		"diyawaken":	"",
 		"tag":	4916,
 		"script":	"òùòğ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1371,8 +1247,7 @@
 		"diyawaken":	"",
 		"tag":	4965,
 		"script":	"¼ªËûÊÖjane",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1382,8 +1257,7 @@
 		"diyawaken":	"",
 		"tag":	5018,
 		"script":	"Ã¨Ã¨Íæ¾ß",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1393,8 +1267,7 @@
 		"diyawaken":	"",
 		"tag":	5070,
 		"script":	"±´¿ÇÕÂÓã",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1404,8 +1277,7 @@
 		"diyawaken":	"",
 		"tag":	5119,
 		"script":	"¹ÖµÁÃ¨Ã¨",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1415,8 +1287,7 @@
 		"diyawaken":	"",
 		"tag":	23184,
 		"script":	"Á÷ÀËÕß",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1426,8 +1297,7 @@
 		"diyawaken":	"",
 		"tag":	23233,
 		"script":	"Ô¼Â¶ÎÄ¸ÊµÂ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1437,8 +1307,7 @@
 		"diyawaken":	"",
 		"tag":	23285,
 		"script":	"²»ÖªÃû_Å®",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1448,8 +1317,7 @@
 		"diyawaken":	"",
 		"tag":	23334,
 		"script":	"²»ÖªÃû_ÄĞ",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1459,8 +1327,7 @@
 		"diyawaken":	"",
 		"tag":	23386,
 		"script":	"Â³¿Ë",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1470,8 +1337,7 @@
 		"diyawaken":	"",
 		"tag":	23439,
 		"script":	"ÎÌÁé",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1481,8 +1347,7 @@
 		"diyawaken":	"",
 		"tag":	23488,
 		"script":	"Ğ¡É½Ñò",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -1492,8 +1357,7 @@
 		"diyawaken":	"",
 		"tag":	23540,
 		"script":	"×êÊ¯ÓÄÁé",
-		"task":	0,
-		"scriptend":	3
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,

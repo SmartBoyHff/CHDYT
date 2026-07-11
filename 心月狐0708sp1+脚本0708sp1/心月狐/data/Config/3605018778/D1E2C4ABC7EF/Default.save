@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -49,18 +49,18 @@
 	"item_buff_sw":	true,
 	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	false,
-	"item_pick_filter_10":	false,
+	"item_pick_filter_10":	true,
 	"item_pick_filter_12":	false,
 	"item_pick_filter_13":	false,
 	"item_pick_filter_14":	false,
 	"item_pick_filter_2":	false,
-	"item_pick_filter_3":	false,
+	"item_pick_filter_3":	true,
 	"item_pick_filter_4":	false,
-	"item_pick_filter_5":	false,
-	"item_pick_filter_6":	false,
-	"item_pick_filter_7":	false,
-	"item_pick_filter_9":	false,
-	"item_pick_sw":	false,
+	"item_pick_filter_5":	true,
+	"item_pick_filter_6":	true,
+	"item_pick_filter_7":	true,
+	"item_pick_filter_9":	true,
+	"item_pick_sw":	true,
 	"item_throw_1_sw":	false,
 	"item_throw_2":	false,
 	"item_throw_2_sw":	false,
@@ -83,11 +83,11 @@
 	"main_mob_distance_change":	false,
 	"main_mob_external":	false,
 	"main_mob_friend_sw":	false,
-	"main_mob_herbs":	true,
+	"main_mob_herbs":	false,
 	"main_mob_indun":	true,
 	"main_mob_jump":	false,
 	"main_mob_location_sw":	false,
-	"main_mob_mineral":	true,
+	"main_mob_mineral":	false,
 	"main_mob_noattck_all":	false,
 	"main_mob_noattck_hide":	true,
 	"main_mob_noattck_show":	false,
@@ -213,7 +213,7 @@
 	"team_accept_cmd":	"",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	3,
+	"auto_load_wait_val":	10,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
@@ -276,7 +276,7 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -297,7 +297,7 @@
 	"btn_color_5":	1447971,
 	"btn_color_7":	11251422,
 	"btn_color_8":	0,
-	"server":	119,
+	"server":	111,
 	"item_filter_1":	[],
 	"item_filter_2":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
 	"item_filter_3":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
@@ -366,7 +366,7 @@
 			},
 			"item":	"彩虹岛可乐"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"Judge1":	{
 				"HP<=%":	"100"
 			},
@@ -529,19 +529,19 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -553,15 +553,150 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
 			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	1803301,
+			"id":	1803349,
 			"hotkey":	"",
-			"name":	"双重刺",
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803322,
+			"hotkey":	"",
+			"name":	"黑暗戳击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803324,
+			"hotkey":	"",
+			"name":	"黑暗爆裂",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803354,
+			"hotkey":	"",
+			"name":	"黑暗剪影",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803323,
+			"hotkey":	"",
+			"name":	"黑暗意志",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803321,
+			"hotkey":	"",
+			"name":	"黑暗穿刺",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802424,
+			"hotkey":	"",
+			"name":	"[无限]爆破",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803305,
+			"hotkey":	"",
+			"name":	"喷涌",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803302,
+			"hotkey":	"",
+			"name":	"猛冲攻击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803303,
+			"hotkey":	"",
+			"name":	"碾压",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -1458,38 +1593,6 @@
 			"item3":	false,
 			"item4":	false
 		}, {
-			"id":	298,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	297,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	290,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	289,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
 			"id":	19866,
 			"num1":	0,
 			"num2":	0,
@@ -1506,14 +1609,6 @@
 			"item3":	false,
 			"item4":	false
 		}, {
-			"id":	274,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
 			"id":	278,
 			"num1":	0,
 			"num2":	0,
@@ -1523,46 +1618,6 @@
 			"item4":	false
 		}, {
 			"id":	277,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	273,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	303,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	265,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	266,
-			"num1":	0,
-			"num2":	0,
-			"item1":	false,
-			"item2":	false,
-			"item3":	false,
-			"item4":	false
-		}, {
-			"id":	268,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -2303,7 +2358,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,
@@ -2381,13 +2436,21 @@
 				}]
 		}],
 	"pet_build":	[{
-			"sw":	false,
+			"sw":	true,
 			"id":	11080101,
 			"name":	"滑不溜秋"
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	11080102,
 			"name":	"倪倪撞击"
+		}, {
+			"sw":	true,
+			"id":	1999002,
+			"name":	"春植之光"
+		}, {
+			"sw":	true,
+			"id":	1999001,
+			"name":	"喵之蜷缩"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -2712,6 +2775,114 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 最大生命值黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 体力黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法贯穿力蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 速度红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最大伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理最小伤害红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 魔法最小伤害蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣字 物理贯穿力红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
 			"filter4":	false,
 			"filter5":	false
 		}],
