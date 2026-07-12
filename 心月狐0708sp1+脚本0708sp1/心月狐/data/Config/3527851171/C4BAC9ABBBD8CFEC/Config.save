@@ -160,44 +160,44 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"羁绊之羽",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"外交",
 			"name":	"艾利娅斯-小四",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 1000%(不可存仓)",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"高级温泉蛋",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值秘药",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·印记",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"经验值的秘药 800%(不可交易)",
 			"maps":	[],
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -222,7 +222,7 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:阿里亚",
-			"induns":	["普塞乌达里亚"],
+			"induns":	["普塞乌达里亚", "魔发城堡"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -709,7 +709,7 @@
 	"path_pluginui_child7":	true,
 	"path_pluginui_child8":	false,
 	"path_pluginui_child9":	true,
-	"path_pluginui_child10":	true,
+	"path_pluginui_child10":	false,
 	"path_pluginui_child1_type":	0,
 	"path_pluginui_child2_type":	0,
 	"path_pluginui_child3_type":	0,
@@ -746,7 +746,7 @@
 		}],
 	"auto_load_team":	false,
 	"auto_load_team_val":	"",
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_load_wait_val":	10,
 	"auto_load_task":	false,
 	"auto_load_change":	false,
@@ -782,9 +782,9 @@
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
-	"item_throw_sw1":	false,
-	"item_throw_sw2":	false,
-	"item_throw_time":	2,
+	"item_throw_sw1":	true,
+	"item_throw_sw2":	true,
+	"item_throw_time":	1,
 	"item_throw_sell":	false,
 	"item_throw_1_sw":	false,
 	"item_throw_1_begin":	1,
@@ -802,8 +802,8 @@
 	"item_throw_pass_2":	false,
 	"item_throw_pass_3":	false,
 	"item_throw_pass_4":	false,
-	"item_throw_pass_5":	false,
-	"item_throw_lock_1":	false,
+	"item_throw_pass_5":	true,
+	"item_throw_lock_1":	true,
 	"item_filter_throw_data_1":	[],
 	"item_filter_throw_data_2":	[],
 	"item_filter_pick_data_1":	[],

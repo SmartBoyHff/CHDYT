@@ -1,11 +1,11 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1949,
-		"script":	"深层混乱世界",
+		"tag":	25075,
+		"script":	"普塞乌达里亚",
 		"task":	0
 	}]

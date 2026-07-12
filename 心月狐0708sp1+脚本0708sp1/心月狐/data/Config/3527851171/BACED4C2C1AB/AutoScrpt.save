@@ -1,12 +1,12 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21258,
-		"script":	"魔法学院主楼",
+		"tag":	13830,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,7 +15,105 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21124,
-		"script":	"停止挂机",
+		"tag":	29484,
+		"script":	"无尽繁星大厅",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18603,
+		"script":	"残缺边界",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	27654,
+		"script":	"尼夫海姆站",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4941,
+		"script":	"穆斯菲尔斯隧道",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18359,
+		"script":	"薇娅斯梦境",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30043,
+		"script":	"摩克沙",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	5593,
+		"script":	"诺尼尔之泪",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	173,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0,
+		"scriptend":	12
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	13578,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29752,
+		"script":	"深渊之镜",
 		"task":	0
 	}]

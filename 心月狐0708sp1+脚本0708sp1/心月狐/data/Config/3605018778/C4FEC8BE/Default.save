@@ -14,7 +14,7 @@
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
-	"auto_set_boss_team":	false,
+	"auto_set_boss_team":	true,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
@@ -117,7 +117,7 @@
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	false,
 	"path_line_indunopen_sw":	false,
-	"path_line_itemtime_sw":	true,
+	"path_line_itemtime_sw":	false,
 	"path_line_name_sw":	false,
 	"path_pluginui_child1":	true,
 	"path_pluginui_child10":	true,
@@ -189,7 +189,7 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"",
+	"auto_set_diyitem":	"打本",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"",
@@ -213,11 +213,11 @@
 	"team_accept_cmd":	"666",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
-	"auto_set_boss_team_val":	300,
+	"auto_set_boss_team_val":	5,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -268,7 +268,7 @@
 	"path_pluginui_child12_type":	0,
 	"path_pluginui_child1_type":	0,
 	"path_pluginui_child2_type":	0,
-	"path_pluginui_child3_type":	0,
+	"path_pluginui_child3_type":	1,
 	"path_pluginui_child4_type":	0,
 	"path_pluginui_child5_type":	0,
 	"path_pluginui_child6_type":	0,
@@ -366,7 +366,7 @@
 			},
 			"item":	"彩虹岛可乐"
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"Judge1":	{
 				"HP<=%":	"100"
 			},
@@ -471,13 +471,13 @@
 			"induns":	["普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"induns":	["普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"induns":	["普塞乌达里亚"],
@@ -547,7 +547,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"拉皮德的铁盾药剂",
-			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚"],
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "黄昏教堂", "消失的星之歌", "艾乌加蒙剧场", "深渊之镜", "霍普占卜室", "普洛菲司台", "卡伊洛斯的时间", "未知森林", "精灵树桩", "时空之泉", "穿梭之都"],
 			"hard":	false
 		}, {
 			"sw":	true,
@@ -2403,7 +2403,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	false,
+			"sw":	true,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,

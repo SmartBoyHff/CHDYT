@@ -7,8 +7,7 @@
 		"diyawaken":	"",
 		"tag":	11057,
 		"script":	"周挑战",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -18,8 +17,7 @@
 		"diyawaken":	"",
 		"tag":	3775,
 		"script":	"索拉城斗兽场",
-		"task":	100003,
-		"scriptend":	11
+		"task":	100003
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -29,8 +27,7 @@
 		"diyawaken":	"",
 		"tag":	3824,
 		"script":	"花之路",
-		"task":	100032,
-		"scriptend":	11
+		"task":	100032
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -40,8 +37,7 @@
 		"diyawaken":	"",
 		"tag":	3876,
 		"script":	"破坏之城",
-		"task":	100050,
-		"scriptend":	11
+		"task":	100050
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -51,8 +47,7 @@
 		"diyawaken":	"",
 		"tag":	4029,
 		"script":	"保管异面不祥道具(2)",
-		"task":	100070,
-		"scriptend":	11
+		"task":	100070
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -62,8 +57,7 @@
 		"diyawaken":	"",
 		"tag":	4078,
 		"script":	"保管异面不祥书籍(2)",
-		"task":	100074,
-		"scriptend":	11
+		"task":	100074
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -73,8 +67,7 @@
 		"diyawaken":	"",
 		"tag":	4183,
 		"script":	"抗争者的资格",
-		"task":	100094,
-		"scriptend":	11
+		"task":	100094
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -84,8 +77,7 @@
 		"diyawaken":	"",
 		"tag":	4232,
 		"script":	"拥有特殊记忆的动物(2)",
-		"task":	100150,
-		"scriptend":	11
+		"task":	100150
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,8 +87,7 @@
 		"diyawaken":	"",
 		"tag":	17590,
 		"script":	"水晶洞穴图鉴",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -106,8 +97,7 @@
 		"diyawaken":	"",
 		"tag":	693,
 		"script":	"依米勒研究所",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -267,8 +257,7 @@
 		"diyawaken":	"",
 		"tag":	7427,
 		"script":	"半只蟹",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -278,8 +267,7 @@
 		"diyawaken":	"",
 		"tag":	13550,
 		"script":	"蛤蟆森林",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -289,8 +277,7 @@
 		"diyawaken":	"",
 		"tag":	18654,
 		"script":	"蛤蟆山岳",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -300,8 +287,7 @@
 		"diyawaken":	"",
 		"tag":	22481,
 		"script":	"蛤蟆洞穴",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -311,8 +297,7 @@
 		"diyawaken":	"",
 		"tag":	26256,
 		"script":	"猫猫",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -322,8 +307,7 @@
 		"diyawaken":	"",
 		"tag":	27328,
 		"script":	"狗子",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -333,8 +317,7 @@
 		"diyawaken":	"",
 		"tag":	28503,
 		"script":	"太婆怪",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -344,8 +327,7 @@
 		"diyawaken":	"",
 		"tag":	29522,
 		"script":	"刺刺",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -355,8 +337,7 @@
 		"diyawaken":	"",
 		"tag":	11206,
 		"script":	"教皇门徒",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -366,8 +347,7 @@
 		"diyawaken":	"",
 		"tag":	14266,
 		"script":	"野拳混混",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
