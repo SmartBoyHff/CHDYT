@@ -241,14 +241,14 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	false,
+	"auto_load_wait":	true,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,
-	"auto_set_boss_team":	false,
+	"auto_set_boss_team":	true,
 	"auto_set_fly":	false,
 	"auto_set_revive":	false,
 	"auto_set_reviveall":	false,
@@ -447,11 +447,11 @@
 	"team_accept_cmd":	"666",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
-	"auto_load_wait_val":	10,
+	"auto_load_wait_val":	5,
 	"auto_set_boss_deliver_val":	3,
 	"auto_set_boss_hp_sleep":	30,
 	"auto_set_boss_hp_val":	10,
-	"auto_set_boss_team_val":	300,
+	"auto_set_boss_team_val":	5,
 	"auto_set_fly_val":	5,
 	"auto_set_revive_val":	10,
 	"auto_set_reviveall_val":	50,
@@ -600,7 +600,7 @@
 			},
 			"item":	"彩虹岛可乐"
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"Judge1":	{
 				"HP<=%":	"100"
 			},
@@ -781,7 +781,7 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"拉皮德的铁盾药剂",
-			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚"],
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "黄昏教堂", "消失的星之歌", "艾乌加蒙剧场", "深渊之镜", "霍普占卜室", "普洛菲司台", "卡伊洛斯的时间", "未知森林", "精灵树桩", "时空之泉", "穿梭之都"],
 			"hard":	false
 		}, {
 			"sw":	true,
