@@ -1,12 +1,23 @@
 [{
+		"setcount":	1,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11511,
+		"script":	"普塞乌达里亚",
+		"task":	0,
+		"scriptend":	13
+	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1269,
-		"script":	"阿特拉斯庭院",
+		"tag":	15292,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,9 +26,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19567,
-		"script":	"残缺边界",
-		"task":	0
+		"tag":	23302,
+		"script":	"无尽繁星大厅",
+		"task":	0,
+		"scriptend":	13
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -25,47 +37,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	18159,
-		"script":	"埃吉尔遗迹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13598,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22424,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24117,
-		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12841,
-		"script":	"黄昏教堂",
+		"tag":	27792,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

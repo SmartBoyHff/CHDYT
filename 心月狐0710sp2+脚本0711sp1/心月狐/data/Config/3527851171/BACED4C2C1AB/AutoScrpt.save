@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13832,
-		"script":	"阿特拉斯庭院",
+		"tag":	6838,
+		"script":	"【月活动每日】每日任务",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23853,
-		"script":	"残缺边界",
+		"tag":	20563,
+		"script":	"【月活动签到】高级签到任务",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5694,
-		"script":	"埃吉尔遗迹",
+		"tag":	16930,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,7 +35,29 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	25082,
+		"tag":	27390,
+		"script":	"无尽繁星大厅",
+		"task":	0,
+		"scriptend":	13
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1704,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0,
+		"scriptend":	13
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16256,
 		"script":	"深渊之镜",
 		"task":	0
 	}, {
@@ -45,7 +67,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10072,
+		"tag":	24622,
 		"script":	"艾乌加蒙剧场",
 		"task":	0
 	}, {
@@ -55,8 +77,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22419,
-		"script":	"消失的星之歌",
+		"tag":	7153,
+		"script":	"霍普占卜室",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,7 +87,87 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5623,
-		"script":	"黄昏教堂",
+		"tag":	8685,
+		"script":	"普洛菲司台",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10471,
+		"script":	"卡伊洛斯的时间",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12868,
+		"script":	"圣字教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14448,
+		"script":	"哈姆克公爵府",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20215,
+		"script":	"希列",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21796,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6102,
+		"script":	"回声泉",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7787,
+		"script":	"冰狱",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	612,
+		"script":	"时空之泉",
 		"task":	0
 	}]
