@@ -192,7 +192,7 @@
 	"auto_set_diyitem":	"打本",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
-	"auto_team_room_name":	"",
+	"auto_team_room_name":	"2233",
 	"auto_team_room_namelist":	"",
 	"auto_team_world_room_name":	"",
 	"auto_team_world_room_password":	"",
@@ -209,7 +209,7 @@
 	"main_mob_friend_name":	"",
 	"main_mob_other_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"时间长轴;弥修斯的愤怒;拉斐拉的羽毛装饰;赫尔之戒碎片;火焰龙的角;莫尔迦娜的吊坠;金色圣杯;莫林锁链背带;银色石板;银色原石;天马的羽毛;莫德雷德的橙色蝴蝶结;",
+	"store_items":	"时间长轴;弥修斯的愤怒;拉斐拉的羽毛装饰;赫尔之戒碎片;火焰龙的角;莫尔迦娜的吊坠;金色圣杯;莫林锁链背带;银色石板;银色原石;天马的羽毛;莫德雷德的橙色蝴蝶结;伊希欧的头冠装饰;利利奥佩的雨伞;利利奥佩的丝带;阿戈斯的獠牙;皮酷斯缝纫线板;皮酷斯针鞘;格劳科斯之角;皮酷斯的玩偶;格劳科斯发条键;塔米埃尔的眼罩;瓦伊思的利角碎片;塔米埃尔的指甲;贝洛希的破碎魔法权杖;瓦伊思的刀片;被污染的贝洛希盔甲装饰;魔傀齿轮;墨武铁令;罡气源流;侠心火羽;",
 	"team_accept_cmd":	"666",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -255,12 +255,6 @@
 	"auto_set_boss_hp_type":	0,
 	"automatic_pupu_val":	5,
 	"automatic_zhs_time1":	0,
-	"automatic_zhs_time2":	0,
-	"automatic_zhs_time3":	0,
-	"automatic_zhs_time4":	0,
-	"automatic_zhs_time5":	0,
-	"automatic_zhs_time6":	0,
-	"automatic_zhs_time7":	0,
 	"config_system_type":	1,
 	"path_hide_effect_type":	0,
 	"path_pluginui_child10_type":	0,
@@ -283,12 +277,6 @@
 	"skill_option_storage_val":	0,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	0,
-	"summon_automatic_zhs_refresh2":	0,
-	"summon_automatic_zhs_refresh3":	0,
-	"summon_automatic_zhs_refresh4":	0,
-	"summon_automatic_zhs_refresh5":	0,
-	"summon_automatic_zhs_refresh6":	0,
-	"summon_automatic_zhs_refresh7":	0,
 	"team_accept_allot":	2,
 	"btn_color_1":	8388863,
 	"btn_color_10":	9673911,
@@ -299,8 +287,8 @@
 	"btn_color_8":	0,
 	"server":	119,
 	"item_filter_1":	[],
-	"item_filter_2":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
-	"item_filter_3":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113],
+	"item_filter_2":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113, 868811001, 868811003, 868811006, 868811009, 868811013, 868811014, 868811015, 868811017, 868811020, 868811023, 868811027, 868811028, 70504301, 70504303, 70504305, 70504307, 70505301, 70505303, 70505305, 70505307, 70506301, 70506303, 70506307, 70506314, 70507301, 70507303, 70507305, 70507307, 70507314, 70507316],
+	"item_filter_3":	[190081001, 435200105, 435200106, 435200104, 435200103, 435200102, 435200101, 435200107, 435200108, 435200109, 435200110, 435200111, 435200112, 435200113, 868811001, 868811003, 868811006, 868811009, 868811013, 868811014, 868811015, 868811017, 868811020, 868811023, 868811027, 868811028, 70504301, 70504303, 70504305, 70504307, 70505301, 70505303, 70505305, 70505307, 70506301, 70506303, 70506307, 70506314, 70507301, 70507303, 70507305, 70507307, 70507314, 70507316],
 	"item_filter_4":	[],
 	"item_use_data":	[{
 			"sw":	true,
@@ -516,45 +504,51 @@
 			"sw":	true,
 			"type":	"操作",
 			"name":	"召唤兽出战:尤里亚",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100404", "时空塌陷之地_100405", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100408", "时空塌陷之地_100409", "时空塌陷之地_100410"],
 			"induns":	[],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"暴击秘药",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100404", "时空塌陷之地_100405", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100408", "时空塌陷之地_100409", "时空塌陷之地_100410"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·秩序",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100404", "时空塌陷之地_100405", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100408", "时空塌陷之地_100409", "时空塌陷之地_100410"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·远古",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100404", "时空塌陷之地_100405", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100408", "时空塌陷之地_100409", "时空塌陷之地_100410"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"古籍·暴怒",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
+			"maps":	["时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100405", "时空塌陷之地_100404", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100408", "时空塌陷之地_100409", "时空塌陷之地_100410"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"拉皮德的铁盾药剂",
-			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "黄昏教堂", "消失的星之歌", "艾乌加蒙剧场", "深渊之镜", "霍普占卜室", "普洛菲司台", "卡伊洛斯的时间", "未知森林", "精灵树桩", "时空之泉", "穿梭之都"],
+			"induns":	["埃吉尔遗迹", "阿特拉斯庭院", "群星宫殿", "普累罗麻", "残缺边界", "流水回廊", "证明之塔", "普塞乌达里亚", "黄昏教堂", "消失的星之歌", "艾乌加蒙剧场", "深渊之镜", "霍普占卜室", "普洛菲司台", "卡伊洛斯的时间", "未知森林", "精灵树桩", "时空之泉", "穿梭之都", "奈落·蛇龙之巢", "奈落·冰封雪域", "奈落·魔法学院主楼", "奈落·神树拉菲尔", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌"],
 			"hard":	false
 		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"青苹果味全糖蜜果",
-			"maps":	["时空塌陷之地_100401;时空塌陷之地_100402;时空塌陷之地_100403;时空塌陷之地_100404;时空塌陷之地_100405;时空塌陷之地_100406;时空塌陷之地_100407;时空塌陷之地_100408;时空塌陷之地_100409;时空塌陷之地_100410;", "时空塌陷之地_100408"],
-			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚"],
+			"maps":	["时空塌陷之地_100408", "时空塌陷之地_100401", "时空塌陷之地_100402", "时空塌陷之地_100403", "时空塌陷之地_100404", "时空塌陷之地_100405", "时空塌陷之地_100406", "时空塌陷之地_100407", "时空塌陷之地_100409", "时空塌陷之地_100410"],
+			"induns":	["普累罗麻", "残缺边界", "水下培养皿·失魂寺", "时空之泉", "穿梭之都", "流水回廊", "未知森林", "证明之塔", "普塞乌达里亚", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·蛇龙之巢", "奈落·冰封雪域", "奈落·魔法学院主楼", "奈落·神树拉菲尔", "奈落·破坏之城"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"哈密瓜味全糖蜜果",
+			"induns":	["智海", "伊卡洛斯之翼", "铁之考验", "赫利波尔要塞", "葬剑幻谷", "曼赤肯仓库", "翡翠世界", "归元木匣", "普塞乌达里亚", "被吞噬的魔法办公楼", "摩克沙", "诺尼尔之泪", "尼夫海姆站", "穆斯菲尔斯隧道", "普累罗麻", "残缺边界", "埃吉尔遗迹", "阿特拉斯庭院", "流水回廊", "群星宫殿", "奈落·冰封雪域", "奈落·蛇龙之巢", "奈落·魔法学院主楼", "奈落·神树拉菲尔", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -1209,6 +1203,22 @@
 		"抓取技能加点数据":	false
 	},
 	"auto_card":	[{
+			"id":	448,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	449,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	445,
 			"num1":	0,
 			"num2":	0,
@@ -1314,6 +1324,14 @@
 			"item4":	false
 		}, {
 			"id":	418,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	4350,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -1697,6 +1715,46 @@
 			"item3":	false,
 			"item4":	false
 		}, {
+			"id":	298,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	297,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	290,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	289,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	283,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	19866,
 			"num1":	0,
 			"num2":	0,
@@ -1713,6 +1771,14 @@
 			"item3":	false,
 			"item4":	false
 		}, {
+			"id":	274,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
 			"id":	278,
 			"num1":	0,
 			"num2":	0,
@@ -1722,6 +1788,46 @@
 			"item4":	false
 		}, {
 			"id":	277,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	273,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	303,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	265,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	266,
+			"num1":	0,
+			"num2":	0,
+			"item1":	false,
+			"item2":	false,
+			"item3":	false,
+			"item4":	false
+		}, {
+			"id":	268,
 			"num1":	0,
 			"num2":	0,
 			"item1":	false,
@@ -3027,7 +3133,7 @@
 			"filter5":	true
 		}, {
 			"sw":	true,
-			"vague":	false,
+			"vague":	true,
 			"name":	"最小伤害 觉醒石",
 			"type1":	true,
 			"type2":	false,
@@ -3059,7 +3165,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -3071,7 +3177,7 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
@@ -3083,12 +3189,156 @@
 			"filter1":	false,
 			"filter2":	false,
 			"filter3":	false,
-			"filter4":	true,
+			"filter4":	false,
 			"filter5":	true
 		}, {
 			"sw":	true,
 			"vague":	false,
 			"name":	"无畏·超越钥匙",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	true
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"时间之黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"时间之红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	true,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"时间之蓝色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"最小伤害 觉醒石+1",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣域红色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"圣域黄色宝石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	true,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"回声",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	true,
+			"name":	"最大生命值 觉醒石",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏眼镜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏脸饰",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"黄昏丝袜",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"群星共鸣印章",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

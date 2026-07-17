@@ -1,43 +1,11 @@
 [{
-		"setcount":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	11511,
-		"script":	"普塞乌达里亚",
-		"task":	0,
-		"scriptend":	13
-	}, {
 		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15292,
-		"script":	"混乱世界",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23302,
-		"script":	"无尽繁星大厅",
-		"task":	0,
-		"scriptend":	13
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	27792,
-		"script":	"执行自动切换角色",
+		"tag":	21099,
+		"script":	"归元木匣",
 		"task":	0
 	}]

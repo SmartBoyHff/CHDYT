@@ -1,12 +1,12 @@
 [{
-		"setcount":	4,
+		"setcount":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16254,
-		"script":	"残缺边界",
+		"tag":	14726,
+		"script":	"霍普占卜室",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2999,
-		"script":	"穆斯菲尔斯隧道",
+		"tag":	16310,
+		"script":	"普洛菲司台",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17083,
-		"script":	"尼夫海姆站",
+		"tag":	13203,
+		"script":	"【存】材料",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,8 +35,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	30606,
-		"script":	"大地的考验",
+		"tag":	18197,
+		"script":	"卡伊洛斯的时间",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -45,8 +45,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15492,
-		"script":	"黑月的考验",
+		"tag":	23403,
+		"script":	"圣字教堂",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -55,8 +55,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31565,
-		"script":	"群星宫殿",
+		"tag":	25594,
+		"script":	"哈姆克公爵府",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,8 +65,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23544,
-		"script":	"黄昏教堂",
+		"tag":	27432,
+		"script":	"希列",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -75,7 +75,97 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21492,
-		"script":	"消失的星之歌",
+		"tag":	29166,
+		"script":	"盟约圣地",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	7324,
+		"script":	"【存】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16568,
+		"script":	"回声泉",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25039,
+		"script":	"冰狱",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22783,
+		"script":	"【存】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12515,
+		"script":	"武林大会",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23589,
+		"script":	"傀儡牢狱",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	17915,
+		"script":	"【存】材料",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29334,
+		"script":	"被吞噬的魔法办公楼",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4139,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]

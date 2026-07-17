@@ -1,0 +1,36 @@
+[{
+		"index":	172502234,
+		"name":	"元暮",
+		"autoscript":	"111",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	7463390,
+		"name":	"霜秋",
+		"autoscript":	"111",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	8177250,
+		"name":	"朦胧",
+		"autoscript":	"",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	157710515,
+		"name":	"砚墨秋",
+		"autoscript":	"清空",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	157701546,
+		"name":	"宁染",
+		"autoscript":	"111",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}]
