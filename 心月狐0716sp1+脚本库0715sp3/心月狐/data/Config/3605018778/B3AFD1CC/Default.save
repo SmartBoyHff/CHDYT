@@ -7,7 +7,7 @@
 	"auto_load_change":	false,
 	"auto_load_task":	false,
 	"auto_load_team":	false,
-	"auto_load_wait":	true,
+	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
@@ -50,11 +50,11 @@
 	"item_disassemble_item_sw":	true,
 	"item_pick_filter_1":	false,
 	"item_pick_filter_10":	true,
-	"item_pick_filter_12":	false,
-	"item_pick_filter_13":	false,
-	"item_pick_filter_14":	false,
+	"item_pick_filter_12":	true,
+	"item_pick_filter_13":	true,
+	"item_pick_filter_14":	true,
 	"item_pick_filter_2":	false,
-	"item_pick_filter_3":	true,
+	"item_pick_filter_3":	false,
 	"item_pick_filter_4":	false,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
@@ -194,8 +194,8 @@
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"2233",
 	"auto_team_room_namelist":	"",
-	"auto_team_world_room_name":	"N2来加速",
-	"auto_team_world_room_password":	"",
+	"auto_team_world_room_name":	"9527",
+	"auto_team_world_room_password":	"688",
 	"guild_tribute_items":	"",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -209,7 +209,7 @@
 	"main_mob_friend_name":	"",
 	"main_mob_other_name":	"",
 	"path_down_hotkey":	"Down",
-	"store_items":	"时间长轴;弥修斯的愤怒;拉斐拉的羽毛装饰;赫尔之戒碎片;火焰龙的角;莫尔迦娜的吊坠;金色圣杯;莫林锁链背带;银色石板;银色原石;天马的羽毛;莫德雷德的橙色蝴蝶结;伊希欧的头冠装饰;利利奥佩的雨伞;利利奥佩的丝带;阿戈斯的獠牙;皮酷斯缝纫线板;皮酷斯针鞘;格劳科斯之角;皮酷斯的玩偶;格劳科斯发条键;塔米埃尔的眼罩;瓦伊思的利角碎片;塔米埃尔的指甲;贝洛希的破碎魔法权杖;瓦伊思的刀片;被污染的贝洛希盔甲装饰;魔傀齿轮;墨武铁令;罡气源流;侠心火羽;",
+	"store_items":	"时间长轴;弥修斯的愤怒;拉斐拉的羽毛装饰;赫尔之戒碎片;火焰龙的角;莫尔迦娜的吊坠;金色圣杯;莫林锁链背带;银色石板;银色原石;天马的羽毛;莫德雷德的橙色蝴蝶结;伊希欧的头冠装饰;利利奥佩的雨伞;利利奥佩的丝带;阿戈斯的獠牙;皮酷斯缝纫线板;皮酷斯针鞘;格劳科斯之角;皮酷斯的玩偶;格劳科斯发条键;塔米埃尔的眼罩;瓦伊思的利角碎片;塔米埃尔的指甲;贝洛希的破碎魔法权杖;瓦伊思的刀片;被污染的贝洛希盔甲装饰;魔傀齿轮;墨武铁令;罡气源流;侠心火羽;格诺西斯的领悟;",
 	"team_accept_cmd":	"666",
 	"team_accept_name":	"",
 	"team_follow_name":	"",
@@ -397,6 +397,12 @@
 	"protec_recover_data":	{
 	},
 	"item_buff_data":	[{
+			"sw":	true,
+			"type":	"物品",
+			"name":	"敏捷穿梭药剂",
+			"induns":	["普塞乌达里亚"],
+			"hard":	false
+		}, {
 			"sw":	true,
 			"type":	"物品",
 			"name":	"羁绊之羽",
@@ -2312,7 +2318,7 @@
 	"diytrigger":	[{
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,
@@ -2400,6 +2406,25 @@
 						}, {
 							"搜索内有首领":	""
 						}]
+				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	false,
+			"name":	"300小四",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"没有BUFF":	"活动_6000159"
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"百分考卷"
+					},
+					"judges":	[]
 				}]
 		}],
 	"pet_build":	[{

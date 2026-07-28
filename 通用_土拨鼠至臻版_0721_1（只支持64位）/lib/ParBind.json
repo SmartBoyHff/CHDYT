@@ -1,0 +1,134 @@
+[
+  {
+    "iBindIndex": 1,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "开启"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 2,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "正常躲避"
+      },
+      {
+        "iValue": 2,
+        "sName": "刮痧躲避"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 3,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "仅大BOSS躲避"
+      },
+      {
+        "iValue": 3,
+        "sName": "额外小BOSS躲避"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 4,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "送死BOSS不飞"
+      },
+      {
+        "iValue": 2,
+        "sName": "送死BOSS飞"
+      },
+      {
+        "iValue": 2,
+        "sName": "额外送死小BOSS飞"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 5, 
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "否"
+      },
+      {
+        "iValue": 1,
+        "sName": "是"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 6,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "执行副本后执行"
+      },
+      {
+        "iValue": 2,
+        "sName": "强制执行"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 7,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "正常躲避"
+      },
+      {
+        "iValue": 2,
+        "sName": "下蹲躲避"
+      }
+    ]
+  },
+  {
+    "iBindIndex": 8,
+    "vBindSelect": [
+      {
+        "iValue": 0,
+        "sName": "关闭"
+      },
+      {
+        "iValue": 1,
+        "sName": "正常躲避"
+      },
+      {
+        "iValue": 2,
+        "sName": "下蹲躲避"
+      }
+    ]
+  }
+]

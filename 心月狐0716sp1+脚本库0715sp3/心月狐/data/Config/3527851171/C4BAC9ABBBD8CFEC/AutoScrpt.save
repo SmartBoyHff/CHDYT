@@ -5,8 +5,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20272,
-		"script":	"霍普占卜室",
+		"tag":	32354,
+		"script":	"阿特拉斯庭院",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -15,8 +15,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21699,
-		"script":	"普洛菲司台",
+		"tag":	7548,
+		"script":	"埃吉尔遗迹",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -25,8 +25,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23077,
-		"script":	"卡伊洛斯的时间",
+		"tag":	8750,
+		"script":	"穆斯菲尔斯隧道",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -35,8 +35,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24556,
-		"script":	"圣字教堂",
+		"tag":	17221,
+		"script":	"尼夫海姆站",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -45,8 +45,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26342,
-		"script":	"哈姆克公爵府",
+		"tag":	18049,
+		"script":	"诺尼尔之泪",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -55,8 +55,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27822,
-		"script":	"希列",
+		"tag":	26415,
+		"script":	"摩克沙",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -65,9 +65,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29304,
-		"script":	"盟约圣地",
-		"task":	0
+		"tag":	13939,
+		"script":	"神秘殿堂",
+		"task":	100007,
+		"scriptend":	21
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -75,9 +76,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20658,
-		"script":	"【存】材料",
-		"task":	0
+		"tag":	1797,
+		"script":	"冰淇淋庭院",
+		"task":	100025,
+		"scriptend":	21
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -85,9 +87,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20261,
-		"script":	"回声泉",
-		"task":	0
+		"tag":	2167,
+		"script":	"花之路",
+		"task":	100032,
+		"scriptend":	21
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -95,9 +98,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21844,
-		"script":	"冰狱",
-		"task":	0
+		"tag":	30331,
+		"script":	"保管异面不祥道具(1)",
+		"task":	100069,
+		"scriptend":	21
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -105,109 +109,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32335,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5555,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21324,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5648,
-		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7637,
-		"script":	"黄昏教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4719,
-		"script":	"失魂寺",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30560,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2710,
-		"script":	"水下培养皿",
-		"task":	100008
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16640,
-		"script":	"梦之路",
-		"task":	100034
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16689,
-		"script":	"星之摇篮",
-		"task":	100044
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16742,
+		"tag":	9617,
 		"script":	"保管异面不祥书籍(3)",
-		"task":	100075
+		"task":	100075,
+		"scriptend":	21
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -215,9 +120,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16794,
-		"script":	"欧若拉奇妙物语(2)",
-		"task":	100078
+		"tag":	8065,
+		"script":	"处理妨碍净化之人(1)",
+		"task":	100083
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -225,9 +130,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16843,
-		"script":	"不幸者的救赎(1)",
-		"task":	100088
+		"tag":	8117,
+		"script":	"惩罚干扰修炼之人(2)",
+		"task":	100097
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -235,9 +140,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16895,
-		"script":	"惩罚干扰修炼之人(1)",
-		"task":	100096
+		"tag":	8170,
+		"script":	"沙之战场(1)",
+		"task":	100130
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -245,9 +150,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16944,
-		"script":	"沙之战场(2)",
-		"task":	100131
+		"tag":	8219,
+		"script":	"沙之战场(3)",
+		"task":	100132
 	}, {
 		"setcount":	0,
 		"loadtime":	0,
@@ -255,17 +160,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16996,
-		"script":	"燥热键盘",
-		"task":	100133
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17049,
-		"script":	"拥有特殊记忆的动物(2)",
-		"task":	100150
+		"tag":	8271,
+		"script":	"拥有特殊记忆的动物(1)",
+		"task":	100149
 	}]

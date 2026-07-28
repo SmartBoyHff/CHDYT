@@ -1,0 +1,213 @@
+[
+  {
+    "iIndex": 1,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "躲避开关",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 6,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "检测飞翔石开关",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 4,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "宝箱等待开关",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 9,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "跳图开关",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 11,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "珊瑚药剂开关",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 13,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "打完第一个BOSS飞出",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 2,
+    "iType": 3,
+    "iBindIndex": 3,
+    "sName": "躲避选项",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 3,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "特殊躲避开关",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 5,
+    "iType": 3,
+    "iBindIndex": 4,
+    "sName": "送死开关",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 7,
+    "iType": 3,
+    "iBindIndex": 6,
+    "sName": "定时启动",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 8,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "采集挖矿开关",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 10,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "苏生保护限制(0表示关闭)",
+    "iDefaultData": 20,
+    "sDefaultText": "20"
+  },
+  {
+    "iIndex": 12,
+    "iType": 3,
+    "iBindIndex": 11,
+    "sName": "苏生限制开关",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 14,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "日常任务开关",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 15,
+    "iType": 3,
+    "iBindIndex": 5,
+    "sName": "副本完成返回城镇",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 16,
+    "iType": 3,
+    "iBindIndex": 5,
+    "sName": "是否BOSS全打",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 17,
+    "iType": 3,
+    "iBindIndex": 5,
+    "sName": "未到时间是否等待",
+    "iDefaultData": 0
+  }
+  ,
+  {
+    "iIndex": 18,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "副本入口等待开关",
+    "iDefaultData": 0
+  }
+  ,
+  {
+    "iIndex": 19,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "副本入口等待(秒)",
+    "iDefaultData": 5
+  }
+  ,
+  {
+    "iIndex": 20,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "挑战层数",
+    "iDefaultData": 1
+  }
+  ,
+  {
+    "iIndex": 21,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "副本宝箱等待(秒)",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 22,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "优先攻击小BOSS",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 23,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "经验本卡翅膀开关",
+    "iDefaultData": 1
+  },
+   {
+    "iIndex": 24,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "背击BOSS(输出排名>=2)",
+    "iDefaultData": 0
+  },
+  {
+    "iIndex": 25,
+    "iType": 3,
+    "iBindIndex": 7,
+    "sName": "躲避方式",
+    "iDefaultData": 1
+  },
+  {
+    "iIndex": 26,
+    "iType": 3,
+    "iBindIndex": 8,
+    "sName": "躲避方式",
+    "iDefaultData": 1
+  }
+  ,
+  {
+    "iIndex": 30,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "挑战人数",
+    "iDefaultData": 8
+  }
+  ,
+  {
+    "iIndex": 31,
+    "iType": 1,
+    "iBindIndex": 1,
+    "sName": "通关领奖倍率",
+    "iDefaultData": 1
+  }
+  ,
+  {
+    "iIndex": 32,
+    "iType": 3,
+    "iBindIndex": 1,
+    "sName": "领满奖励停止副本开关",
+    "iDefaultData": 1
+  }
+]

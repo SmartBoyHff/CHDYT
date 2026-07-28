@@ -1,0 +1,28 @@
+{
+    "servers": {
+        "1": {
+            "addr": "114.132.28.33",
+            "port": 10001
+        },
+        "3": {
+            "addr": "114.132.28.33",
+            "port": 10003
+        },
+        "36": {
+            "addr": "chdlogin36.sdo.com",
+            "port": 10000
+        },
+        "51": {
+            "addr": "chdlogin51.sdo.com",
+            "port": 10000
+        },
+        "55": {
+            "addr": "chdlogin55.sdo.com",
+            "port": 10000
+        },
+        "56": {
+            "addr": "chdlogin56.sdo.com",
+            "port": 10000
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "m_bIsIgnoreTeam": false,
+    "m_bIsSwap": false,
+    "m_iActive": 0,
+    "m_iCurSwapTime": 25,
+    "m_iFirstConfig": 0,
+    "m_sFirstSwapPlay": "",
+    "m_vIgnoreIndun": [],
+    "m_vSetting": [
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置1",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置2",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置3",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置4",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置5",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置6",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置7",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置8",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置9",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置10",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置11",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置12",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置13",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置14",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置15",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置16",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置17",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置18",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置19",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置20",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置21",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置22",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置23",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置24",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置25",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置26",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置27",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置28",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置29",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置30",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置31",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置32",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置33",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置34",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置35",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置36",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置37",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置38",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置39",
+            "vList": []
+        },
+        {
+            "bIsLoaderEnd": false,
+            "iLoaderEndIndex": 0,
+            "sName": "配置40",
+            "vList": []
+        }
+    ]
+}

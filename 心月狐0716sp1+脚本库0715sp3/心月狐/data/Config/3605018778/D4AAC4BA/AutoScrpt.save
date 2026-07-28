@@ -1,31 +1,11 @@
 [{
-		"setcount":	0,
+		"setcount":	1,
 		"loadtime":	0,
-		"diyitem":	"",
+		"diyitem":	"经验本",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12708,
-		"script":	"诺尼尔之泪",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21741,
-		"script":	"摩克沙",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	189,
-		"script":	"执行自动切换角色",
+		"tag":	16108,
+		"script":	"普塞乌达里亚",
 		"task":	0
 	}]

@@ -1,0 +1,55 @@
+{
+    "vAutoScript": [
+        [
+            1,
+            [
+                {
+                    "iCount": 1,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "魔发城堡",
+                    "setting": {
+                        "vPar": [
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                23,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    ]
+}

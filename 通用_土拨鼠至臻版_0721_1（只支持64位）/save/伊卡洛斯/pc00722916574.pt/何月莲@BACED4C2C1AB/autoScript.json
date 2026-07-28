@@ -1,0 +1,425 @@
+{
+    "vAutoScript": [
+        [
+            1,
+            [
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 0,
+                    "iReCount": 0,
+                    "sIndName": "水下培养皿失魂寺",
+                    "setting": {
+                        "vPar": [
+                            [
+                                1,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                15,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "消失的星之歌",
+                    "setting": {
+                        "vPar": [
+                            [
+                                1,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                8,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                15,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "黄昏教堂",
+                    "setting": {
+                        "vPar": [
+                            [
+                                1,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                8,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                15,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "深渊之镜",
+                    "setting": {
+                        "vPar": [
+                            [
+                                1,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                8,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                15,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "回声泉",
+                    "setting": {
+                        "vPar": [
+                            [
+                                1,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                8,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "iCount": 3,
+                    "iModel": 0,
+                    "iRation": 2,
+                    "iReCount": 0,
+                    "sIndName": "冰狱",
+                    "setting": {
+                        "vPar": [
+                            [
+                                6,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                8,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                14,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                19,
+                                {
+                                    "iData": 5,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                21,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                24,
+                                {
+                                    "iData": 0,
+                                    "sData": ""
+                                }
+                            ],
+                            [
+                                31,
+                                {
+                                    "iData": 1,
+                                    "sData": ""
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    ]
+}
