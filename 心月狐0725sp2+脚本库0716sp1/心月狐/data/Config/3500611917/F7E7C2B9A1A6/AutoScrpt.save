@@ -1,6 +1,6 @@
 [{
 		"setcount":	0,
-		"setreward":	1,
+		"setreward":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -11,7 +11,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
-		"setreward":	1,
+		"setreward":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -19,11 +19,10 @@
 		"diyawaken":	"",
 		"tag":	14379,
 		"script":	"无尽繁星大厅",
-		"task":	0,
-		"scriptend":	28
+		"task":	0
 	}, {
 		"setcount":	0,
-		"setreward":	1,
+		"setreward":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -32,10 +31,10 @@
 		"tag":	9121,
 		"script":	"【月活动每日】每日任务",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	29
 	}, {
 		"setcount":	0,
-		"setreward":	1,
+		"setreward":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -44,7 +43,7 @@
 		"tag":	4624,
 		"script":	"【月活动签到】高级签到任务",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"setreward":	1,
@@ -53,30 +52,19 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23715,
-		"script":	"失魂寺",
+		"tag":	26724,
+		"script":	"【月活动商城】招魂商城任务",
 		"task":	0,
-		"scriptend":	28
+		"scriptend":	29
 	}, {
 		"setcount":	0,
-		"setreward":	1,
+		"setreward":	0,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14162,
-		"script":	"普塞乌达里亚",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	1,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9558,
-		"script":	"魔发城堡",
+		"tag":	8057,
+		"script":	"竞技场练习赛（全部任务）",
 		"task":	0
 	}]

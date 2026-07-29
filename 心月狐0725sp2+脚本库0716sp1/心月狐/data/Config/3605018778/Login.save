@@ -1,7 +1,7 @@
 [{
-		"index":	26510046,
-		"name":	"朦胧",
-		"autoscript":	"连体每日",
+		"index":	26520578,
+		"name":	"元暮",
+		"autoscript":	"临时每日",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
@@ -27,16 +27,9 @@
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	26520578,
-		"name":	"元暮",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
 		"index":	59166109,
 		"name":	"鸢一",
-		"autoscript":	"清空",
+		"autoscript":	"连体每日",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""

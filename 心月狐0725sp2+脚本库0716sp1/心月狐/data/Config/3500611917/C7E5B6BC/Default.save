@@ -75,8 +75,8 @@
 	"item_throw_pass_4":	false,
 	"item_throw_pass_5":	false,
 	"item_throw_sell":	true,
-	"item_throw_sw1":	true,
-	"item_throw_sw2":	true,
+	"item_throw_sw1":	false,
+	"item_throw_sw2":	false,
 	"item_use_sort":	true,
 	"item_use_sw":	true,
 	"main_mob_attack_sw":	false,
@@ -268,7 +268,7 @@
 	"path_pluginui_child3_type":	1,
 	"path_pluginui_child4_type":	0,
 	"path_pluginui_child5_type":	0,
-	"path_pluginui_child6_type":	-1,
+	"path_pluginui_child6_type":	0,
 	"path_pluginui_child7_type":	0,
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
@@ -691,7 +691,7 @@
 			"npcdata":	[{
 					"npc":	1,
 					"sw1":	true,
-					"sw2":	true,
+					"sw2":	false,
 					"num":	5,
 					"item":	"神魔羁绊礼盒"
 				}, {
@@ -731,7 +731,7 @@
 				}, {
 					"npc":	8,
 					"sw1":	false,
-					"sw2":	true,
+					"sw2":	false,
 					"num":	5,
 					"item":	"乡村羁绊礼盒"
 				}, {
@@ -743,7 +743,7 @@
 				}]
 		}, {
 			"id":	3,
-			"sw":	true,
+			"sw":	false,
 			"npcdata":	[{
 					"npc":	11,
 					"sw1":	true,
@@ -777,13 +777,13 @@
 				}]
 		}, {
 			"id":	4,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	16,
 					"sw1":	false,
-					"sw2":	false,
+					"sw2":	true,
 					"num":	5,
-					"item":	""
+					"item":	"赠送所有可提交物品"
 				}, {
 					"npc":	17,
 					"sw1":	false,
@@ -801,11 +801,11 @@
 					"sw1":	false,
 					"sw2":	false,
 					"num":	5,
-					"item":	""
+					"item":	"赠送所有可提交物品"
 				}]
 		}, {
 			"id":	5,
-			"sw":	false,
+			"sw":	true,
 			"npcdata":	[{
 					"npc":	21,
 					"sw1":	false,
@@ -817,7 +817,7 @@
 					"sw1":	false,
 					"sw2":	false,
 					"num":	5,
-					"item":	""
+					"item":	"赠送所有可提交物品"
 				}, {
 					"npc":	23,
 					"sw1":	false,
