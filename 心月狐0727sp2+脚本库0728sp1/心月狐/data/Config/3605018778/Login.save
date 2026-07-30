@@ -1,56 +1,28 @@
 [{
+		"index":	11118343,
+		"name":	"朦胧",
+		"autoscript":	"7月30团",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
 		"index":	26520578,
 		"name":	"元暮",
-		"autoscript":	"临时每日",
+		"autoscript":	"7月30团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
 		"index":	10363234,
 		"name":	"霜秋",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	10351234,
-		"name":	"宁染",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	10356687,
-		"name":	"砚墨秋",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	59166109,
-		"name":	"鸢一",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	225464218,
-		"name":	"元霜",
-		"autoscript":	"连体每日",
+		"autoscript":	"7月30团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
 		"index":	225470812,
 		"name":	"朝烟",
-		"autoscript":	"连体每日",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	225486171,
-		"name":	"久辞别",
-		"autoscript":	"连体每日",
+		"autoscript":	"7月30团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""

@@ -30,8 +30,7 @@
 		"diyawaken":	"",
 		"tag":	13203,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -97,8 +96,7 @@
 		"diyawaken":	"",
 		"tag":	7324,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -131,8 +129,7 @@
 		"diyawaken":	"",
 		"tag":	22783,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -165,8 +162,7 @@
 		"diyawaken":	"",
 		"tag":	17915,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -199,8 +195,7 @@
 		"diyawaken":	"",
 		"tag":	858,
 		"script":	"【存】材料",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -222,8 +217,7 @@
 		"diyawaken":	"",
 		"tag":	24725,
 		"script":	"竞技场练习赛（全部任务）",
-		"task":	0,
-		"scriptend":	29
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,

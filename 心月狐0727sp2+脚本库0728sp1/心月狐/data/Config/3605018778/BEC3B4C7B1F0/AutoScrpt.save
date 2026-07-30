@@ -1,6 +1,6 @@
 [{
 		"setcount":	1,
-		"setreward":	0,
+		"setreward":	false,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -8,6 +8,5 @@
 		"diyawaken":	"",
 		"tag":	17046,
 		"script":	"魔法学院主楼",
-		"task":	0,
-		"scriptend":	27
+		"task":	0
 	}]
