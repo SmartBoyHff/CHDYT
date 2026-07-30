@@ -8,7 +8,8 @@
 		"diyawaken":	"经验本",
 		"tag":	25235,
 		"script":	"魔发城堡",
-		"task":	0
+		"task":	0,
+		"scriptend":	29
 	}, {
 		"setcount":	0,
 		"setreward":	false,

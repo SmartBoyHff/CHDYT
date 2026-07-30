@@ -83,7 +83,29 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3529,
+		"tag":	6049,
+		"script":	"黄昏教堂",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22272,
+		"script":	"消失的星之歌",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	14421,
 		"script":	"矮人飞艇(超越)",
 		"task":	100016
 	}, {
@@ -94,7 +116,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3578,
+		"tag":	14470,
 		"script":	"水下培养皿",
 		"task":	100021
 	}, {
@@ -105,7 +127,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3630,
+		"tag":	14523,
 		"script":	"冰封雪域",
 		"task":	100062
 	}, {
@@ -116,7 +138,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3683,
+		"tag":	14575,
 		"script":	"欧若拉奇妙物语(1)",
 		"task":	100077
 	}, {
@@ -127,7 +149,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3732,
+		"tag":	14624,
 		"script":	"欧若拉奇妙物语(2)",
 		"task":	100078
 	}, {
@@ -138,7 +160,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3784,
+		"tag":	14676,
 		"script":	"不幸者的救赎(1)",
 		"task":	100088
 	}, {
@@ -149,7 +171,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3833,
+		"tag":	14728,
 		"script":	"不幸者的救赎(4)",
 		"task":	100091
 	}, {
@@ -160,7 +182,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3885,
+		"tag":	14777,
 		"script":	"抗争者的资格",
 		"task":	100094
 	}, {
@@ -171,7 +193,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3937,
+		"tag":	14830,
 		"script":	"如何活下去",
 		"task":	100137
 	}, {
@@ -182,7 +204,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3986,
+		"tag":	14879,
 		"script":	"灵气清澈之山(2)",
 		"task":	100141
 	}]
