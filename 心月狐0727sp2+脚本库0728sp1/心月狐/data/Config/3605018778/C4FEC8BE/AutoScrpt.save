@@ -6,8 +6,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14726,
-		"script":	"霍普占卜室",
+		"tag":	18794,
+		"script":	"普累罗麻",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,216 +17,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16310,
-		"script":	"普洛菲司台",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	13203,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18197,
-		"script":	"卡伊洛斯的时间",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23403,
-		"script":	"圣字教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25594,
-		"script":	"哈姆克公爵府",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	27432,
-		"script":	"希列",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29166,
-		"script":	"盟约圣地",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7324,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	16568,
-		"script":	"回声泉",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25039,
-		"script":	"冰狱",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22783,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12515,
-		"script":	"武林大会",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	23589,
-		"script":	"傀儡牢狱",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	17915,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25013,
-		"script":	"深渊之镜",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10318,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	858,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29334,
-		"script":	"被吞噬的魔法办公楼",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24725,
-		"script":	"竞技场练习赛（全部任务）",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4139,
+		"tag":	989,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}, {
@@ -237,9 +28,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9482,
-		"script":	"矮人飞艇(超越)",
-		"task":	100016
+		"tag":	10390,
+		"script":	"索拉城斗兽场",
+		"task":	100003
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -248,9 +39,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9535,
-		"script":	"水下培养皿",
-		"task":	100021
+		"tag":	10443,
+		"script":	"混沌峡谷",
+		"task":	100031
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -259,9 +50,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9584,
-		"script":	"冰封雪域",
-		"task":	100062
+		"tag":	10495,
+		"script":	"月之路",
+		"task":	100033
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -270,9 +61,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9636,
-		"script":	"欧若拉奇妙物语(1)",
-		"task":	100077
+		"tag":	10544,
+		"script":	"遗忘花园",
+		"task":	100040
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -281,9 +72,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9685,
-		"script":	"欧若拉奇妙物语(2)",
-		"task":	100078
+		"tag":	10596,
+		"script":	"龙皇殿",
+		"task":	100047
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -292,9 +83,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9737,
-		"script":	"不幸者的救赎(1)",
-		"task":	100088
+		"tag":	10648,
+		"script":	"魔石实验室",
+		"task":	100052
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -303,7 +94,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9789,
+		"tag":	10697,
+		"script":	"处理妨碍净化之人(3)",
+		"task":	100085
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10750,
 		"script":	"不幸者的救赎(4)",
 		"task":	100091
 	}, {
@@ -314,29 +116,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9838,
-		"script":	"抗争者的资格",
-		"task":	100094
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9891,
-		"script":	"如何活下去",
-		"task":	100137
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9943,
-		"script":	"灵气清澈之山(2)",
-		"task":	100141
+		"tag":	10798,
+		"script":	"惩罚干扰修炼之人(2)",
+		"task":	100097
 	}]

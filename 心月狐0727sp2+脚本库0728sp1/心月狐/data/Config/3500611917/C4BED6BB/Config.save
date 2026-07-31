@@ -230,14 +230,14 @@
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"maps":	[],
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"maps":	[],

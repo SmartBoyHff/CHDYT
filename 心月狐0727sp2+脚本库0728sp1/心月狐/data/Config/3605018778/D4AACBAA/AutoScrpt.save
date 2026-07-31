@@ -1,12 +1,12 @@
 [{
-		"setcount":	1,
-		"setreward":	false,
+		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13080,
-		"script":	"魔法学院主楼",
+		"tag":	15668,
+		"script":	"【存】材料",
 		"task":	0
 	}]

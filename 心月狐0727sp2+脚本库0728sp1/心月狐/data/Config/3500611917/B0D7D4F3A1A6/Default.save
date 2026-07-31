@@ -520,14 +520,14 @@
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"maps":	[],
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"maps":	[],
@@ -629,9 +629,24 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	3608113,
+			"id":	300,
 			"hotkey":	"",
-			"name":	"第六感",
+			"name":	"【生存本能】1段",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	5000951,
+			"hotkey":	"",
+			"name":	"[特殊]刺杀者",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -641,17 +656,130 @@
 			"speedx":	false,
 			"skillud":	0,
 			"judge":	[{
-					"AP<=":	"200"
+					"搜索内有首领":	""
 				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	6200102,
+			"id":	2503034,
 			"hotkey":	"",
-			"name":	"[奈落]聚能冲击",
+			"name":	"特殊能力恢复",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"AP<=":	"400"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403006,
+			"hotkey":	"",
+			"name":	"忍术_爆",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403005,
+			"hotkey":	"",
+			"name":	"忍术_乱",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1002029,
+			"hotkey":	"",
+			"name":	"忍术_诬",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3803004,
+			"hotkey":	"",
+			"name":	"【核心I】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403007,
+			"hotkey":	"",
+			"name":	"忍术_逃",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	true,
+			"speedx":	true,
+			"skillud":	0,
+			"judge":	[{
+					"技能冷却中":	"忍术_乱"
+				}, {
+					"技能冷却中":	"忍术_爆"
+				}, {
+					"技能冷却中":	"忍术_诬"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	6200106,
+			"hotkey":	"",
+			"name":	"[奈落]魔影突袭",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	32500039,
+			"hotkey":	"",
+			"name":	"敏锐怒火之钥",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
@@ -666,276 +794,23 @@
 			"name":	"圣物技能",
 			"dmin":	0,
 			"dmax":	300,
-			"priority":	false,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
 			"judge":	[{
-					"搜索内有首领":	""
-				}, {
 					"没有BUFF":	"圣物之力_81090001"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	32500019,
-			"hotkey":	"",
-			"name":	"坚盾惩戒之钥",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
+				}, {
 					"搜索内有首领":	""
 				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1804100,
-			"hotkey":	"D",
-			"name":	"纳刀·雾雨",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804130,
-			"hotkey":	"D",
-			"name":	"[无限]一刀两断",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"技能冷却中":	"拔刀·鬼怪狩猎"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3808104,
-			"hotkey":	"D",
-			"name":	"【核心I】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804120,
-			"hotkey":	"D",
-			"name":	"纳刀·暴雨如注",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804110,
-			"hotkey":	"D",
-			"name":	"纳刀·狐雨",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	true,
-			"speedx":	true,
-			"skillud":	0,
-			"judge":	[{
-					"搜索内有首领":	""
-				}, {
-					"在副本":	"群星宫殿;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804110,
-			"hotkey":	"D",
-			"name":	"纳刀·狐雨",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	true,
-			"speedx":	true,
-			"skillud":	0,
-			"judge":	[{
-					"不在副本":	"群星宫殿;"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804070,
-			"hotkey":	"D",
-			"name":	"拔刀·浪斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"技能冷却中":	"拔刀·鬼怪狩猎"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804080,
-			"hotkey":	"D",
-			"name":	"拔刀·鬼怪狩猎",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804060,
-			"hotkey":	"D",
-			"name":	"拔刀·暴风斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3820001,
-			"hotkey":	"D",
-			"name":	"魔法球板",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3818104,
-			"hotkey":	"D",
-			"name":	"【核心II】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804030,
-			"hotkey":	"D",
-			"name":	"丹枫扫",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804010,
-			"hotkey":	"D",
-			"name":	"流星破",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	true,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804020,
+			"id":	3803007,
 			"hotkey":	"",
-			"name":	"闪光斩",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	true,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"技能冷却中":	"拔刀·鬼怪狩猎"
-				}, {
-					"技能冷却中":	"拔刀·浪斩"
-				}, {
-					"技能冷却中":	"拔刀·暴风斩"
-				}, {
-					"技能冷却中":	"丹枫扫"
-				}, {
-					"技能冷却中":	"[无限]一刀两断"
-				}, {
-					"技能冷却中":	"纳刀·雾雨"
-				}, {
-					"技能冷却中":	"纳刀·狐雨"
-				}, {
-					"技能冷却中":	"纳刀·暴雨如注"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1804000,
-			"hotkey":	"",
-			"name":	"露水刺击",
+			"name":	"【传奇】",
 			"dmin":	0,
 			"dmax":	300,
 			"priority":	false,
@@ -944,6 +819,81 @@
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403003,
+			"hotkey":	"",
+			"name":	"忍术_幻",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403004,
+			"hotkey":	"",
+			"name":	"忍术_搅",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403002,
+			"hotkey":	"",
+			"name":	"忍术_雷",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1000029,
+			"hotkey":	"",
+			"name":	"忍术_锁",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2403001,
+			"hotkey":	"",
+			"name":	"忍术_速",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	2,
 			"judge":	[],
 			"num":	0
 		}],
@@ -1407,7 +1357,6 @@
 		"据点战助手":	false,
 		"自动叠加背包物品":	false,
 		"自动使用经验珠":	false,
-		"自动使用梦灵碎片":	false,
 		"自动使用潜力药水":	false,
 		"自动使用任务物品":	false,
 		"自动使用通天塔箱子":	false,
@@ -5216,18 +5165,33 @@
 	"autosystemscript":	["兑换【签到】方块奖励"],
 	"shak_skill":	[{
 			"sw":	true,
-			"id":	3608114,
-			"name":	"不予理会",
+			"id":	2403002,
+			"name":	"忍术_雷",
 			"reverse":	false
 		}, {
 			"sw":	true,
-			"id":	1804140,
-			"name":	"突击",
+			"id":	1002029,
+			"name":	"忍术_诬",
 			"reverse":	false
 		}, {
 			"sw":	true,
-			"id":	1804110,
-			"name":	"纳刀·狐雨",
+			"id":	2403004,
+			"name":	"忍术_搅",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1005029,
+			"name":	"忍术_快",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	2403007,
+			"name":	"忍术_逃",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	3120030,
+			"name":	"后空翻",
 			"reverse":	false
 		}],
 	"opacity":	100
