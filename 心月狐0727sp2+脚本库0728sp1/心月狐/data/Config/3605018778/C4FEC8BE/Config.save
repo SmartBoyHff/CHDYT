@@ -61,6 +61,7 @@
 				"000B0001":	"清醒者"
 			}
 		}],
+<<<<<<< HEAD
 	"diysuit_awaken":	[{
 			"name":	"连体肉二觉加点",
 			"data":	{
@@ -3376,4 +3377,7 @@
 	"trigger":	[],
 	"dress_text":	[],
 	"autosystemscript":	["兑换【签到】方块奖励"]
+=======
+	"diysuit_awaken":	[]
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 }

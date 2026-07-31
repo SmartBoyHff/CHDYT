@@ -1,5 +1,6 @@
 [{
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -10,6 +11,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -20,6 +22,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -30,6 +33,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -40,6 +44,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -50,6 +55,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -60,6 +66,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -70,6 +77,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -80,6 +88,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -90,6 +99,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -100,6 +110,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -110,6 +121,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -120,6 +132,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -130,6 +143,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -140,6 +154,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -150,6 +165,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -160,6 +176,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -170,6 +187,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -180,6 +198,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -190,6 +209,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -200,6 +220,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -210,6 +231,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -220,6 +242,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -230,6 +253,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -240,6 +264,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -250,6 +275,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -260,6 +286,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -270,6 +297,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -280,6 +308,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -290,6 +319,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -300,6 +330,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -310,6 +341,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -320,6 +352,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -330,6 +363,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -340,6 +374,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -350,6 +385,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -360,6 +396,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -370,6 +407,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -380,6 +418,7 @@
 		"task":	100135
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -390,6 +429,7 @@
 		"task":	100005
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -400,6 +440,7 @@
 		"task":	100047
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -410,6 +451,7 @@
 		"task":	100060
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -420,6 +462,7 @@
 		"task":	100061
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -430,6 +473,7 @@
 		"task":	100070
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -440,6 +484,7 @@
 		"task":	100089
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -450,6 +495,7 @@
 		"task":	100090
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",

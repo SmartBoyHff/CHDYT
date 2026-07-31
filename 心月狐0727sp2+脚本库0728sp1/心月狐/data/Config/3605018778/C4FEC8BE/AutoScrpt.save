@@ -6,7 +6,11 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	25709,
+=======
+		"tag":	18794,
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 		"script":	"普累罗麻",
 		"task":	0
 	}, {
@@ -17,7 +21,11 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	24122,
+=======
+		"tag":	989,
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 		"script":	"执行自动切换角色",
 		"task":	0
 	}, {
@@ -28,9 +36,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12547,
 		"script":	"花之路",
 		"task":	100032
+=======
+		"tag":	10390,
+		"script":	"索拉城斗兽场",
+		"task":	100003
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -39,9 +53,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12599,
 		"script":	"星之摇篮",
 		"task":	100044
+=======
+		"tag":	10443,
+		"script":	"混沌峡谷",
+		"task":	100031
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -50,9 +70,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12652,
 		"script":	"破坏之城",
 		"task":	100050
+=======
+		"tag":	10495,
+		"script":	"月之路",
+		"task":	100033
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -61,9 +87,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12701,
 		"script":	"魔石实验室",
 		"task":	100051
+=======
+		"tag":	10544,
+		"script":	"遗忘花园",
+		"task":	100040
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -72,9 +104,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12753,
 		"script":	"太阳神地下祭坛(超越)",
 		"task":	100055
+=======
+		"tag":	10596,
+		"script":	"龙皇殿",
+		"task":	100047
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -83,9 +121,15 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12805,
 		"script":	"幻影毒雾沼泽",
 		"task":	100059
+=======
+		"tag":	10648,
+		"script":	"魔石实验室",
+		"task":	100052
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -94,9 +138,14 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12854,
 		"script":	"保管异面不祥道具(3)",
 		"task":	100071
+=======
+		"tag":	10697,
+		"script":	"处理妨碍净化之人(3)",
+		"task":	100085
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -105,6 +154,19 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
+		"tag":	10750,
+		"script":	"不幸者的救赎(4)",
+		"task":	100091
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+<<<<<<< HEAD
 		"tag":	12906,
 		"script":	"惩罚干扰修炼之人(3)",
 		"task":	100098
@@ -119,4 +181,9 @@
 		"tag":	12955,
 		"script":	"灵气清澈之山(1)",
 		"task":	100140
+=======
+		"tag":	10798,
+		"script":	"惩罚干扰修炼之人(2)",
+		"task":	100097
+>>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 	}]

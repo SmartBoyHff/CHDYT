@@ -6,8 +6,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	13923,
-		"script":	"群星宫殿",
+		"tag":	18794,
+		"script":	"普累罗麻",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,117 +17,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22495,
-		"script":	"归元木匣",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24426,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	27936,
-		"script":	"阿特拉斯庭院",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	9811,
-		"script":	"埃吉尔遗迹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8192,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	20833,
-		"script":	"穆斯菲尔斯隧道",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	30019,
-		"script":	"尼夫海姆站",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19824,
-		"script":	"【存】材料",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8168,
-		"script":	"摩克沙",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18833,
-		"script":	"流水回廊",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18437,
+		"tag":	989,
 		"script":	"执行自动切换角色",
 		"task":	0
 	}]
