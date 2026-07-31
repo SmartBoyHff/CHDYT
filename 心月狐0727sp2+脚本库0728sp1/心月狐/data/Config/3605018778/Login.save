@@ -1,28 +1,21 @@
 [{
-		"index":	59166109,
-		"name":	"鸢一",
-		"autoscript":	"连体任务",
+		"index":	105619171,
+		"name":	"宁染",
+		"autoscript":	"普3团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	225464218,
-		"name":	"元霜",
-		"autoscript":	"连体任务",
+		"index":	105648187,
+		"name":	"砚墨秋",
+		"autoscript":	"普3团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	225470812,
-		"name":	"朝烟",
-		"autoscript":	"连体任务",
-		"item":	"(账号共享)默认装备",
-		"item2":	"(账号共享)默认装备",
-		"item_other":	""
-	}, {
-		"index":	225486171,
-		"name":	"久辞别",
-		"autoscript":	"连体任务",
+		"index":	105654656,
+		"name":	"霜秋",
+		"autoscript":	"普3团",
 		"item":	"(账号共享)默认装备",
 		"item2":	"(账号共享)默认装备",
 		"item_other":	""

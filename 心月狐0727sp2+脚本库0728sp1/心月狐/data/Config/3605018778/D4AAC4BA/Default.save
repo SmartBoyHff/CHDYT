@@ -9,8 +9,8 @@
 	"auto_load_team":	false,
 	"auto_load_wait":	false,
 	"auto_log_file_sw":	true,
-	"auto_reward_open_sw":	false,
-	"auto_reward_pay_sw":	false,
+	"auto_reward_open_sw":	true,
+	"auto_reward_pay_sw":	true,
 	"auto_set_autojump":	false,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
@@ -23,7 +23,7 @@
 	"auto_task_sw1":	false,
 	"auto_team_dream_room_leader":	false,
 	"auto_team_room_leader":	false,
-	"auto_team_world_room_leader":	false,
+	"auto_team_world_room_leader":	true,
 	"automatic_book":	true,
 	"automatic_diceboard":	false,
 	"automatic_dk":	true,
@@ -191,13 +191,13 @@
 	"auto_end_item_val":	"",
 	"auto_end_lua_val":	"",
 	"auto_load_team_val":	"",
-	"auto_set_diyitem":	"打本",
+	"auto_set_diyitem":	"[无]",
 	"auto_team_dream_room_name":	"",
 	"auto_team_dream_room_namelist":	"",
 	"auto_team_room_name":	"2233",
 	"auto_team_room_namelist":	"",
-	"auto_team_world_room_name":	"563",
-	"auto_team_world_room_password":	"2345",
+	"auto_team_world_room_name":	"777888",
+	"auto_team_world_room_password":	"888999",
 	"guild_tribute_items":	"智之石;高级冒险家情报卷轴;大师活力水滴;中级冒险家情报卷轴;达人冒险家情报卷轴;黄金魔方;大师冒险家情报卷轴;闪闪发光的宝箱;中级活力水滴;初级活力水滴;美丽的碎片结晶;活跃的碎片结晶;治愈的碎片结晶;冲突的碎片结晶;座之石;炽之石;",
 	"hotkey_end":	"F9",
 	"hotkey_end_mouse":	"",
@@ -540,10 +540,10 @@
 			"sw":	true,
 			"type":	"物品",
 			"name":	"紫葡萄味全糖蜜果",
-			"induns":	["残缺边界", "奈落·魔法学院主楼", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·神树拉菲尔", "奈落·破坏之城", "奈落·蛇龙之巢", "奈落·冰封雪域"],
-			"hard":	true
+			"induns":	["残缺边界", "奈落·魔法学院主楼", "奈落·珊瑚之歌", "奈落·冰淇淋庭院", "奈落·神树拉菲尔", "奈落·破坏之城", "奈落·蛇龙之巢", "奈落·冰封雪域", "普累罗麻"],
+			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"物品",
 			"name":	"紫葡萄味全糖蜜果",
 			"induns":	["薇娅斯梦境", "诺尼尔之泪", "摩克沙", "丽西泰亚之门", "蘑菇树沼泽", "被吞噬的魔法办公楼", "归元木匣", "翡翠世界", "曼赤肯仓库", "葬剑幻谷", "赫利波尔要塞", "铁之考验", "伊卡洛斯之翼", "智海"],
@@ -577,6 +577,12 @@
 			"type":	"操作",
 			"name":	"召唤兽出战:龙猫理查",
 			"induns":	["薇娅斯梦境", "诺尼尔之泪", "摩克沙", "丽西泰亚之门", "蘑菇树沼泽", "被吞噬的魔法办公楼", "归元木匣", "翡翠世界", "曼赤肯仓库", "葬剑幻谷", "赫利波尔要塞", "铁之考验", "伊卡洛斯之翼", "智海", "尼夫海姆站", "穆斯菲尔斯隧道", "普累罗麻", "残缺边界", "群星宫殿", "水下培养皿·失魂寺", "埃吉尔遗迹", "阿特拉斯庭院", "时空之泉", "穿梭之都", "黑月的考验", "大地的考验", "消失的星之歌", "黄昏教堂", "精灵树桩", "生命之恩泰莱凯", "流水回廊", "艾乌加蒙剧场", "深渊之镜", "普洛菲司台", "霍普占卜室", "卡伊洛斯的时间", "炼狱阿兹雷尔", "巴尼塔斯", "哈姆克公爵府", "圣字教堂", "阿科洛之棺", "回声泉", "未知森林", "冰狱", "希列", "盟约圣地", "傀儡牢狱", "幻之摇篮", "玫瑰庭院", "证明之塔", "奈落·蛇龙之巢", "奈落·冰封雪域", "奈落·魔法学院主楼", "奈落·神树拉菲尔", "奈落·破坏之城", "奈落·冰淇淋庭院", "奈落·珊瑚之歌"],
+			"hard":	false
+		}, {
+			"sw":	true,
+			"type":	"物品",
+			"name":	"古籍·壁垒",
+			"induns":	["普累罗麻"],
 			"hard":	false
 		}],
 	"skill_attack_data":	[{
@@ -747,6 +753,36 @@
 			"num":	5
 		}, {
 			"sw":	true,
+			"id":	2105001,
+			"hotkey":	"",
+			"name":	"石矛术",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2008006,
+			"hotkey":	"",
+			"name":	"冰河冲击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	1802409,
 			"hotkey":	"",
 			"name":	"[无限]阳炎爆破",
@@ -837,21 +873,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2105001,
-			"hotkey":	"",
-			"name":	"石矛术",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	2210003,
 			"hotkey":	"",
 			"name":	"炎火蔓延",
@@ -866,22 +887,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
-			"id":	2008006,
-			"hotkey":	"",
-			"name":	"冰河冲击",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	2107002,
 			"hotkey":	"",
 			"name":	"风行天下",
@@ -911,7 +917,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	3814004,
 			"hotkey":	"",
 			"name":	"【核心II】",

@@ -1,79 +1,13 @@
 [{
 		"setcount":	0,
-		"setreward":	false,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	8612,
-		"script":	"流水回廊",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	7616,
-		"script":	"群星宫殿",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	18874,
-		"script":	"摩克沙",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31344,
-		"script":	"穆斯菲尔斯隧道",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12455,
-		"script":	"尼夫海姆站",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	2423,
-		"script":	"埃吉尔遗迹",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	false,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22548,
-		"script":	"阿特拉斯庭院",
+		"tag":	25709,
+		"script":	"普累罗麻",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -83,8 +17,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6049,
-		"script":	"黄昏教堂",
+		"tag":	24122,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -94,9 +28,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22272,
-		"script":	"消失的星之歌",
-		"task":	0
+		"tag":	12071,
+		"script":	"花之路",
+		"task":	100032
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -105,9 +39,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14421,
-		"script":	"矮人飞艇(超越)",
-		"task":	100016
+		"tag":	12124,
+		"script":	"星之摇篮",
+		"task":	100044
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -116,9 +50,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14470,
-		"script":	"水下培养皿",
-		"task":	100021
+		"tag":	12173,
+		"script":	"破坏之城",
+		"task":	100050
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -127,9 +61,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14523,
-		"script":	"冰封雪域",
-		"task":	100062
+		"tag":	12225,
+		"script":	"魔石实验室",
+		"task":	100051
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -138,9 +72,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14575,
-		"script":	"欧若拉奇妙物语(1)",
-		"task":	100077
+		"tag":	12274,
+		"script":	"太阳神地下祭坛(超越)",
+		"task":	100055
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -149,9 +83,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14624,
-		"script":	"欧若拉奇妙物语(2)",
-		"task":	100078
+		"tag":	12326,
+		"script":	"幻影毒雾沼泽",
+		"task":	100059
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -160,9 +94,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14676,
-		"script":	"不幸者的救赎(1)",
-		"task":	100088
+		"tag":	12378,
+		"script":	"保管异面不祥道具(3)",
+		"task":	100071
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -171,9 +105,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14728,
-		"script":	"不幸者的救赎(4)",
-		"task":	100091
+		"tag":	12427,
+		"script":	"惩罚干扰修炼之人(3)",
+		"task":	100098
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -182,29 +116,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14777,
-		"script":	"抗争者的资格",
-		"task":	100094
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14830,
-		"script":	"如何活下去",
-		"task":	100137
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	14879,
-		"script":	"灵气清澈之山(2)",
-		"task":	100141
+		"tag":	12479,
+		"script":	"灵气清澈之山(1)",
+		"task":	100140
 	}]

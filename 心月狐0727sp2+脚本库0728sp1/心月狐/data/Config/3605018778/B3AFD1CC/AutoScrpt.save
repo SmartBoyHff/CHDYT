@@ -1,70 +1,4 @@
 [{
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22373,
-		"script":	"Âü³à¿Ï²Ö¿â",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	32020,
-		"script":	"ôä´äÊÀ½ç",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31425,
-		"script":	"ÅµÄá¶ûÖ®Àá",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	25568,
-		"script":	"Ä¦¿ËÉ³",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	5230,
-		"script":	"ÄÂË¹·Æ¶ûË¹ËíµÀ",
-		"task":	0
-	}, {
-		"setcount":	1,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4811,
-		"script":	"Äá·òº£Ä·Õ¾",
-		"task":	0
-	}, {
 		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
@@ -72,7 +6,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22588,
-		"script":	"Ö´ÐÐ×Ô¶¯ÇÐ»»½ÇÉ«",
+		"tag":	14447,
+		"script":	"²ÐÈ±±ß½ç",
 		"task":	0
 	}]
