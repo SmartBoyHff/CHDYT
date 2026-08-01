@@ -230,14 +230,14 @@
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[神·圣灵之拥]",
 			"maps":	[],
 			"induns":	["魔发城堡", "普塞乌达里亚"],
 			"hard":	false
 		}, {
-			"sw":	true,
+			"sw":	false,
 			"type":	"操作",
 			"name":	"翅膀技[魔·冥界之翼]",
 			"maps":	[],
@@ -3890,7 +3890,7 @@
 		}, {
 			"only_run":	false,
 			"run_sleep":	1,
-			"sw":	true,
+			"sw":	false,
 			"name":	"超越点切换",
 			"judges":	[{
 					"sw":	true,

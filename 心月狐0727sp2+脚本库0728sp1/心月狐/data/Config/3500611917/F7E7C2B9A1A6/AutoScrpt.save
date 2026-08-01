@@ -1,5 +1,5 @@
 [{
-		"setcount":	1,
+		"setcount":	2,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
@@ -8,8 +8,7 @@
 		"diyawaken":	"",
 		"tag":	7959,
 		"script":	"魔发城堡",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -29,7 +28,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17034,
+		"tag":	6344,
 		"script":	"太阳宫殿(超越)",
 		"task":	100018
 	}, {
@@ -40,7 +39,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17086,
+		"tag":	6396,
 		"script":	"冰淇淋庭院",
 		"task":	100025
 	}, {
@@ -51,7 +50,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17138,
+		"tag":	6445,
 		"script":	"浮游岛",
 		"task":	100027
 	}, {
@@ -62,7 +61,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17187,
+		"tag":	6497,
 		"script":	"秘密藏书库(魔法阅览室)",
 		"task":	100039
 	}, {
@@ -73,7 +72,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17239,
+		"tag":	6549,
 		"script":	"幻影毒雾沼泽",
 		"task":	100059
 	}, {
@@ -84,7 +83,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17288,
+		"tag":	6598,
 		"script":	"惩罚干扰修炼之人(2)",
 		"task":	100097
 	}, {
@@ -95,7 +94,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17341,
+		"tag":	6651,
 		"script":	"净化污染精灵的住所(3)",
 		"task":	100102
 	}, {
@@ -106,7 +105,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17393,
+		"tag":	6703,
 		"script":	"灵气清澈之山(3)",
 		"task":	100142
 	}]
