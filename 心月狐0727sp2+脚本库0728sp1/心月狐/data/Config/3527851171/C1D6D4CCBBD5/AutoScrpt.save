@@ -1,5 +1,6 @@
 [{
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",

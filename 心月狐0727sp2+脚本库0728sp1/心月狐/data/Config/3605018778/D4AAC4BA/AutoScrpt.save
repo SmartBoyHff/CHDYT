@@ -1,20 +1,23 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
-		"diyitem":	"经验本",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-<<<<<<< HEAD
-		"diyawaken":	"经验",
-		"tag":	19742,
-		"script":	"普塞乌达里亚",
-		"task":	0
-=======
 		"diyawaken":	"",
-		"tag":	8026,
-		"script":	"普累罗麻",
-		"task":	0,
-		"scriptend":	30
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
+		"tag":	11371,
+		"script":	"翡翠世界",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20760,
+		"script":	"执行自动切换角色",
+		"task":	0
 	}]

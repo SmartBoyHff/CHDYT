@@ -6,8 +6,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21768,
-		"script":	"曼赤肯仓库",
+		"tag":	11371,
+		"script":	"翡翠世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,7 +17,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10881,
+		"tag":	20760,
 		"script":	"执行自动切换角色",
-		"task":	0
+		"task":	0,
+		"scriptend":	1
 	}]

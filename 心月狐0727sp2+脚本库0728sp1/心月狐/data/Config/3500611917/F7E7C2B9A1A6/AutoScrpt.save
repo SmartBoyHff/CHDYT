@@ -6,24 +6,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-<<<<<<< HEAD
-		"tag":	27035,
-		"script":	"普塞乌达里亚",
-		"task":	0
-=======
-		"tag":	3336,
-		"script":	"混乱世界",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	19817,
-		"script":	"周挑战",
+		"tag":	7959,
+		"script":	"魔发城堡",
 		"task":	0,
 		"scriptend":	1
 	}, {
@@ -34,10 +18,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	3902,
-		"script":	"【月活动每日】每日任务",
-		"task":	0,
-		"scriptend":	1
+		"tag":	16985,
+		"script":	"恶魔峡谷",
+		"task":	100014
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -46,10 +29,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	5381,
-		"script":	"【月活动签到】高级签到任务",
-		"task":	0,
-		"scriptend":	1
+		"tag":	17034,
+		"script":	"太阳宫殿(超越)",
+		"task":	100018
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -58,10 +40,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32146,
-		"script":	"月华苑",
-		"task":	100009,
-		"scriptend":	1
+		"tag":	17086,
+		"script":	"冰淇淋庭院",
+		"task":	100025
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -70,10 +51,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24279,
-		"script":	"梦之路",
-		"task":	100034,
-		"scriptend":	1
+		"tag":	17138,
+		"script":	"浮游岛",
+		"task":	100027
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -82,10 +62,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22331,
-		"script":	"太阳神地下祭坛(超越)",
-		"task":	100055,
-		"scriptend":	1
+		"tag":	17187,
+		"script":	"秘密藏书库(魔法阅览室)",
+		"task":	100039
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -94,10 +73,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22380,
-		"script":	"太阳神地下祭坛(超越)",
-		"task":	100056,
-		"scriptend":	1
+		"tag":	17239,
+		"script":	"幻影毒雾沼泽",
+		"task":	100059
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -106,10 +84,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	28843,
-		"script":	"保管异面不祥道具(2)",
-		"task":	100070,
-		"scriptend":	1
+		"tag":	17288,
+		"script":	"惩罚干扰修炼之人(2)",
+		"task":	100097
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -118,10 +95,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31904,
-		"script":	"不幸者的救赎(2)",
-		"task":	100089,
-		"scriptend":	1
+		"tag":	17341,
+		"script":	"净化污染精灵的住所(3)",
+		"task":	100102
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -130,21 +106,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	32434,
-		"script":	"灵气清澈之山(2)",
-		"task":	100141,
-		"scriptend":	1
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	21668,
-		"script":	"拥有特殊记忆的动物(2)",
-		"task":	100150,
-		"scriptend":	1
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
+		"tag":	17393,
+		"script":	"灵气清澈之山(3)",
+		"task":	100142
 	}]

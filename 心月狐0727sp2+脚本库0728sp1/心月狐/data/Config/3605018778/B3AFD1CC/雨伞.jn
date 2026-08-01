@@ -1,0 +1,257 @@
+{
+	"skill_attack_data":	[{
+			"sw":	true,
+			"id":	1803702,
+			"hotkey":	"",
+			"name":	"混沌漩涡",
+			"dmin":	160,
+			"dmax":	450,
+			"priority":	false,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"不在地图":	"普累罗麻8_110108;普累罗麻9_110109"
+				}, {
+					"不在副本":	"群星宫殿;珊瑚之歌;魔发城堡;"
+				}, {
+					"没有BUFF":	"说明：自动控制近身"
+				}],
+			"num":	7
+		}, {
+			"sw":	true,
+			"id":	5000956,
+			"hotkey":	"",
+			"name":	"[特殊]唤雨之灵",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"搜索内有首领":	""
+				}, {
+					"没有BUFF":	"家族·冰魔图腾"
+				}, {
+					"没有BUFF":	"说明：90减伤循环"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803704,
+			"hotkey":	"",
+			"name":	"水炸弹",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"拥有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"hotkey":	"",
+			"name":	"巨浪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"拥有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	false,
+			"id":	1803707,
+			"hotkey":	"",
+			"name":	"水击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"拥有BUFF":	"Lv.3 水祝福_13025012"
+				}, {
+					"AP>=":	"40"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803706,
+			"hotkey":	"",
+			"name":	"水炮",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"拥有BUFF":	"Lv.3 水祝福_13025012"
+				}, {
+					"WP能量>=":	"40"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803703,
+			"hotkey":	"",
+			"name":	"护身水",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803704,
+			"hotkey":	"",
+			"name":	"水炸弹",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}, {
+					"WP能量<=":	"1600"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803705,
+			"hotkey":	"",
+			"name":	"巨浪",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}, {
+					"WP能量<=":	"1600"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803706,
+			"hotkey":	"",
+			"name":	"水炮",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803707,
+			"hotkey":	"",
+			"name":	"水击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3807504,
+			"hotkey":	"",
+			"name":	"【核心I】",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803701,
+			"hotkey":	"",
+			"name":	"投掷武器",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"Lv.3 水祝福_13025012"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1803700,
+			"hotkey":	"",
+			"name":	"挥击波",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"WP能量>=":	"40"
+				}],
+			"num":	0
+		}]
+}

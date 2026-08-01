@@ -1,12 +1,12 @@
 [{
-		"setcount":	0,
+		"setcount":	2,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16939,
-		"script":	"星能之战（家族本）",
+		"tag":	11371,
+		"script":	"翡翠世界",
 		"task":	0
 	}]

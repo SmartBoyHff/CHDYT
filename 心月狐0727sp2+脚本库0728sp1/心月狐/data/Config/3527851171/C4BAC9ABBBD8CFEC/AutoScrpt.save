@@ -6,9 +6,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26495,
-		"script":	"周挑战",
-		"task":	0
+		"tag":	17787,
+		"script":	"藏宝洞",
+		"task":	0,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -17,9 +18,22 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11965,
+		"tag":	1004,
+		"script":	"索拉城斗兽场",
+		"task":	100003,
+		"scriptend":	1
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10780,
 		"script":	"神秘殿堂",
-		"task":	100005
+		"task":	100005,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -28,20 +42,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12014,
-		"script":	"矮人飞艇(超越)",
-		"task":	100016
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12115,
+		"tag":	9864,
 		"script":	"冰淇淋庭院",
-		"task":	100025
+		"task":	100025,
+		"scriptend":	1
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -50,31 +54,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12167,
-		"script":	"世界之树",
-		"task":	100036
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12219,
-		"script":	"星之摇篮",
-		"task":	100042
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12268,
+		"tag":	15497,
 		"script":	"破坏之城",
-		"task":	100048
+		"task":	100050
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -83,9 +65,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12321,
-		"script":	"欧若拉奇妙物语(2)",
-		"task":	100078
+		"tag":	15549,
+		"script":	"宝石丛林",
+		"task":	100058
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -94,9 +76,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	12373,
-		"script":	"不幸者的救赎(1)",
-		"task":	100088
+		"tag":	15601,
+		"script":	"保管异面不祥道具(3)",
+		"task":	100071
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -105,9 +87,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	8944,
-		"script":	"燥热键盘",
-		"task":	100013
+		"tag":	15650,
+		"script":	"保管异面不祥书籍(3)",
+		"task":	100075
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -116,9 +98,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1413,
-		"script":	"艾乌加蒙剧场",
-		"task":	0
+		"tag":	15702,
+		"script":	"净化污染精灵的住所(3)",
+		"task":	100102
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -127,9 +109,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	18711,
-		"script":	"深渊之镜",
-		"task":	0
+		"tag":	15751,
+		"script":	"阿玛伦宝库",
+		"task":	100134
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -138,84 +120,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31975,
-		"script":	"黄昏教堂",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8188,
-		"script":	"消失的星之歌",
-		"task":	0
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	8189,
-		"script":	"春植岛纪念馆",
-		"task":	100024
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6985,
-		"script":	"星之摇篮",
-		"task":	100044
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24234,
-		"script":	"龙皇殿",
-		"task":	100047
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24283,
-		"script":	"神圣教堂",
-		"task":	100054
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24335,
-		"script":	"处理妨碍净化之人(1)",
-		"task":	100083
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	24384,
-		"script":	"斗争者的资格",
-		"task":	100093
+		"tag":	15804,
+		"script":	"奈落之屋",
+		"task":	100139
 	}]

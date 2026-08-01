@@ -1,67 +1,63 @@
 [{
-<<<<<<< HEAD
-		"index":	105619171,
-		"name":	"宁染",
-		"autoscript":	"普3团",
-=======
-		"index":	31256500,
-		"name":	"宁染",
-		"autoscript":	"7月30团",
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-<<<<<<< HEAD
-		"index":	105648187,
-		"name":	"砚墨秋",
-		"autoscript":	"普3团",
-=======
-		"index":	31297953,
-		"name":	"砚墨秋",
-		"autoscript":	"7月30团",
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-<<<<<<< HEAD
-		"index":	105654656,
-		"name":	"霜秋",
-		"autoscript":	"普3团",
-=======
-		"index":	31304015,
-		"name":	"霜秋",
-		"autoscript":	"7月30团",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	31309328,
-		"name":	"鸢一",
-		"autoscript":	"7月30团",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	31314015,
-		"name":	"元霜",
-		"autoscript":	"7月30团",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	31318312,
+		"index":	124506781,
 		"name":	"朝烟",
-		"autoscript":	"7月30团",
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
+		"autoscript":	"翡翠",
 		"item":	"(账号共享)默认装备",
 		"item2":	"",
 		"item_other":	""
 	}, {
-		"index":	31323859,
+		"index":	124516546,
 		"name":	"久辞别",
-		"autoscript":	"7月30团",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146945156,
+		"name":	"朦胧",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146946453,
+		"name":	"元暮",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146947734,
+		"name":	"砚墨秋",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146950265,
+		"name":	"宁染",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146951890,
+		"name":	"霜秋",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	146953281,
+		"name":	"鸢一",
+		"autoscript":	"翡翠",
+		"item":	"(账号共享)默认装备",
+		"item2":	"",
+		"item_other":	""
+	}, {
+		"index":	148899359,
+		"name":	"元霜",
+		"autoscript":	"翡翠",
 		"item":	"(账号共享)默认装备",
 		"item2":	"",
 		"item_other":	""

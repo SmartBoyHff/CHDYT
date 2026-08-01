@@ -6,9 +6,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-<<<<<<< HEAD
-		"tag":	21768,
-		"script":	"Âü³à¿Ï²Ö¿â",
+		"tag":	11371,
+		"script":	"ôä´äÊÀ½ç",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -18,11 +17,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	10881,
+		"tag":	20760,
 		"script":	"Ö´ÐÐ×Ô¶¯ÇÐ»»½ÇÉ«",
-=======
-		"tag":	15668,
-		"script":	"¡¾´æ¡¿²ÄÁÏ",
->>>>>>> ed8a5d500bd7ff83e7361b732fca2c4a64d1650b
 		"task":	0
 	}]
