@@ -346,7 +346,7 @@
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
-	"protect_skill_syncope_1":	false,
+	"protect_skill_syncope_1":	true,
 	"protect_skill_syncope_2":	false,
 	"protect_sw":	true,
 	"revive_print":	false,
@@ -473,7 +473,7 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -913,7 +913,17 @@
 			"judge":	[],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	300,
+			"hotkey":	"",
+			"name":	"【生存本能】1段",
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"script_point_data":	[],
@@ -4626,6 +4636,11 @@
 	"autosystemscript":	["购买勇者小型药水", "购买蚯梨膏"],
 	"shak_skill":	[{
 			"sw":	true,
+			"id":	1803354,
+			"name":	"黑暗剪影",
+			"reverse":	false
+		}, {
+			"sw":	true,
 			"id":	1803311,
 			"name":	"暗影步",
 			"reverse":	false
@@ -4633,6 +4648,16 @@
 			"sw":	true,
 			"id":	1803309,
 			"name":	"突击",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803302,
+			"name":	"猛冲攻击",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	1803303,
+			"name":	"碾压",
 			"reverse":	false
 		}],
 	"opacity":	100

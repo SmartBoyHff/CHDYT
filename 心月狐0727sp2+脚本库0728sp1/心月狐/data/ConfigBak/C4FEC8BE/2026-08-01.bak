@@ -294,7 +294,7 @@
 	"main_mob_noattck_show":	false,
 	"main_mob_other_sw":	false,
 	"main_skill_distance_sw":	false,
-	"memory_debris_time":	false,
+	"memory_debris_time":	true,
 	"mouse_rest":	true,
 	"mouse_time":	false,
 	"mouse_track":	false,
@@ -313,7 +313,7 @@
 	"path_auto_script_door_sw":	false,
 	"path_auto_script_showval2_sw":	false,
 	"path_auto_script_showval_sw":	true,
-	"path_down_hotkey_sw":	false,
+	"path_down_hotkey_sw":	true,
 	"path_hide_effect_sw":	false,
 	"path_line_boss_sw":	false,
 	"path_line_deliver_sw":	false,
@@ -339,10 +339,10 @@
 	"path_script_picture_sw4":	false,
 	"path_script_picture_sw4-1":	false,
 	"path_subjoin_htyh":	false,
-	"path_subjoin_ksqp":	false,
+	"path_subjoin_ksqp":	true,
 	"path_subjoin_msxj":	false,
 	"path_subjoin_msxj_msg":	false,
-	"path_subjoin_tyjn":	false,
+	"path_subjoin_tyjn":	true,
 	"path_subjoin_xsyc":	false,
 	"path_subjoin_ycwj":	false,
 	"path_subjoin_zxyc":	false,
@@ -473,7 +473,7 @@
 	"path_pluginui_child8_type":	0,
 	"path_pluginui_child9_type":	0,
 	"path_script_picture_val2":	0,
-	"revive_type":	0,
+	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	0,
 	"skill_option_sombra_val":	0,
@@ -868,7 +868,17 @@
 			"judge":	[],
 			"num":	0
 		}],
-	"skill_buff_data":	[],
+	"skill_buff_data":	[{
+			"sw":	true,
+			"id":	300,
+			"hotkey":	"",
+			"name":	"【生存本能】1段",
+			"judge":	[{
+					"搜索内有首领":	""
+				}],
+			"sleep":	0,
+			"auto":	true
+		}],
 	"speak_data":	[],
 	"skill_hotkey_data":	[],
 	"script_point_data":	[],
@@ -4579,6 +4589,31 @@
 		}],
 	"chaosbranch":	[4001, 4016, 1026, 3001, 2001, 1001, 4002, 3002, 2002, 1002, 4003, 3003, 2003, 1003, 4011, 3011, 2011, 1011, 4012, 3012, 2012, 1012, 4004, 3004, 2004, 1004, 4005, 3005, 2005, 1005, 4006, 3006, 2006, 1006, 4014, 3014, 4028, 3028, 2028, 1028, 2014, 1014, 4015, 4009, 3009, 2009, 1009, 4010, 3010, 2010, 1010, 1007, 2007, 3007, 4007, 1008, 2008, 3008, 4008, 1017, 2017, 3017, 4017, 1018, 2018, 3018, 4018, 1019, 2019, 3019, 4019, 1020, 2020, 3020, 4020, 1033, 2033, 3033, 4033, 1029, 2029, 3029, 4029, 1030, 2030, 3030, 4030, 1031, 2031, 3031, 4031, 1032, 2032, 3032, 4032, 63025, 73025, 61025, 71025, 11025, 13025, 21025, 23025, 31025, 33025, 41025, 43025, 51025, 53025, 1034, 2034, 3034, 4034, 1023, 2023, 3023, 4023, 1024, 2024, 3024, 4024, 1021, 2021, 3021, 2025, 1022, 2022, 3022, 12026, 13026, 22026, 23026, 32026, 33026, 42026, 43026, 52026, 53026, 62026, 63026, 72026, 73026, 4027, 4022, 1013, 2013, 3013, 4013, 4021],
 	"autosystemscript":	["购买勇者小型药水", "购买蚯梨膏"],
-	"shak_skill":	[],
+	"shak_skill":	[{
+			"sw":	true,
+			"id":	3100314,
+			"name":	"精灵守护",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	3101023,
+			"name":	"电波强震",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	3201021,
+			"name":	"恶魔之歌[战斗]",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	3214101,
+			"name":	"突击",
+			"reverse":	false
+		}, {
+			"sw":	true,
+			"id":	3120041,
+			"name":	"向后传送",
+			"reverse":	false
+		}],
 	"opacity":	100
 }
