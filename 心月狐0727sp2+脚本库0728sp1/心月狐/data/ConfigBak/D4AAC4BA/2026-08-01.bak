@@ -190,7 +190,7 @@
 			"久辞别":	false
 		},
 		"player":	["朦胧", "元暮", "宁染", "砚墨秋", "霜秋", "鸢一", "元霜", "朝烟", "久辞别"],
-		"indun":	["翡翠世界", "曼赤肯仓库", "归元木匣", "普累罗麻", "残缺边界", "群星宫殿", "诺尼尔之泪", "摩克沙", "穆斯菲尔斯隧道", "尼夫海姆站", "阿特拉斯庭院", "埃吉尔遗迹"]
+		"indun":	["翡翠世界", "曼赤肯仓库", "归元木匣", "普累罗麻", "残缺边界", "群星宫殿", "诺尼尔之泪", "摩克沙", "穆斯菲尔斯隧道", "尼夫海姆站", "阿特拉斯庭院", "埃吉尔遗迹", "流水回廊"]
 	},
 	"battle_pass":	{
 	},
@@ -1114,6 +1114,36 @@
 			"num":	0
 		}, {
 			"sw":	true,
+			"id":	2105001,
+			"hotkey":	"",
+			"name":	"石矛术",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	2008006,
+			"hotkey":	"",
+			"name":	"冰河冲击",
+			"dmin":	0,
+			"dmax":	300,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
 			"id":	2211103,
 			"hotkey":	"",
 			"name":	"火墙术",
@@ -1159,21 +1189,6 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2105001,
-			"hotkey":	"",
-			"name":	"石矛术",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	2210003,
 			"hotkey":	"",
 			"name":	"炎火蔓延",
@@ -1188,22 +1203,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
-			"id":	2008006,
-			"hotkey":	"",
-			"name":	"冰河冲击",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	true,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	2107002,
 			"hotkey":	"",
 			"name":	"风行天下",
@@ -1233,7 +1233,7 @@
 			"judge":	[],
 			"num":	0
 		}, {
-			"sw":	false,
+			"sw":	true,
 			"id":	3814004,
 			"hotkey":	"",
 			"name":	"【核心II】",

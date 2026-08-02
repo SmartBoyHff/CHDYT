@@ -1,5 +1,6 @@
 [{
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -10,6 +11,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -20,6 +22,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -30,6 +33,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -40,6 +44,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -50,6 +55,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -60,6 +66,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -70,6 +77,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -80,6 +88,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -90,6 +99,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -100,6 +110,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -110,6 +121,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -120,6 +132,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -130,6 +143,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -140,6 +154,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -150,6 +165,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -160,6 +176,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -170,6 +187,7 @@
 		"task":	0
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -180,6 +198,7 @@
 		"task":	100008
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -190,6 +209,7 @@
 		"task":	100034
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -200,6 +220,7 @@
 		"task":	100044
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -210,6 +231,7 @@
 		"task":	100075
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -220,6 +242,7 @@
 		"task":	100078
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -230,6 +253,7 @@
 		"task":	100088
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -240,6 +264,7 @@
 		"task":	100096
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -250,6 +275,7 @@
 		"task":	100131
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
@@ -260,6 +286,7 @@
 		"task":	100133
 	}, {
 		"setcount":	0,
+		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",

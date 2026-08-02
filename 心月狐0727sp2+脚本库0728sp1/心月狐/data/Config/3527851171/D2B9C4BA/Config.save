@@ -264,7 +264,7 @@
 			"hard":	false
 		}],
 	"store_items":	"思奇拉长靴碎片;思奇拉的玩偶帽子;皮酷斯的玩偶;格劳科斯发条键;皮酷斯缝纫线板;皮酷斯针鞘;格劳科斯之角;弥修斯的愤怒;弥修斯的箱子;阿特拉斯的宝石袋;伤痕之花;火焰龙的角;莫尔迦娜的吊坠;伊希欧的头冠装饰;阿戈斯的獠牙;利利奥佩的丝带;莫德雷德的橙色蝴蝶结;利利奥佩的雨伞;金色圣杯;贝洛希的破碎魔法权杖;被污染的贝洛希盔甲装饰;瓦伊思的刀片;塔米埃尔的指甲;塔米埃尔的眼罩;瓦伊思的利角碎片;莫林锁链背带;拉斐拉的羽毛装饰;",
-	"guild_tribute_sw":	true,
+	"guild_tribute_sw":	false,
 	"guild_diplomacy_min":	300,
 	"guild_diplomacy_only":	false,
 	"guild_diplomacy":	[{
@@ -663,7 +663,43 @@
 	"team_accept_allot":	2,
 	"team_accept_cmd_sw":	false,
 	"team_accept_cmd":	"",
-	"pet_build":	[],
+	"pet_build":	[{
+			"sw":	true,
+			"id":	2300007,
+			"name":	"绅士舞"
+		}, {
+			"sw":	true,
+			"id":	2300008,
+			"name":	"骑马舞"
+		}, {
+			"sw":	true,
+			"id":	2300009,
+			"name":	"彩虹舞"
+		}, {
+			"sw":	true,
+			"id":	1999001,
+			"name":	"喵之蜷缩"
+		}, {
+			"sw":	true,
+			"id":	1999002,
+			"name":	"春植之光"
+		}, {
+			"sw":	true,
+			"id":	1999003,
+			"name":	"阿喵凝视"
+		}, {
+			"sw":	true,
+			"id":	10121,
+			"name":	"挖矿助手"
+		}, {
+			"sw":	true,
+			"id":	1300004,
+			"name":	"天使降临"
+		}, {
+			"sw":	true,
+			"id":	1300001,
+			"name":	"神福天赐"
+		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
 			"skill":	2010001,
@@ -759,10 +795,10 @@
 	"item_filter_pick_data_2":	[],
 	"item_pick_sw":	true,
 	"item_pick_time":	0,
-	"item_pick_filter_1":	false,
+	"item_pick_filter_1":	true,
 	"item_pick_filter_2":	true,
 	"item_pick_filter_3":	false,
-	"item_pick_filter_4":	false,
+	"item_pick_filter_4":	true,
 	"item_pick_filter_5":	true,
 	"item_pick_filter_6":	true,
 	"item_pick_filter_7":	true,
@@ -1438,6 +1474,54 @@
 			"vague":	true,
 			"name":	"军团长的",
 			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"坚盾·超越钥匙",
+			"type1":	false,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"敏锐·超越钥匙",
+			"type1":	false,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"无畏·超越钥匙",
+			"type1":	false,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"智者·超越钥匙",
+			"type1":	false,
 			"type2":	false,
 			"type3":	false,
 			"filter1":	false,
