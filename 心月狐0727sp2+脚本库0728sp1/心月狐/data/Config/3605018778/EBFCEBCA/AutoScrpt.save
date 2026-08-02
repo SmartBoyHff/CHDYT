@@ -1,13 +1,13 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
-		"diyitem":	"经验本",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"经验",
-		"tag":	7112,
-		"script":	"普塞乌达里亚",
+		"diyawaken":	"",
+		"tag":	3537,
+		"script":	"[梦境]梦四（1法1盾2战）",
 		"task":	0,
-		"scriptend":	1
+		"scriptend":	2
 	}]

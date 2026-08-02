@@ -6,34 +6,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17787,
-		"script":	"藏宝洞",
-		"task":	0,
-		"scriptend":	1
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1004,
-		"script":	"索拉城斗兽场",
-		"task":	100003,
-		"scriptend":	1
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	10780,
+		"tag":	9025,
 		"script":	"神秘殿堂",
-		"task":	100005,
-		"scriptend":	1
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -42,10 +18,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	9864,
-		"script":	"冰淇淋庭院",
-		"task":	100025,
-		"scriptend":	1
+		"tag":	25252,
+		"script":	"恶魔峡谷",
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -54,9 +30,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15497,
-		"script":	"破坏之城",
-		"task":	100050
+		"tag":	2992,
+		"script":	"神圣教堂",
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -65,7 +42,140 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15549,
+		"tag":	12381,
+		"script":	"春植岛纪念馆",
+		"task":	0,
+		"scriptend":	2
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25241,
+		"script":	"矮人飞艇(超越)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1760,
+		"script":	"太阳宫殿(超越)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3749,
+		"script":	"太阳神地下祭坛(超越)",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	21762,
+		"script":	"浮游岛",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	3483,
+		"script":	"幻影毒雾沼泽",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22770,
+		"script":	"混沌峡谷",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6944,
+		"script":	"冰封雪域",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	24545,
+		"script":	"超能者纪念馆",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2390,
+		"script":	"奈落之屋",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10721,
+		"script":	"恶魔峡谷",
+		"task":	100014
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1992,
+		"script":	"燥热键盘",
+		"task":	100013
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2044,
 		"script":	"宝石丛林",
 		"task":	100058
 	}, {
@@ -76,9 +186,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15601,
-		"script":	"保管异面不祥道具(3)",
-		"task":	100071
+		"tag":	2093,
+		"script":	"幻影毒雾沼泽",
+		"task":	100059
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -87,9 +197,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15650,
-		"script":	"保管异面不祥书籍(3)",
-		"task":	100075
+		"tag":	2145,
+		"script":	"冰封雪域",
+		"task":	100061
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -98,9 +208,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15702,
-		"script":	"净化污染精灵的住所(3)",
-		"task":	100102
+		"tag":	2194,
+		"script":	"沙之战场(1)",
+		"task":	100130
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -109,9 +219,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15751,
-		"script":	"阿玛伦宝库",
-		"task":	100134
+		"tag":	2246,
+		"script":	"如何活下去",
+		"task":	100137
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -120,7 +230,18 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15804,
-		"script":	"奈落之屋",
-		"task":	100139
+		"tag":	2299,
+		"script":	"灵气清澈之山(2)",
+		"task":	100141
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2348,
+		"script":	"拥有特殊记忆的动物(1)",
+		"task":	100149
 	}]

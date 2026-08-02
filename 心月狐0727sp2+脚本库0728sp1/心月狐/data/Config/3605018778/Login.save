@@ -1,64 +1,43 @@
 [{
-		"index":	124506781,
-		"name":	"朝烟",
-		"autoscript":	"翡翠",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	124516546,
-		"name":	"久辞别",
-		"autoscript":	"翡翠",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	146945156,
-		"name":	"朦胧",
-		"autoscript":	"翡翠",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	146946453,
-		"name":	"元暮",
-		"autoscript":	"翡翠",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	146947734,
-		"name":	"砚墨秋",
-		"autoscript":	"翡翠",
-		"item":	"(账号共享)默认装备",
-		"item2":	"",
-		"item_other":	""
-	}, {
-		"index":	146950265,
+		"index":	221675921,
 		"name":	"宁染",
-		"autoscript":	"翡翠",
+		"autoscript":	"冒险者卷轴",
 		"item":	"(账号共享)默认装备",
-		"item2":	"",
+		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	146951890,
+		"index":	221684109,
 		"name":	"霜秋",
-		"autoscript":	"翡翠",
+		"autoscript":	"冒险者卷轴",
 		"item":	"(账号共享)默认装备",
-		"item2":	"",
+		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	146953281,
+		"index":	221689015,
 		"name":	"鸢一",
-		"autoscript":	"翡翠",
+		"autoscript":	"冒险者卷轴",
 		"item":	"(账号共享)默认装备",
-		"item2":	"",
+		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}, {
-		"index":	148899359,
+		"index":	221693468,
 		"name":	"元霜",
-		"autoscript":	"翡翠",
+		"autoscript":	"冒险者卷轴",
 		"item":	"(账号共享)默认装备",
-		"item2":	"",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	221697953,
+		"name":	"朝烟",
+		"autoscript":	"冒险者卷轴",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
+		"item_other":	""
+	}, {
+		"index":	221703328,
+		"name":	"久辞别",
+		"autoscript":	"冒险者卷轴",
+		"item":	"(账号共享)默认装备",
+		"item2":	"(账号共享)默认装备",
 		"item_other":	""
 	}]

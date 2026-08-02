@@ -8,8 +8,7 @@
 		"diyawaken":	"",
 		"tag":	15215,
 		"script":	"藏宝洞",
-		"task":	0,
-		"scriptend":	1
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -20,8 +19,7 @@
 		"diyawaken":	"",
 		"tag":	28281,
 		"script":	"破坏之城",
-		"task":	100050,
-		"scriptend":	1
+		"task":	100050
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -32,8 +30,7 @@
 		"diyawaken":	"",
 		"tag":	98,
 		"script":	"宝石丛林",
-		"task":	100058,
-		"scriptend":	1
+		"task":	100058
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -44,8 +41,7 @@
 		"diyawaken":	"",
 		"tag":	6977,
 		"script":	"保管异面不祥道具(3)",
-		"task":	100071,
-		"scriptend":	1
+		"task":	100071
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -56,8 +52,7 @@
 		"diyawaken":	"",
 		"tag":	20950,
 		"script":	"保管异面不祥书籍(3)",
-		"task":	100075,
-		"scriptend":	1
+		"task":	100075
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -68,8 +63,7 @@
 		"diyawaken":	"",
 		"tag":	6460,
 		"script":	"净化污染精灵的住所(3)",
-		"task":	100102,
-		"scriptend":	1
+		"task":	100102
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -80,8 +74,7 @@
 		"diyawaken":	"",
 		"tag":	4357,
 		"script":	"阿玛伦宝库",
-		"task":	100134,
-		"scriptend":	1
+		"task":	100134
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -92,6 +85,5 @@
 		"diyawaken":	"",
 		"tag":	31118,
 		"script":	"奈落之屋",
-		"task":	100139,
-		"scriptend":	1
+		"task":	100139
 	}]

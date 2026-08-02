@@ -1,14 +1,15 @@
 [{
-		"setcount":	0,
+		"setcount":	2,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	11371,
-		"script":	"ôä´äÊÀ½ç",
-		"task":	0
+		"tag":	22568,
+		"script":	"ÅµÄá¶ûÖ®Àá",
+		"task":	0,
+		"scriptend":	2
 	}, {
 		"setcount":	0,
 		"setreward":	true,

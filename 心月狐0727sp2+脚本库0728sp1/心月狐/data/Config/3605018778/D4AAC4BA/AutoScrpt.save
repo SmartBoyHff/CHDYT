@@ -1,12 +1,23 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
-		"diyitem":	"经验本",
+		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
-		"diyawaken":	"经验",
-		"tag":	8357,
-		"script":	"普塞乌达里亚",
+		"diyawaken":	"",
+		"tag":	6468,
+		"script":	"流水回廊",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16010,
+		"script":	"执行自动切换角色",
 		"task":	0
 	}]
