@@ -1,12 +1,12 @@
 [{
-		"setcount":	2,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7959,
+		"tag":	32276,
 		"script":	"魔发城堡",
 		"task":	0
 	}, {
@@ -17,9 +17,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	16985,
-		"script":	"恶魔峡谷",
-		"task":	100014
+		"tag":	13064,
+		"script":	"普塞乌达里亚",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -28,7 +28,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6344,
+		"tag":	17702,
 		"script":	"太阳宫殿(超越)",
 		"task":	100018
 	}, {
@@ -39,9 +39,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6396,
-		"script":	"冰淇淋庭院",
-		"task":	100025
+		"tag":	17754,
+		"script":	"月之路",
+		"task":	100033
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -50,9 +50,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6445,
-		"script":	"浮游岛",
-		"task":	100027
+		"tag":	17803,
+		"script":	"神圣教堂",
+		"task":	100054
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -61,9 +61,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6497,
-		"script":	"秘密藏书库(魔法阅览室)",
-		"task":	100039
+		"tag":	17855,
+		"script":	"保管异面不祥书籍(1)",
+		"task":	100073
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -72,29 +72,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6549,
-		"script":	"幻影毒雾沼泽",
-		"task":	100059
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6598,
-		"script":	"惩罚干扰修炼之人(2)",
-		"task":	100097
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	6651,
+		"tag":	17956,
 		"script":	"净化污染精灵的住所(3)",
 		"task":	100102
 	}, {
@@ -105,7 +83,106 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6703,
-		"script":	"灵气清澈之山(3)",
-		"task":	100142
+		"tag":	18009,
+		"script":	"黑暗吞没之地",
+		"task":	100136
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30402,
+		"script":	"索拉城斗兽场",
+		"task":	100002
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30454,
+		"script":	"神秘殿堂",
+		"task":	100005
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30503,
+		"script":	"世界之树",
+		"task":	100036
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30556,
+		"script":	"世界之树",
+		"task":	100037
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30608,
+		"script":	"保管异面不祥道具(1)",
+		"task":	100069
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30657,
+		"script":	"保管异面不祥道具(2)",
+		"task":	100070
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30709,
+		"script":	"欧若拉奇妙物语(2)",
+		"task":	100078
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30761,
+		"script":	"处理妨碍净化之人(1)",
+		"task":	100083
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30810,
+		"script":	"燥热键盘",
+		"task":	100133
 	}]

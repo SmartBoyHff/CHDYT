@@ -128,7 +128,7 @@
 	"path_pluginui_child2":	false,
 	"path_pluginui_child3":	false,
 	"path_pluginui_child4":	false,
-	"path_pluginui_child5":	false,
+	"path_pluginui_child5":	true,
 	"path_pluginui_child6":	false,
 	"path_pluginui_child7":	false,
 	"path_pluginui_child8":	false,
@@ -177,9 +177,9 @@
 	"skill_option_sombra":	false,
 	"skill_option_stop_skill":	true,
 	"skill_option_stop_skill_all":	true,
-	"skill_option_storage":	true,
-	"skill_option_storage2":	true,
-	"skill_option_storage3":	true,
+	"skill_option_storage":	false,
+	"skill_option_storage2":	false,
+	"skill_option_storage3":	false,
 	"skill_shake_sw":	false,
 	"skill_silent_sw":	true,
 	"summon_automatic_zhs":	true,
@@ -276,7 +276,7 @@
 	"revive_type":	2,
 	"skill_option_lr_val":	0,
 	"skill_option_platform_skill_v":	1,
-	"skill_option_sombra_val":	0,
+	"skill_option_sombra_val":	1,
 	"skill_option_storage_val":	3,
 	"skill_silent_val":	0,
 	"summon_automatic_zhs_refresh1":	0,
@@ -629,171 +629,11 @@
 		}],
 	"skill_attack_data":	[{
 			"sw":	true,
-			"id":	300,
-			"hotkey":	"",
-			"name":	"【生存本能】1段",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	5000951,
-			"hotkey":	"",
-			"name":	"[特殊]刺杀者",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"搜索内有首领":	""
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2503034,
-			"hotkey":	"",
-			"name":	"特殊能力恢复",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[{
-					"AP<=":	"400"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2403006,
-			"hotkey":	"",
-			"name":	"忍术_爆",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2403005,
-			"hotkey":	"",
-			"name":	"忍术_乱",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	1002029,
-			"hotkey":	"",
-			"name":	"忍术_诬",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	3803004,
-			"hotkey":	"",
-			"name":	"【核心I】",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	2403007,
-			"hotkey":	"",
-			"name":	"忍术_逃",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	true,
-			"speedx":	true,
-			"skillud":	0,
-			"judge":	[{
-					"技能冷却中":	"忍术_乱"
-				}, {
-					"技能冷却中":	"忍术_爆"
-				}, {
-					"技能冷却中":	"忍术_诬"
-				}],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	6200106,
-			"hotkey":	"",
-			"name":	"[奈落]魔影突袭",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
-			"id":	32500039,
-			"hotkey":	"",
-			"name":	"敏锐怒火之钥",
-			"dmin":	0,
-			"dmax":	300,
-			"priority":	true,
-			"intact":	false,
-			"alone":	false,
-			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
-			"num":	0
-		}, {
-			"sw":	true,
 			"id":	66,
 			"hotkey":	"",
 			"name":	"圣物技能",
 			"dmin":	0,
-			"dmax":	300,
+			"dmax":	500,
 			"priority":	true,
 			"intact":	false,
 			"alone":	false,
@@ -808,27 +648,101 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	3803007,
+			"id":	66,
 			"hotkey":	"",
-			"name":	"【传奇】",
+			"name":	"圣物技能",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"dmax":	500,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"没有BUFF":	"圣物之力_81090001"
+				}, {
+					"圣物充能次数>=":	"2"
+				}],
+			"num":	12
+		}, {
+			"sw":	true,
+			"id":	3110145,
+			"hotkey":	"",
+			"name":	"第六感",
+			"dmin":	0,
+			"dmax":	500,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"AP<=":	"200"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	32500039,
+			"hotkey":	"",
+			"name":	"敏锐怒火之钥",
+			"dmin":	0,
+			"dmax":	450,
+			"priority":	true,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
 			"judge":	[],
+			"num":	12
+		}, {
+			"sw":	true,
+			"id":	1109405,
+			"hotkey":	"",
+			"name":	"升天斩",
+			"dmin":	0,
+			"dmax":	150,
+			"priority":	true,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	true,
+			"skillud":	0,
+			"judge":	[{
+					"技能非冷却":	"十字剑气"
+				}, {
+					"搜索内有首领":	""
+				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2403003,
+			"id":	1109405,
 			"hotkey":	"",
-			"name":	"忍术_幻",
+			"name":	"升天斩",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
+			"dmax":	150,
+			"priority":	true,
+			"intact":	false,
+			"alone":	true,
+			"reverse":	false,
+			"speedx":	true,
+			"skillud":	0,
+			"judge":	[{
+					"技能非冷却":	"狂风斩"
+				}, {
+					"搜索内有首领":	""
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1212005,
+			"hotkey":	"",
+			"name":	"狂风斩",
+			"dmin":	150,
+			"dmax":	500,
+			"priority":	true,
 			"intact":	true,
 			"alone":	false,
 			"reverse":	false,
@@ -838,11 +752,73 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2403004,
+			"id":	1107025,
 			"hotkey":	"",
-			"name":	"忍术_搅",
+			"name":	"十字剑气",
+			"dmin":	150,
+			"dmax":	550,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	2,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	3803604,
+			"hotkey":	"",
+			"name":	"【核心I】",
 			"dmin":	0,
-			"dmax":	300,
+			"dmax":	400,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1109505,
+			"hotkey":	"",
+			"name":	"天霸凄皇斩",
+			"dmin":	0,
+			"dmax":	500,
+			"priority":	true,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"拥有BUFF":	"无视击退_73000010"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1211005,
+			"hotkey":	"",
+			"name":	"天破侠乱",
+			"dmin":	0,
+			"dmax":	400,
+			"priority":	true,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1802401,
+			"hotkey":	"",
+			"name":	"[无限]风华圆舞",
+			"dmin":	0,
+			"dmax":	400,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
@@ -853,47 +829,124 @@
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2403002,
+			"id":	1109505,
 			"hotkey":	"",
-			"name":	"忍术_雷",
+			"name":	"天霸凄皇斩",
 			"dmin":	0,
-			"dmax":	300,
-			"priority":	false,
-			"intact":	false,
+			"dmax":	500,
+			"priority":	true,
+			"intact":	true,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	0,
-			"judge":	[],
+			"judge":	[{
+					"没有BUFF":	"无视击退_73000010"
+				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	1000029,
+			"id":	1210005,
 			"hotkey":	"",
-			"name":	"忍术_锁",
-			"dmin":	0,
-			"dmax":	300,
+			"name":	"乘天击",
+			"dmin":	280,
+			"dmax":	500,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
-			"speedx":	false,
-			"skillud":	0,
-			"judge":	[],
+			"speedx":	true,
+			"skillud":	1,
+			"judge":	[{
+					"技能冷却中":	"十字剑气"
+				}, {
+					"技能冷却中":	"狂风斩"
+				}, {
+					"技能冷却中":	"天霸凄皇斩"
+				}, {
+					"技能冷却中":	"天破侠乱"
+				}, {
+					"技能冷却中":	"[无限]风华圆舞"
+				}],
 			"num":	0
 		}, {
 			"sw":	true,
-			"id":	2403001,
+			"id":	1210005,
 			"hotkey":	"",
-			"name":	"忍术_速",
+			"name":	"乘天击",
 			"dmin":	0,
-			"dmax":	300,
+			"dmax":	280,
+			"priority":	false,
+			"intact":	false,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	true,
+			"skillud":	0,
+			"judge":	[{
+					"技能冷却中":	"十字剑气"
+				}, {
+					"技能冷却中":	"狂风斩"
+				}, {
+					"技能冷却中":	"天霸凄皇斩"
+				}, {
+					"技能冷却中":	"天破侠乱"
+				}, {
+					"技能冷却中":	"[无限]风华圆舞"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1107015,
+			"hotkey":	"",
+			"name":	"风卷残云",
+			"dmin":	0,
+			"dmax":	450,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
+			"judge":	[{
+					"技能冷却中":	"十字剑气"
+				}, {
+					"技能冷却中":	"狂风斩"
+				}, {
+					"技能冷却中":	"天霸凄皇斩"
+				}, {
+					"技能冷却中":	"天破侠乱"
+				}, {
+					"技能冷却中":	"[无限]风华圆舞"
+				}],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1107025,
+			"hotkey":	"",
+			"name":	"十字剑气",
+			"dmin":	0,
+			"dmax":	150,
 			"priority":	false,
 			"intact":	false,
 			"alone":	false,
 			"reverse":	false,
 			"speedx":	false,
 			"skillud":	2,
+			"judge":	[],
+			"num":	0
+		}, {
+			"sw":	true,
+			"id":	1212005,
+			"hotkey":	"",
+			"name":	"狂风斩",
+			"dmin":	0,
+			"dmax":	150,
+			"priority":	false,
+			"intact":	true,
+			"alone":	false,
+			"reverse":	false,
+			"speedx":	false,
+			"skillud":	0,
 			"judge":	[],
 			"num":	0
 		}],
@@ -3982,8 +4035,8 @@
 		}],
 	"dress_text":	[],
 	"diy_skill":	{
-		"[辉耀剑神]完美纳刀":	true,
-		"[英雄(刀)]连招":	false,
+		"[辉耀剑神]完美纳刀":	false,
+		"[英雄(刀)]连招":	true,
 		"[英雄(枪)]连招":	false,
 		"[剑圣]十字之刃秘技":	false,
 		"[剑圣]灵魂之刃秘技":	false,
@@ -4005,7 +4058,7 @@
 		"[术士]灵魂4":	false,
 		"[通用]魔免循环":	false,
 		"[通用]位移技能左右释放":	true,
-		"[诡焰妖灵]鬼术:模仿":	true
+		"[诡焰妖灵]鬼术:模仿":	false
 	},
 	"revive_diy":	[],
 	"item_filter_disassemble":	[{
